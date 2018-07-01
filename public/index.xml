@@ -33,6 +33,17 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Workshop: Explorar o Tor em Lisboa, Portugal</title>
+      <link>https://example.com/events/tormeetup/tormeetup/</link>
+      <pubDate>Thu, 28 Jun 2018 15:30:00 -1800</pubDate>
+      
+      <guid>https://example.com/events/tormeetup/tormeetup/</guid>
+      <description>[English version below]
+Recuperar a privacidade na internet pode parecer extremamente difícil, mas na verdade não é: na próxima semana daremos um workshop em Lisboa, Portugal em que explicaremos como é que o Tor pode ajudar nesse sentido.
+Juntem-se a nós para aprenderem como é que o Tor funciona e como é que pode ser usado para melhorar a privacidade pessoal na internet. Vamos explicar como é que o Tor consegue atingir um elevado grau de privacidade para os seu utilizadores, como utilizar o Tor Browser, bem como outras maneiras como o Tor pode melhorar a nossa privacidade.</description>
+    </item>
+    
+    <item>
       <title>First post!</title>
       <link>https://example.com/2015/01/first-post/</link>
       <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
@@ -79,12 +90,12 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://example.com/blog/</link>
+      <title>Ajudar</title>
+      <link>https://example.com/help.pt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/</guid>
-      <description>Contact us!</description>
+      <guid>https://example.com/help.pt/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ex vel orci dapibus aliquam non in metus. Vestibulum posuere justo nunc, eu eleifend orci dignissim in. Vestibulum eu eros neque. Quisque luctus posuere sapien nec accumsan. Maecenas mattis, nisl ac dictum ultrices, ligula eros vehicula eros, vel fermentum diam erat eget dolor. Suspendisse vitae felis ligula. Integer quis tincidunt risus, convallis ullamcorper dui. Suspendisse potenti. Sed scelerisque volutpat leo, at mattis ipsum posuere nec.</description>
     </item>
     
     <item>
@@ -94,6 +105,15 @@ Follow the following steps:
       
       <guid>https://example.com/contact/</guid>
       <description>Contact us!</description>
+    </item>
+    
+    <item>
+      <title>Where you can Help</title>
+      <link>https://example.com/help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/help/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ex vel orci dapibus aliquam non in metus. Vestibulum posuere justo nunc, eu eleifend orci dignissim in. Vestibulum eu eros neque. Quisque luctus posuere sapien nec accumsan. Maecenas mattis, nisl ac dictum ultrices, ligula eros vehicula eros, vel fermentum diam erat eget dolor. Suspendisse vitae felis ligula. Integer quis tincidunt risus, convallis ullamcorper dui. Suspendisse potenti. Sed scelerisque volutpat leo, at mattis ipsum posuere nec.</description>
     </item>
     
   </channel>

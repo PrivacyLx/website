@@ -74,7 +74,13 @@ Privacy | Lx
                 
                 <li class="nav-item ">
                     
-                        <a class="nav-link" href="/blog/">Blog</a>
+                        <a class="nav-link" href="/events/">Events</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/post/">Blog</a>
                     
                 </li>
                 
@@ -99,14 +105,15 @@ Privacy | Lx
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         
-                            <a class="dropdown-item" href="https://example.com/">English</a>
-                        
                             <a class="dropdown-item" href="https://example.com/es/">Español</a>
                         
                             <a class="dropdown-item" href="https://example.com/de/">Deutsch</a>
                         
+                            <a class="dropdown-item" href="https://example.com/">English</a>
+                        
                     </div>
                 </li>
+                <a class="btn btn-info" href="/ajudar">Ajudar</a>
             </ul>
             
         </div>
@@ -119,253 +126,61 @@ Privacy | Lx
 
           
 
-<div class="container">
-  <div class="row">
-    <div class="col-12 col-lg-8 blog-main">
-      
-      
-
-          
-              <article class="blog-post">
-    <header>
-        <h2 class="blog-post-title">
-            <a class="text-dark" href="/2014/09/creating-a-new-theme/">Creating a New Theme</a>
-        </h2>
-        
-
-
-<div class="blog-post-date text-secondary">
-    
-        Sep 28, 2014
-    
-    
-        by <span rel="author">Michael Henderson</span>
-    
-</div>
-
-        
-        
-    </header>
-    Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
-We&rsquo;ll start with creating a new site with a very basic template.
-    <p></p>
-    <a href="/2014/09/creating-a-new-theme/">Read More →</a>
-</article>
-          
-
-      
-
-          
-              <article class="blog-post">
-    <header>
-        <h2 class="blog-post-title">
-            <a class="text-dark" href="/2014/03/migrate-to-hugo-from-jekyll/">Migrate to Hugo from Jekyll</a>
-        </h2>
-        
-
-
-<div class="blog-post-date text-secondary">
-    
-        Mar 10, 2014
-    
-    
-        by <span rel="author">John Doe</span>
-    
-</div>
-
-        
-        
-    </header>
-    Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &lt;root&gt;/ ▾ images/ logo.png  should become
-▾ &lt;root&gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.
-    <p></p>
-    <a href="/2014/03/migrate-to-hugo-from-jekyll/">Read More →</a>
-</article>
-          
-
-      
-
-          
-              <article class="blog-post">
-    <header>
-        <h2 class="blog-post-title">
-            <a class="text-dark" href="/2015/01/first-post/">First post!</a>
-        </h2>
-        
-
-
-<div class="blog-post-date text-secondary">
-    
-        Jan 5, 2015
-    
-    
-        by <span rel="author">John Doe</span>
-    
-</div>
-
-        
-<div class="blog-post-tags text-secondary">
-    <strong>Tags:</strong>
-    
-        <a class="badge badge-primary" href="/tags/demo">demo</a>
-    
-</div>
-
-        
-    </header>
-    <p>This is my first post, how exciting!</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-
-<p></p>
-    <p></p>
-    <a href="/2015/01/first-post/">Read More →</a>
-</article>
-          
-
-      
-
-      
-
-<nav class="blog-pagination">
-    <ul class="pagination justify-content-center">
-        
-        <li class="page-item">
-            <a class="page-link" href="/" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-        </li>
-        
-        <li class="page-item disabled">
-            <a class="page-link" href="" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-        </li>
-        
-        
-            
-            
-            
-            
-                
-                
-            
-            
-                <li class="page-item active">
-                    <a class="page-link" href="/">1</a>
-                </li>
-            
-        
-            
-            
-            
-            
-                
-                
-            
-            
-                <li class="page-item ">
-                    <a class="page-link" href="/page/2/">2</a>
-                </li>
-            
-        
-            
-            
-            
-            
-                
-                
-            
-            
-                <li class="page-item ">
-                    <a class="page-link" href="/page/3/">3</a>
-                </li>
-            
-        
-        <li class="page-item ">
-            <a class="page-link" href="/page/2/" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-        </li>
-        
-            <li class="page-item">
-                <a class="page-link" href="/page/3/" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-            </li>
-        
-    </ul>
-</nav>
-
-    </div>
-    <aside class="col-12 col-lg-3 ml-auto blog-sidebar">
-    
-        
-
-
-<section>
-    <h4>Recent Posts</h4>
-    <ol class="list-unstyled">
-        
-        <li>
-            <a href="/2014/09/creating-a-new-theme/">Creating a New Theme</a>
-        </li>
-        
-        <li>
-            <a href="/2014/03/migrate-to-hugo-from-jekyll/">Migrate to Hugo from Jekyll</a>
-        </li>
-        
-        <li>
-            <a href="/2015/01/first-post/">First post!</a>
-        </li>
-        
-        <li>
-            <a href="/2014/04/hugo-template-primer/">(Hu)go Template Primer</a>
-        </li>
-        
-        <li>
-            <a href="/2014/04/getting-started-with-hugo/">Getting Started with Hugo</a>
-        </li>
-        
-    </ol>
-</section>
-
-    
-    
-        <section>
-    
-        
-        <h4>Categories</h4>
-        <p>
-            
-            <a class="badge badge-primary" href="/categories/development">development</a>
-            
-            <a class="badge badge-primary" href="/categories/golang">golang</a>
-            
-        </p>
-        
-    
-        
-    
-        
-        <h4>Tags</h4>
-        <p>
-            
-            <a class="badge badge-primary" href="/tags/demo">demo</a>
-            
-            <a class="badge badge-primary" href="/tags/development">development</a>
-            
-            <a class="badge badge-primary" href="/tags/go">go</a>
-            
-            <a class="badge badge-primary" href="/tags/golang">golang</a>
-            
-            <a class="badge badge-primary" href="/tags/hugo">hugo</a>
-            
-            <a class="badge badge-primary" href="/tags/templates">templates</a>
-            
-            <a class="badge badge-primary" href="/tags/themes">themes</a>
-            
-        </p>
-        
-    
-</section>
-    
-</aside>
+<main role="main">
+      <div class="jumbotron jumbotron-up">
+  <div class="container">
+    <h1 class="display-4">HS İstanbul Bağış Kampanyası</h1>
+    <p>Hackerspace İstanbul açıldı, ancak hayatta kalabilmesi için desteklerinize ihtiyacı var.  </p>
+    <p><a class="btn btn-dark btn-lg" href="https://patreon.com/hsist/memberships" role="button">Patreon »</a>
+      <a class="btn btn-dark btn-lg" href="https://bagis.hackerspace.ist" role="button">Kripto para »</a></p>
   </div>
 </div>
+<div class="container">
+<div class="row">
+          <div class="col-md-4">
+            <h3>Hackerspace İstanbul nedir?</h3>
+            <p> Hackerspace İstanbul; <strong>2018 yılında kurulmuş olan,</strong> el birliği ile toplanan imkanların bir arada bulunduğu, bilgisayar, elektronik, internet, DIY, sanat ve benzeri konulara ilgi duyan insanların beraber çalışabilecekleri, proje üretebilecekleri, sosyalleşebilecekleri ve etkinlikler düzenleyebilecekleri bir atölyedir.</p>
+            <p><a class="btn btn-dark" href="mekan.html" role="button">Mekan hakkında »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Hacking derken?</h3>
+            <p></p><blockquote>Hacking ifadesi gibi değişken bir ifade için basit bir tanım yapmak zordur; ama birçok hacker'ın ortak özelliği oyuncu, zeki ve keşifçi olmalarıdır. Bu nedenle hacking, oyuncu bir zeka ruhunda mümkün olanın sınırlarını keşfetmek anlamına gelmektedir. Oyuncu zeka gösteren etkinlikler “hack değeri”ne sahiptir.
+            <br>
+            <footer class="blockquote-footer">Richard Stallman, <cite title="Hacking Hakkında">“Hacking Hakkında”</cite></footer></blockquote><p></p>
+            <p><a class="btn btn-dark" href="https://stallman.org/articles/on-hacking.html" role="button">Hacking üzerine »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Üyeler kimlerdir, kaç kişi var? Mekanın bir yöneticisi var mı?</h3>
+            <p>HS'nin şu anda 13 adet üyesi bulunmaktadır. Üyelik, referans sistemiyle ilerlemektedir. <strong>Mekanın hiçbir yöneticisi yoktur,</strong> mekan otonom bir yapıdadır.Üyelik ve mevcuttaki üyeler hakkında için ayrıntılı bilgiyi aşağıdaki linkte bulabilirsiniz.</p>
+            <p><a class="btn btn-dark" href="uyeler.html" role="button">Üyeler »</a>
+            <a class="btn btn-dark" href="protokol.html#uyelik" role="button">Üyelik »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Bütçeniz ne durumda, mekan nasıl dönüyor?</h3>
+            <p>Hackerspace İstanbul, üyelerin aidatları ve gelen bağışlar ile hayatta kalmaktadır. HS'nin tek gelir kaynağı budur. Aşağıdaki linklerden mali durumumuzu inceleyebilir, arzu ederseniz bağışta bulunabilirsiniz.</p>
+            <p><a class="btn btn-dark" href="butce.html" role="button">Bütçe »</a>
+            <a class="btn btn-dark" href="https://bagis.hackerspace.ist" role="button">Bağış »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Mekan ne zamanlarda açık? Gelip çalışabilir miyiz?</h3>
+            <p>Her çarşamba saat 20:00'da açık toplantılarımız oluyor. Bu açık toplantılara gelerek üyeler ve diğer kullanıcılarla tanışıp kaynaşabilirsiniz. Mekan açık olduğu sürece mekana gelip, çalışmalarınızı yürütebilirsiniz.</p>
+            <p><a class="btn btn-dark" href="iletisim.html" role="button">İletişim »</a>
+          </p></div>
+          <div class="col-md-4">
+            <h3>Etkinlikleriniz oluyor mu? Etkinlik düzenleyebilir miyiz?</h3>
+            <p>Düzenli olarak mekanda etkinlik düzenlemeyi düşünüyoruz. Eğer <a href="protokol.html">protokolümüze</a> uygun olan bir etkinlik düzenleme yönünde bir talebiniz varsa, lütfen iletişim sayfamızdaki bilgileri kullanarak bizimle iletişime geçin. </p>
+            <p><a class="btn btn-dark" href="etkinlikler/" role="button">Etkinlikler »</a>
+            <a class="btn btn-dark" href="iletisim.html" role="button">İletişim »</a></p>
+          </div>
+        </div>
+      </div>
+
+
+
+<br>
+</main>
+
+
 
 
 

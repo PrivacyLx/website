@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Privacy | Lx</title>
+    <link>https://example.com/events/</link>
+    <description>Recent content in Events on Privacy | Lx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jun 2018 15:30:00 -1800</lastBuildDate>
+    
+	<atom:link href="https://example.com/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workshop: Explorar o Tor em Lisboa, Portugal</title>
+      <link>https://example.com/events/tormeetup/tormeetup/</link>
+      <pubDate>Thu, 28 Jun 2018 15:30:00 -1800</pubDate>
+      
+      <guid>https://example.com/events/tormeetup/tormeetup/</guid>
+      <description>[English version below]
+Recuperar a privacidade na internet pode parecer extremamente difícil, mas na verdade não é: na próxima semana daremos um workshop em Lisboa, Portugal em que explicaremos como é que o Tor pode ajudar nesse sentido.
+Juntem-se a nós para aprenderem como é que o Tor funciona e como é que pode ser usado para melhorar a privacidade pessoal na internet. Vamos explicar como é que o Tor consegue atingir um elevado grau de privacidade para os seu utilizadores, como utilizar o Tor Browser, bem como outras maneiras como o Tor pode melhorar a nossa privacidade.</description>
+    </item>
+    
+  </channel>
+</rss>

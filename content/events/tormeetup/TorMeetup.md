@@ -1,9 +1,12 @@
 ---
 title: "Workshop: Explorar o Tor em Lisboa, Portugal"
 author: "Francisco Core"
+date: "2018-06-28T15:30:00-18:00"
+image: "/img/TorMeetup.jpg"
+preview: true
 ---
 
-![imagem do workshop](https://raw.githubusercontent.com/PrivacyLx/Meetings/master/Resources/2018-06-28TorMeetingImage.jpg)
+![imagem do workshop](/img/TorMeetup.jpg)
 
 [English version below]
 

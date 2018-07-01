@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://example.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2015-01-05T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>https://example.com/es/sitemap.xml</loc>
 		
 	   	<lastmod>2015-01-05T00:00:00+00:00</lastmod>
@@ -19,6 +12,13 @@
 	   	<loc>https://example.com/de/sitemap.xml</loc>
 		
 	   	<lastmod>2015-01-05T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://example.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-06-28T15:30:00-18:00</lastmod>
 		
 	</sitemap>
 	
