@@ -1,0 +1,13 @@
+.blog-header, .blog-post, .blog-pagination {
+  margin-bottom: 2rem;
+}
+
+/* pushes the jumbotron up */
+.jumbotron-up {
+  margin-top:-2rem;
+}
+
+/* Make sure the image size is reasonable. */
+.blog-post img {
+  max-width: 100%;
+}
