@@ -17,7 +17,7 @@
                     </tr>
                   </thead>
                   <tbody>
-                    {{ range .Paginator.Pages }}
+                    {{ range (.Data.Pages.ByParam "publishdate").Reverse }}
                     <tr>
                       {{ $event_date := dateFormat "2006-01-02" .Params.eventdate }}
                       {{ $today := now.Format "2006-01-02" }}

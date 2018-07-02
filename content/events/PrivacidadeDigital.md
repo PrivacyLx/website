@@ -1,6 +1,7 @@
 ---
 title: "Workshop: Privacidade Digital"
 author: "Francisco Core & Kevin Gallagher"
+publishdate: "2018-06-10T10:30:00-12:30"
 eventdate: "2018-06-10T10:30:00-12:30"
 image: "/img/WorkshopPrivacidadeDigital.png"
 preview: false

@@ -1,8 +1,8 @@
 ---
-title: "Workshop: Explorar o Tor em Lisboa, Portugal"
+title: "[re-edição] Workshop: Explorar o Tor em Lisboa, Portugal"
 author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-06-28T15:30:00-18:00"
-eventdate: "2018-06-28T15:30:00-18:00"
+publishdate: "2018-06-30T15:30:00-18:00"
+eventdate: "2018-07-05T15:30:00-18:00"
 image: "/img/TorMeetup.jpg"
 preview: true
 description: "Recuperar a privacidade na internet pode parecer extremamente difícil, mas na verdade não é: neste workshop em que explicaremos como é que o Tor pode ajudar nesse sentido."
