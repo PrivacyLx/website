@@ -1,8 +1,8 @@
 {{ define "main"}}
 
 <main role="main">
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
-  {{ range first 1 $paginator.Pages }}
+
+  {{ range first 1 ((where .Data.Pages "Type" "events") (.Data.Pages.ByParam "publishdate")) }}
   {{ if .Params.preview }}
     <div class="jumbotron jumbotron-up" style="background-image: url({{ .Params.image }}); background-repeat: no-repeat;  background-size: cover;">
   {{ else }}
