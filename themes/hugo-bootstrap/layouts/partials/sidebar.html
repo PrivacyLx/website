@@ -5,4 +5,8 @@
     {{ if default true .Site.Params.sidebar.showTaxonomy }}
         {{ partial "taxonomies" . }}
     {{ end }}
+    <br>
+    {{ if .IsPage }}
+    {{ partial "page-edit" . }}
+    {{ end }}
 </aside>

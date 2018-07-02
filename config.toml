@@ -91,6 +91,8 @@ defaultContentLanguage = "en"
   # Default author
   author = "John Doe"
 
+  ghrepo = "https://github.com/PrivacyLx/website/"
+
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
 
