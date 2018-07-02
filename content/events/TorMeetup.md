@@ -4,7 +4,7 @@ author: "Francisco Core"
 date: "2018-06-28T15:30:00-18:00"
 image: "/img/TorMeetup.jpg"
 preview: true
-description:
+description: "Recuperar a privacidade na internet pode parecer extremamente difícil, mas na verdade não é: neste workshop em que explicaremos como é que o Tor pode ajudar nesse sentido."
 ---
 
 ![imagem do workshop](/img/TorMeetup.jpg)
