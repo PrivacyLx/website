@@ -5,9 +5,33 @@
 
 {{ $copyright := default $thanks .Site.Copyright }}
 
-<footer class="blog-footer w-100">
-    <nav class="navbar navbar-light bg-light">
+
+    <footer class="footer-bs">
+        <div class="row">
+          <div class="col-md-3"></div>
+
+        	<div class="col-md-3">
+                <p>An informal organization that aims at informing people about the privacy issues of the modern era.</p>
+          </div>
+        	<div class="col-md-3">
+            	<h4>Newsletter</h4>
+                <p>Informações sobre eventos</p>
+                <p>
+                    <div class="input-group">
+                      <input type="text" class="form-control" placeholder="e-mail">
+                      <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">📧</button>
+                      </span>
+                    </div>
+                 </p>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+    </footer>
+
+<!--<footer class="blog-footer w-100">
+    <nav class="navbar navbar-dark bg-dark">
         <p class="w-100 text-center">{{ $copyright }}</p>
         <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
     </nav>
-</footer>
+</footer>-->
