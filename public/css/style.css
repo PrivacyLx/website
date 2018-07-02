@@ -11,3 +11,17 @@
 .blog-post img {
   max-width: 100%;
 }
+
+.container-jumbotron {
+  background-color: rgba(234, 234, 234, 0.8);
+  padding-bottom: 0.2cm;
+  padding-left: 0.6cm;
+  padding-top: 0.3cm;
+  border-radius: 0.1cm;
+}
+
+.default-image {
+  background-image: url("/img/default_image1.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;"
+}
