@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Explorar o Tor em Lisboa, Portugal"
-author: "Francisco Core"
+author: "Kevin Gallagher & Francisco Core"
 date: "2018-06-28T15:30:00-18:00"
 image: "/img/TorMeetup.jpg"
 preview: true
