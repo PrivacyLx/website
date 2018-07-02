@@ -1,0 +1,76 @@
+{{ define "main"}}
+
+<main role="main">
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
+  {{ range first 1 $paginator.Pages }}
+  {{ if .Params.preview }}
+    <div class="jumbotron jumbotron-up" style="background-image: url({{ .Params.image }}); background-repeat: no-repeat;  background-size: cover;">
+  {{ else }}
+    <div class="jumbotron jumbotron-up default-image">
+  {{ end }}
+    <div class="container container-jumbotron">
+      <h1 class="display-4">
+         {{ .Title }}
+       </h1>
+       <p>{{ partial "post-date" . }}</p>
+       <p>{{ .Params.description }}</p>
+      <p><a class="btn btn-dark btn-lg" href="{{ .RelPermalink }}" role="button">{{ i18n "readMore" }}</a>
+    </div>
+  </div>
+  {{ end }}
+
+<div class="container">
+<div class="row">
+          <div class="col-md-4">
+            <h3>Hackerspace İstanbul nedir?</h3>
+            <p> Hackerspace İstanbul; <strong>2018 yılında kurulmuş olan,</strong> el birliği ile toplanan imkanların bir arada bulunduğu, bilgisayar, elektronik, internet, DIY, sanat ve benzeri konulara ilgi duyan insanların beraber çalışabilecekleri, proje üretebilecekleri, sosyalleşebilecekleri ve etkinlikler düzenleyebilecekleri bir atölyedir.</p>
+            <p><a class="btn btn-dark" href="mekan.html" role="button">Mekan hakkında »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Hacking derken?</h3>
+            <p></p><blockquote>Hacking ifadesi gibi değişken bir ifade için basit bir tanım yapmak zordur; ama birçok hacker'ın ortak özelliği oyuncu, zeki ve keşifçi olmalarıdır. Bu nedenle hacking, oyuncu bir zeka ruhunda mümkün olanın sınırlarını keşfetmek anlamına gelmektedir. Oyuncu zeka gösteren etkinlikler “hack değeri”ne sahiptir.
+            <br>
+            <footer class="blockquote-footer">Richard Stallman, <cite title="Hacking Hakkında">“Hacking Hakkında”</cite></footer></blockquote><p></p>
+            <p><a class="btn btn-dark" href="https://stallman.org/articles/on-hacking.html" role="button">Hacking üzerine »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Üyeler kimlerdir, kaç kişi var? Mekanın bir yöneticisi var mı?</h3>
+            <p>HS'nin şu anda 13 adet üyesi bulunmaktadır. Üyelik, referans sistemiyle ilerlemektedir. <strong>Mekanın hiçbir yöneticisi yoktur,</strong> mekan otonom bir yapıdadır.Üyelik ve mevcuttaki üyeler hakkında için ayrıntılı bilgiyi aşağıdaki linkte bulabilirsiniz.</p>
+            <p><a class="btn btn-dark" href="uyeler.html" role="button">Üyeler »</a>
+            <a class="btn btn-dark" href="protokol.html#uyelik" role="button">Üyelik »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Bütçeniz ne durumda, mekan nasıl dönüyor?</h3>
+            <p>Hackerspace İstanbul, üyelerin aidatları ve gelen bağışlar ile hayatta kalmaktadır. HS'nin tek gelir kaynağı budur. Aşağıdaki linklerden mali durumumuzu inceleyebilir, arzu ederseniz bağışta bulunabilirsiniz.</p>
+            <p><a class="btn btn-dark" href="butce.html" role="button">Bütçe »</a>
+            <a class="btn btn-dark" href="https://bagis.hackerspace.ist" role="button">Bağış »</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Mekan ne zamanlarda açık? Gelip çalışabilir miyiz?</h3>
+            <p>Her çarşamba saat 20:00'da açık toplantılarımız oluyor. Bu açık toplantılara gelerek üyeler ve diğer kullanıcılarla tanışıp kaynaşabilirsiniz. Mekan açık olduğu sürece mekana gelip, çalışmalarınızı yürütebilirsiniz.</p>
+            <p><a class="btn btn-dark" href="iletisim.html" role="button">İletişim »</a>
+          </p></div>
+          <div class="col-md-4">
+            <h3>Etkinlikleriniz oluyor mu? Etkinlik düzenleyebilir miyiz?</h3>
+            <p>Düzenli olarak mekanda etkinlik düzenlemeyi düşünüyoruz. Eğer <a href="protokol.html">protokolümüze</a> uygun olan bir etkinlik düzenleme yönünde bir talebiniz varsa, lütfen iletişim sayfamızdaki bilgileri kullanarak bizimle iletişime geçin. </p>
+            <p><a class="btn btn-dark" href="etkinlikler/" role="button">Etkinlikler »</a>
+            <a class="btn btn-dark" href="iletisim.html" role="button">İletişim »</a></p>
+          </div>
+        </div>
+      </div>
+
+
+
+<br>
+</main>
+
+<!--<div class="jumbotron">
+  <div class="container">
+    <h1 class="display-4">HS İstanbul Bağış Kampanyası</h1>
+    <p>Hackerspace İstanbul açıldı, ancak hayatta kalabilmesi için desteklerinize ihtiyacı var.  </p>
+    <p><a class="btn btn-dark btn-lg" href="https://patreon.com/hsist/memberships" role="button">Patreon »</a>
+      <a class="btn btn-dark btn-lg" href="https://bagis.hackerspace.ist" role="button">Kripto para »</a></p>
+  </div>
+</div>-->
+
+{{ end }}
