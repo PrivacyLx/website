@@ -8,7 +8,7 @@ preview: true
 description: "When you go to a Cryptoparty you learn about programs like GPG which allow you to send secure, encrypted messages using an ingenious system of key exchanges. You can also learn about secure messaging, anonymous web browsing and general tips for a safer web experience."
 ---
 
-![imagem do workshop](/img/TorMeetup.jpg)
+![imagem do workshop](/img/cryptoparty.jpg)
 
 [English version below]
 
