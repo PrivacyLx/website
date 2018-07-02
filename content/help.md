@@ -1,5 +1,5 @@
 ---
-title: "Where you can Help"
+title: "Organizar um Evento"
 author: "Francisco Core"
 ---
 
