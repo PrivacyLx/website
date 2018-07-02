@@ -1,8 +1,121 @@
 {{ define "main" }}
 
+
 <div class="container">
   <div class="row">
     <div class="col-12 col-lg-8 blog-main">
+
+      <h2 class="blog-post-title"> Próximos Eventos </h2><p></p>
+      <div class="agenda">
+              <div class="table-responsive">
+                <table class="table table-condensed table-bordered">
+                  <thead>
+                    <tr>
+                      <th>Tarih</th>
+                      <th>Saat</th>
+                      <th>Etkinlik</th>
+                      <th>Web sitesi</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr hidden="">
+                      <td class="agenda-date" rowspan="1">
+                        <div class="dayofmonth">20</div>
+                        <div class="dayofweek">Nisan '18</div>
+                        <div class="shortdate text-muted">Cuma</div>
+                      </td>
+                      <td class="agenda-time">
+                        20:00
+                      </td>
+                      <td class="agenda-events">
+                        <div class="agenda-event">
+                          Açılış partisi
+                        </div>
+                      </td>
+                      <td class="website"> <a href="../blog/hackerspace-istanbul-acilis-partisi.html">Ayrıntı bilgi</a> </td>
+                    </tr>
+                    <tr>
+                      <td class="agenda-date" rowspan="1">
+                        <div class="dayofmonth">26</div>
+                        <div class="dayofweek">Mayıs '18</div>
+                        <div class="shortdate text-muted">Cumartesi</div>
+                      </td>
+                      <td class="agenda-time">
+                        16:00
+                      </td>
+                      <td class="agenda-events">
+                        <div class="agenda-event">
+                          GNU/Linux ile Tanışma Atölyesi
+                        </div>
+                      </td>
+                      <td class="website">
+                        <a class="btn btn-outline-info" href="../blog/gnulinux-ile-tanisma-atolyesi.html">Ayrıntı bilgi</a>
+                        <a class="btn btn-outline-success" href="" hidden=""> Kayıt </a>
+                      </td>
+                    </tr>
+                    <tr hidden="">
+                      <td class="agenda-date" rowspan="1">
+                        <div class="dayofmonth">2</div>
+                        <div class="dayofweek">Haziran '18</div>
+                        <div class="shortdate text-muted">Cumartesi</div>
+                      </td>
+                      <td class="agenda-time">
+                        16:00
+                      </td>
+                      <td class="agenda-events">
+                        <div class="agenda-event">
+                          Git 101
+                        </div>
+                      </td>
+                      <td class="website">
+                        <a class="btn btn-outline-info" href="../blog/git-101-atolyesi.html">Ayrıntı bilgi</a>
+                        <a class="btn btn-outline-success" href="#"> Kayıt </a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="agenda-date" rowspan="1">
+                        <div class="dayofmonth">9</div>
+                        <div class="dayofweek">Haziran '18</div>
+                        <div class="shortdate text-muted">Cumartesi</div>
+                      </td>
+                      <td class="agenda-time">
+                        16:00
+                      </td>
+                      <td class="agenda-events">
+                        <div class="agenda-event">
+                          CryptoParty #0
+                        </div>
+                      </td>
+                      <td class="website">
+                        <a class="btn btn-outline-info" href="../blog/cryptoparty-0.html">Ayrıntı bilgi</a>
+                        <a class="btn btn-outline-success" href=""> Kayıt </a>
+                      </td>              </tr>
+                    <tr>
+                      <td class="agenda-date" rowspan="1">
+                        <div class="dayofmonth">??</div>
+                        <div class="dayofweek">Haziran '18</div>
+                        <div class="shortdate text-muted">Cumartesi</div>
+                      </td>
+                      <td class="agenda-time">
+                        16:00
+                      </td>
+                      <td class="agenda-events">
+                        <div class="agenda-event">
+                          6698 Sayılı Kişisel Verilerin Korunması Kanunu ve Verinin Geleceği
+                        </div>
+                      </td>
+                      <td class="website">
+                        <a class="btn btn-outline-info" href="../blog/6698-sayili-kisisel-verilerin-korunmasi-kanunu-ve-verinin-gelecegi.html">Ayrıntı bilgi</a>
+                        <a class="btn btn-outline-success" href="mailto:kayit@hackerspace.ist"> Kayıt </a>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+        <hr><br>
+
       {{ $truncate := default true .Site.Params.truncate }}
       {{ range .Paginator.Pages }}
 

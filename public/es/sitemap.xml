@@ -137,27 +137,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/es/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/categories/development/"
-                />
-  </url>
-  
-  <url>
     <loc>https://example.com/es/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -175,6 +154,27 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://example.com/es/tags/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/es/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://example.com/es/categories/development/"
                 />
   </url>
   
@@ -220,27 +220,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/es/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/categories/golang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/golang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/categories/golang/"
-                />
-  </url>
-  
-  <url>
     <loc>https://example.com/es/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -258,6 +237,27 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://example.com/es/tags/golang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/es/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/categories/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://example.com/es/categories/golang/"
                 />
   </url>
   

@@ -1,0 +1,54 @@
+.blog-header, .blog-post, .blog-pagination {
+  margin-bottom: 2rem;
+}
+
+/* pushes the jumbotron up */
+.jumbotron-up {
+  margin-top:-2rem;
+}
+
+/* Make sure the image size is reasonable. */
+.blog-post img {
+  max-width: 100%;
+}
+
+.container-jumbotron {
+  background-color: rgba(234, 234, 234, 0.8);
+  padding-bottom: 0.2cm;
+  padding-left: 0.6cm;
+  padding-top: 0.3cm;
+  border-radius: 0.1cm;
+}
+
+.default-image {
+  background-image: url("/img/default_image1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;"
+}
+
+
+.footer-bs {
+  background-color: #3c3d41;
+	padding: 60px 40px;
+	color: rgba(255,255,255,1.00);
+  width: 100%;
+}
+
+/* agenda */
+
+.agenda .agenda-date {
+  width: 170px;
+}
+
+.agenda .agenda-date .dayofmonth {
+  width: 40px;
+  font-size: 36px;
+  line-height: 36px;
+  float: left;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.agenda .agenda-date .shortdate {
+  font-size: 0.75em;
+}
