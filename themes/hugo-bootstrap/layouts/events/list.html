@@ -11,104 +11,42 @@
                 <table class="table table-condensed table-bordered">
                   <thead>
                     <tr>
-                      <th>Tarih</th>
-                      <th>Saat</th>
-                      <th>Etkinlik</th>
-                      <th>Web sitesi</th>
+                      <th>Data</th>
+                      <th>Hora</th>
+                      <th>Evento</th>
                     </tr>
                   </thead>
                   <tbody>
-                    <tr hidden="">
-                      <td class="agenda-date" rowspan="1">
-                        <div class="dayofmonth">20</div>
-                        <div class="dayofweek">Nisan '18</div>
-                        <div class="shortdate text-muted">Cuma</div>
-                      </td>
-                      <td class="agenda-time">
-                        20:00
-                      </td>
-                      <td class="agenda-events">
-                        <div class="agenda-event">
-                          Açılış partisi
-                        </div>
-                      </td>
-                      <td class="website"> <a href="../blog/hackerspace-istanbul-acilis-partisi.html">Ayrıntı bilgi</a> </td>
-                    </tr>
+                    {{ range .Paginator.Pages }}
                     <tr>
-                      <td class="agenda-date" rowspan="1">
-                        <div class="dayofmonth">26</div>
-                        <div class="dayofweek">Mayıs '18</div>
-                        <div class="shortdate text-muted">Cumartesi</div>
-                      </td>
-                      <td class="agenda-time">
-                        16:00
-                      </td>
-                      <td class="agenda-events">
-                        <div class="agenda-event">
-                          GNU/Linux ile Tanışma Atölyesi
-                        </div>
-                      </td>
-                      <td class="website">
-                        <a class="btn btn-outline-info" href="../blog/gnulinux-ile-tanisma-atolyesi.html">Ayrıntı bilgi</a>
-                        <a class="btn btn-outline-success" href="" hidden=""> Kayıt </a>
-                      </td>
-                    </tr>
-                    <tr hidden="">
-                      <td class="agenda-date" rowspan="1">
-                        <div class="dayofmonth">2</div>
-                        <div class="dayofweek">Haziran '18</div>
-                        <div class="shortdate text-muted">Cumartesi</div>
-                      </td>
-                      <td class="agenda-time">
-                        16:00
-                      </td>
-                      <td class="agenda-events">
-                        <div class="agenda-event">
-                          Git 101
-                        </div>
-                      </td>
-                      <td class="website">
-                        <a class="btn btn-outline-info" href="../blog/git-101-atolyesi.html">Ayrıntı bilgi</a>
-                        <a class="btn btn-outline-success" href="#"> Kayıt </a>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td class="agenda-date" rowspan="1">
-                        <div class="dayofmonth">9</div>
-                        <div class="dayofweek">Haziran '18</div>
-                        <div class="shortdate text-muted">Cumartesi</div>
-                      </td>
-                      <td class="agenda-time">
-                        16:00
-                      </td>
-                      <td class="agenda-events">
-                        <div class="agenda-event">
-                          CryptoParty #0
-                        </div>
-                      </td>
-                      <td class="website">
-                        <a class="btn btn-outline-info" href="../blog/cryptoparty-0.html">Ayrıntı bilgi</a>
-                        <a class="btn btn-outline-success" href=""> Kayıt </a>
-                      </td>              </tr>
-                    <tr>
-                      <td class="agenda-date" rowspan="1">
-                        <div class="dayofmonth">??</div>
-                        <div class="dayofweek">Haziran '18</div>
-                        <div class="shortdate text-muted">Cumartesi</div>
-                      </td>
-                      <td class="agenda-time">
-                        16:00
-                      </td>
-                      <td class="agenda-events">
-                        <div class="agenda-event">
-                          6698 Sayılı Kişisel Verilerin Korunması Kanunu ve Verinin Geleceği
-                        </div>
-                      </td>
-                      <td class="website">
-                        <a class="btn btn-outline-info" href="../blog/6698-sayili-kisisel-verilerin-korunmasi-kanunu-ve-verinin-gelecegi.html">Ayrıntı bilgi</a>
-                        <a class="btn btn-outline-success" href="mailto:kayit@hackerspace.ist"> Kayıt </a>
-                      </td>
-                    </tr>
+                      {{ $event_date := dateFormat "2006-01-02" .Params.eventdate }}
+                      {{ $today := now.Format "2006-01-02" }}
+                      {{ $month := dateFormat "January " .Params.eventdate }}
+                      {{ $year := dateFormat "'06" .Params.eventdate }}
+                      {{ $day := dateFormat "2" .Params.eventdate }}
+                      {{ $weekday := dateFormat "Monday" .Params.eventdate }}
+                      {{ $time := dateFormat "15:04h" .Params.eventdate }}
+
+                      {{ if gt $event_date $today }}
+                      <!--{{ dateFormat "Monday, Jan 2, 2006" "2015-01-21" }}-->
+                        <td class="agenda-date" rowspan="1">
+
+                                  <!-- Print the Date instead of PublishDate if PublishDate is defined but at its initial value of Jan 1, 0001 -->
+                                <div class="dayofmonth">{{ $day }}</div>
+                                <div class="dayofweek">{{ $month }} {{ $year }}</div>
+                                <div class="shortdate text-muted">{{ $weekday }}</div>
+                          </td>
+                        <td class="agenda-time">
+                          <h4><span class="badge badge-light">{{ $time }}</span></h4>
+                        </td>
+                        <td class="agenda-event">
+                          <a class="dark-link" href="{{ .RelPermalink }}">
+                            {{ .Params.title }}
+                          </a>
+                        </tr>
+                      <tr>
+                        {{ end }}
+                    {{ end }}
                   </tbody>
                 </table>
               </div>
@@ -132,5 +70,4 @@
     {{ partial "sidebar.html" . }}
   </div>
 </div>
-
 {{ end }}

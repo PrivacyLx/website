@@ -12,6 +12,8 @@
   max-width: 100%;
 }
 
+/* jumbotron Specific */
+
 .container-jumbotron {
   background-color: rgba(234, 234, 234, 0.8);
   padding-bottom: 0.2cm;
@@ -32,6 +34,10 @@
 	padding: 60px 40px;
 	color: rgba(255,255,255,1.00);
   width: 100%;
+}
+
+.jumbotron-author {
+  color: black !important;
 }
 
 /* agenda */

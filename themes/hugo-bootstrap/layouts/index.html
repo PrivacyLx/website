@@ -12,7 +12,7 @@
       <h1 class="display-4">
          {{ .Title }}
        </h1>
-       <p>{{ partial "post-date" . }}
+       <p><strong style="color: black !important">{{ partial "post-date" . }}</strong>
        {{ .Params.description }}</p>
       <p><a class="btn btn-dark btn-lg" href="{{ .RelPermalink }}" role="button">{{ i18n "readMore" }}</a>
     </div>
