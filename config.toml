@@ -38,10 +38,7 @@ defaultContentLanguage = "en"
     url = "/about/"
     name = "About"
     weight = 4
-  [[languages.en.menu.main]]
-    url = "/contact/"
-    name = "Contact"
-    weight = 5
+
 
 [languages.es]
   languageName = "Español"
@@ -58,10 +55,7 @@ defaultContentLanguage = "en"
     url = "/about/"
     name = "Acerca de"
     weight = 3
-  [[languages.es.menu.main]]
-    url = "/contact/"
-    name = "Contacto"
-    weight = 4
+
 
 [languages.de]
   languageName = "Deutsch"
@@ -74,10 +68,6 @@ defaultContentLanguage = "en"
     url = "/about/"
     name = "Über uns"
     weight = 2
-  [[languages.de.menu.main]]
-    url = "/contact/"
-    name = "Kontakt"
-    weight = 3
 
 # Links format
 
@@ -89,7 +79,7 @@ defaultContentLanguage = "en"
   mainSections = ["post"]
 
   # Default author
-  author = "John Doe"
+  author = "Francisco Core"
 
   ghrepo = "https://github.com/PrivacyLx/website/"
 
