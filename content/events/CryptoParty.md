@@ -23,10 +23,3 @@ na Biblioteca dos Coruchéus
 Rua Alberto Oliveira
 1700-019 Lisboa
 (Freguesia de Alvalade)
-
-********************************
-
-Featured here:
-* [tor blog](https://blog.torproject.org/workshop-explorar-o-tor-em-lisboa-portugal-meetup-explore-tor-lisboa-portugal)
-* [Libraries of Lisbon's facebook page](https://www.facebook.com/events/2013235462020934/)
-* [Torproject's twitter](https://twitter.com/torproject/status/1009741489423962118)
