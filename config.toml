@@ -30,10 +30,10 @@ defaultContentLanguage = "en"
     url = "/events/"
     name = "Events"
     weight = 2
-  [[languages.en.menu.main]]
-  url = "/post/"
-  name = "Blog"
-  weight = 3
+  #[[languages.en.menu.main]]
+  #url = "/post/"
+  #name = "Blog"
+  #weight = 3
   [[languages.en.menu.main]]
     url = "/about/"
     name = "About"
@@ -47,10 +47,10 @@ defaultContentLanguage = "en"
     url = "/es/"
     name = "Casa"
     weight = 1
-  [[languages.es.menu.main]]
-    url = "/blog/"
-    name = "Blog"
-    weight = 2
+  #[[languages.es.menu.main]]
+#    url = "/blog/"
+#    name = "Blog"
+#    weight = 2
   [[languages.es.menu.main]]
     url = "/about/"
     name = "Acerca de"

@@ -18,7 +18,7 @@ Durante o workshop serão experimentados alguns programas de computador e apps d
 
 #### Onde e Quando?
 
-Quinta-feira, 14 de Julho às 15:30h
+Sábado, 14 de Julho às 15:30h
 na Biblioteca dos Coruchéus
 Rua Alberto Oliveira
 1700-019 Lisboa

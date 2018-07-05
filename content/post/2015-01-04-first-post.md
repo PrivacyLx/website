@@ -4,9 +4,8 @@ date: 2015-01-05
 tags: ["demo"]
 ---
 
-This is my first post, how exciting!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+This is our first post
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 <!--more-->
 

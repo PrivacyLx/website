@@ -4,7 +4,7 @@
 {{ $eventdate := .Params.eventdate }}
 <div class="blog-post-date text-secondary">
     {{ if $eventdate }}
-        {{ dateFormat $dateFormat .Params.eventdate }}
+          {{ dateFormat $dateFormat .Params.eventdate }}
     {{ end }}
     {{ if $author }}
         {{ i18n "by" }} <span rel="author">{{ $author }}</span>
