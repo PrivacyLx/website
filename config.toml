@@ -34,10 +34,10 @@ defaultContentLanguage = "en"
   #url = "/post/"
   #name = "Blog"
   #weight = 3
-  [[languages.en.menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 4
+  #[[languages.en.menu.main]]
+  #  url = "/about/"
+  #  name = "About"
+  #  weight = 4
 
 
 [languages.es]
@@ -51,10 +51,10 @@ defaultContentLanguage = "en"
 #    url = "/blog/"
 #    name = "Blog"
 #    weight = 2
-  [[languages.es.menu.main]]
-    url = "/about/"
-    name = "Acerca de"
-    weight = 3
+  #[[languages.es.menu.main]]
+  #  url = "/about/"
+  #  name = "Acerca de"
+  #  weight = 3
 
 
 [languages.de]
@@ -64,10 +64,10 @@ defaultContentLanguage = "en"
     url = "/de/"
     name = "Start"
     weight = 1
-  [[languages.de.menu.main]]
-    url = "/about/"
-    name = "Über uns"
-    weight = 2
+  #[[languages.de.menu.main]]
+  #  url = "/about/"
+  #  name = "Über uns"
+  #  weight = 2
 
 # Links format
 
