@@ -23,3 +23,7 @@ na Biblioteca dos Coruchéus
 Rua Alberto Oliveira
 1700-019 Lisboa
 (Freguesia de Alvalade)
+
+#### Contactos
+francisco.core {at] protonmail.com
+kevin.gallagher {at] nyu.edu
