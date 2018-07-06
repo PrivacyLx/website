@@ -13,12 +13,12 @@ description: "When you go to a Cryptoparty you learn about programs like GPG whi
 Cryptoparties são workshops de formato aberto com o objetivo de proporcionar a troca de conhecimentos sobre como podemos proteger a privacidade no mundo digital.
 
 Abordaremos tópicos como:
- - Tor / browsers
- - Segurança de comunicações
- - Extensões para browsers que aumentam a privacidade
- - motores de busca
- - encriptação de e-mail
- - etc...
+ * Tor / browsers
+ * Segurança de comunicações
+ * Extensões para browsers que aumentam a privacidade
+ * motores de busca
+ * encriptação de e-mail
+ * etc...
 
 Mais informações sobre o que são cryptoparties [aqui](https://www.cryptoparty.in/).
 
