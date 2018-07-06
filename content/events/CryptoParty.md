@@ -2,7 +2,7 @@
 title: "Cryptoparty em Lisboa"
 author: "Kevin Gallagher & Francisco Core"
 publishdate: "2018-06-30T15:31:00-18:00"
-eventdate: "2018-07-14T15:30:00-18:00"
+eventdate: "2018-07-14T15:00:00-18:00"
 image: "/img/cryptoparty.jpg"
 preview: true
 description: "When you go to a Cryptoparty you learn about programs like GPG which allow you to send secure, encrypted messages using an ingenious system of key exchanges. You can also learn about secure messaging, anonymous web browsing and general tips for a safer web experience."
@@ -29,7 +29,7 @@ Mais informações sobre o que são cryptoparties [aqui](https://www.cryptoparty
 #### Onde e Quando?
 
 **entrada livre** |
-Sábado, 14 de Julho às 15:30h
+Sábado, 14 de Julho às 15:00h
 
 > Biblioteca dos Coruchéus
 Rua Alberto Oliveira
@@ -40,3 +40,6 @@ Rua Alberto Oliveira
 
 * Francisco -  francisco.core {at] protonmail.com
 * Kevin - kevin.gallagher {at] nyu.edu
+
+### Editção
+Corrigi a data das 15:30 para as 15:00. Erro meu (Francisco)
