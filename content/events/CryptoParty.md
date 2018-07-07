@@ -40,6 +40,3 @@ Rua Alberto Oliveira
 
 * Francisco -  francisco.core {at] protonmail.com
 * Kevin - kevin.gallagher {at] nyu.edu
-
-### Editção
-Corrigi a data das 15:30 para as 15:00. Erro meu (Francisco)
