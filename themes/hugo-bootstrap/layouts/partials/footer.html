@@ -7,20 +7,18 @@
 
 
     <footer class="footer-bs">
-        <div class="row">
-          <div class="col-1"></div>
 
-        	<div class="col-10">
-                <p>An informal organization that aims at informing people about the privacy issues of the modern era.</p>
-          </div>
-
-          <div class="col-1">
-            {{ if gt (len .Site.Home.AllTranslations) 1 }}
-            {{ range .Site.Home.AllTranslations }}
-            <a type="button" style=""class="btn btn-dark" href="{{ .Permalink }}">{{ .Language }}</a>
-            {{ end }}
-            {{ end }}
-          </div>
+        <div class="d-flex justify-content-center">
+          <p>An informal organization that aims at informing people about the privacy issues of the modern era.</p>
+        </div>
+        <div class="d-flex justify-content-center">
+          {{ if gt (len .Site.Home.AllTranslations) 1 }}
+          {{ range .Site.Home.AllTranslations }}
+          <a type="button" style=""class="btn btn-dark" href="{{ .Permalink }}">{{ .Language }}</a>
+          <h5> </h5>
+          {{ end }}
+          {{ end }}
+        </div>
         	<!--<div class="col-md-3">
             	<h4>Newsletter</h4>
                 <p>Informações sobre eventos</p>
