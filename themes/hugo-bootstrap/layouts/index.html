@@ -35,7 +35,7 @@
                 {{ $weekday := dateFormat "Monday" .Params.eventdate }}
                 {{ $time := dateFormat "15:04h" .Params.eventdate }}
                 <!--{{ dateFormat "Monday, Jan 2, 2006" "2015-01-21" }}-->
-                <div class="agenda" style="float:right;">
+                <div class="hideagenda agenda" style="float:right;">
                   <div class="agenda-date" rowspan="1">
                             <!-- Print the Date instead of PublishDate if PublishDate is defined but at its initial value of Jan 1, 0001 -->
                           <div class="dayofmonth">{{ $day }}</div>
