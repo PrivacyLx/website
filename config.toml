@@ -2,6 +2,10 @@ baseurl = "http://privacylx.org/"
 title = "Privacy | Lx"
 languageCode = "pt-PT"
 
+# Languages
+defaultContentLanguage = "pt"
+DefaultContentLanguageInSubdir = false
+
 # Pagination
 paginate = 3
 paginatePath = "page"
@@ -13,10 +17,6 @@ theme = "hugo-bootstrap"
   tag = "tags"
   category = "categories"
 
-# Languages
-defaultContentLanguage = "pt"
-DefaultContentLanguageInSubdir = false
-
 
 [languages]
 [languages.pt]
@@ -26,7 +26,7 @@ DefaultContentLanguageInSubdir = false
 
   [[languages.pt.menu.main]]
     url = "/"
-    name = "Casa"
+    name = "Home"
     weight = 1
   [[languages.pt.menu.main]]
     url = "/events/"
