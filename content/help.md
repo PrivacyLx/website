@@ -1,44 +1,14 @@
 ---
-title: "Organizar um Evento"
+title: "Ajudar"
 author: "Francisco Core"
-draft: true
 ---
 
-## Taken from the privacy cafe. Use this as inspiration
-https://privacycafe.bof.nl/tips-voor-het-organiseren-van-een-privacy-cafe/
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ex vel orci dapibus aliquam non in metus. Vestibulum posuere justo nunc, eu eleifend orci dignissim in. Vestibulum eu eros neque. Quisque luctus posuere sapien nec accumsan. Maecenas mattis, nisl ac dictum ultrices, ligula eros vehicula eros, vel fermentum diam erat eget dolor. Suspendisse vitae felis ligula. Integer quis tincidunt risus, convallis ullamcorper dui. Suspendisse potenti. Sed scelerisque volutpat leo, at mattis ipsum posuere nec. Cras id velit imperdiet, laoreet lorem et, feugiat elit. Donec vitae odio fringilla, porttitor eros vel, varius magna.
 
-Organizing a Privacy Café is challenging and rewarding work. Read the following information carefully and remember: you do not have to do everything alone. A Privacy Café is ideally carried by different people. This increases quality, lowers the workload and makes organizing a Café more fun.
+Nulla molestie laoreet tortor, nec congue eros lacinia eget. Etiam aliquet odio semper felis ultrices, eget suscipit ex interdum. Proin maximus, dolor ac suscipit pretium, metus sapien pulvinar velit, posuere placerat libero urna nec dui. Praesent sed porttitor lacus. Suspendisse volutpat tempor gravida. Nam a dolor sed erat hendrerit porttitor. Sed semper eget sem et mollis. Integer ultrices luctus tellus, vitae semper augue tristique et. Phasellus sit amet ornare libero. Etiam risus tortor, suscipit non tempor vitae, sodales quis elit. Aliquam convallis nisl ac erat euismod scelerisque. Vivamus ornare lectus sit amet nisl facilisis maximus. Nulla interdum eu diam sit amet auctor. Nulla dapibus laoreet metus, et lacinia nulla facilisis ut. Duis volutpat nibh maximus ultrices sollicitudin. Curabitur orci justo, finibus ac ipsum eget, scelerisque pharetra elit.
 
-1. Prick a date
-Everything talks a lot easier if you have a concrete date in your head. Keep in mind your target group and other volunteers.
+In hac habitasse platea dictumst. Suspendisse facilisis justo posuere, luctus mi vel, elementum quam. Nullam imperdiet elit a erat gravida pretium. Cras pretium metus odio, tristique interdum urna varius a. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent fringilla mauris id tincidunt varius. Aliquam erat volutpat. Suspendisse vitae euismod neque. Maecenas porta mauris a lectus suscipit, vehicula dictum odio condimentum. Ut at luctus enim, in pretium urna.
 
-2. Select a location
+Phasellus sagittis at mauris vitae mattis. Proin sed tortor fringilla, porta risus sed, faucibus odio. Maecenas fermentum vitae metus sit amet rutrum. Fusce porttitor elit vitae nisi sollicitudin luctus. Nunc purus urna, porttitor quis neque ac, viverra volutpat arcu. Sed pulvinar pellentesque placerat. Praesent iaculis, nisl non efficitur fermentum, lacus ligula porta tortor, feugiat dapibus diam justo a sapien. Sed neque odio, fermentum eu convallis non, consequat sollicitudin sem. Nullam placerat augue sed tortor ultricies vulputate. Nunc cursus elit at consectetur accumsan. Suspendisse potenti. Cras ultrices interdum dui vitae consequat. Maecenas porta mauris urna, in fermentum nisi pharetra eu.
 
-A Privacy Café needs outlets and an internet connection, tea, coffee and biscuits. (View here the checklist "What should be present at the location".) We think it is important that a Privacy Café is always accessible free of charge. Privacy Cafes are often organized at libraries, or in youth and community centers. But in fact every public place can house a Privacy Café. In addition to the location, think of other partners, such as a local hackerspace, medialab or community center.
-
-3. Create a team
-
-  You never only organize a Privacy Café. There are different ways to find volunteers who can help you. We encourage you to try them all.
-
-  Let everyone in your area know that you are going to organize a Privacy Café and are in need of help. You do not only need people who want to help visitors, but maybe someone wants to make photos, people can continue the question in their own network, or a friend or girlfriend likes to write a report of the afternoon.
-
-  Ask the location if they can place a call for volunteers on their website / in their newsletter. Or maybe you can hang up a poster or a note on location indicating that help is being sought.
-
-  Send an email to the volunteer mailing list of the Privacy Café.
-
-4. Communicate
-
-Place a poster and flyers at the location
-
-Use our pre-fab press release to notify the local press a week in advance of the event and invite them to be present
-Make sure you spread your appeal among a diverse audience. After all, that is the purpose of the Privacy Café. Work together with the partners so that you not only reach your own acquaintances: preaching for your own parish is a waste of everyone's time.
-Ask the location to send a press release, and write a piece for her website.
-Provide at least one month in advance what the plans are, then we ensure that the event is placed in the Privacy Café agenda.
-Provide a good photographer and blogger, then you can log on to the Privacy Café site after the event about how it went. For future editions it is good to have a lot of documentation. Explain to those present why you are taking photos and give them the opportunity to indicate if they do not want to display.
-
-Relevant links
-
-What should be present at the location?
-How do I give a good presentation?
-Didactic tips.
-Press, presentation and image material.
+Donec a ex sit amet mauris accumsan sagittis vel eget turpis. In leo lorem, dignissim vitae justo sit amet, congue porttitor nisi. Nunc commodo mattis dapibus. Proin condimentum sagittis euismod. Quisque consectetur velit sed volutpat dignissim. Proin ac enim metus. Quisque eu arcu sapien. In hac habitasse platea dictumst. Etiam scelerisque urna risus, a sagittis diam ornare sed.

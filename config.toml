@@ -1,6 +1,10 @@
 baseurl = "https://privacylx.org/"
 title = "Privacy | Lx"
-languageCode = "en-us"
+languageCode = "pt-PT"
+
+# Languages
+defaultContentLanguage = "pt"
+DefaultContentLanguageInSubdir = false
 
 # Pagination
 paginate = 3
@@ -13,17 +17,41 @@ theme = "hugo-bootstrap"
   tag = "tags"
   category = "categories"
 
-# Languages
-defaultContentLanguage = "en"
+
+[languages]
+[languages.pt]
+  languageName = "Portugês"
+  weight = 13
+  url = "/"
+
+  [[languages.pt.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.pt.menu.main]]
+    url = "/events/"
+    name = "Eventos"
+    weight = 2
+  #[[languages.pt.menu.main]]en1
+  #  url = "/blog/"
+  #  name = "Blog"
+  #  weight = 3
+  #[[languages.pt.menu.main]]
+  #  url = "/about/"
+  #  name = "Acerca de"
+  #  weight = 3
+
 
 [languages.en]
   languageName = "English"
+  weight = 1
+  url = "/en/"
 
   # Replace the default footer message with a localized message
   # copyright = "Hugo template made with ❤ by Xzya"
 
   [[languages.en.menu.main]]
-    url = "/"
+    url = "/en/"
     name = "Home"
     weight = 1
   [[languages.en.menu.main]]
@@ -40,36 +68,6 @@ defaultContentLanguage = "en"
   #  weight = 4
 
 
-[languages.es]
-  languageName = "Español"
-
-  [[languages.es.menu.main]]
-    url = "/es/"
-    name = "Casa"
-    weight = 1
-  #[[languages.es.menu.main]]
-#    url = "/blog/"
-#    name = "Blog"
-#    weight = 2
-  #[[languages.es.menu.main]]
-  #  url = "/about/"
-  #  name = "Acerca de"
-  #  weight = 3
-
-
-[languages.de]
-  languageName = "Deutsch"
-
-  [[languages.de.menu.main]]
-    url = "/de/"
-    name = "Start"
-    weight = 1
-  #[[languages.de.menu.main]]
-  #  url = "/about/"
-  #  name = "Über uns"
-  #  weight = 2
-
-# Links format
 
 [permalinks]
   post = "/:year/:month/:title/"
@@ -79,7 +77,7 @@ defaultContentLanguage = "en"
   mainSections = ["post"]
 
   # Default author
-  author = "Francisco Core"
+  author = "Anonymous"
 
   ghrepo = "https://github.com/PrivacyLx/website/"
 

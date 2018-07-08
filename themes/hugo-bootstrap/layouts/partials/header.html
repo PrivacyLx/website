@@ -14,23 +14,28 @@
             <ul class="navbar-nav">
               {{ $url := .URL | relLangURL }}
               {{ range .Site.Menus.main }}
-              <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
-                  {{ if eq (hasPrefix .URL "mailto:") true }}
-                      <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                  {{ else }}
-                      <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-                  {{ end }}
-              </li>
+                {{ if eq (.URL ) "/events/" }} <!-- Make events be a button -->
+                <h5> </h5>
+                <a class="btn btn-info " href="{{ .URL }}">{{ .Name }}</a>
+                {{ else }}
+                <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
+                    {{ if eq (hasPrefix .URL "mailto:") true }}
+                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                    {{ else }}
+                        <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                </li>
+                {{ end }}
               {{ end }}
-              <!-- CHANGE LANGUAGE PART
-              {{ if gt (len .Site.Home.AllTranslations) 1 }}
+              <!-- CHANGE LANGUAGE PART-->
+              <!--{{ if gt (len .Site.Home.AllTranslations) 1 }}
                 {{ range .Site.Home.AllTranslations }}
                     <a class="nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
                 {{ end }}
               {{ end }}-->
 
-            <h5> </h5>
-            <!--<a class="btn btn-info" href="/help">Organizar um Evento</a> ORGANIZE EVENT              -->
+            <!--<h5> </h5>
+            <a class="btn btn-info" href="/help">Organizar um Evento</a> ORGANIZE EVENT              -->
                     <!--<a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>-->
                 <!--<li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

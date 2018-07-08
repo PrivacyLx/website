@@ -11,3 +11,7 @@ try to add more as I find them.
 * [Surveillance Self-Defense](https://ssd.eff.org/) | Tips, Tools and How-tos for Safer Online Communications
 * [An In-Depth Guide to Choosing a VPN](https://freedom.press/training/choosing-a-vpn/)
 * [Software alternatives](https://prism-break.org/en/)
+
+
+This really great medium post does a very great overview of these guides:
+https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c
