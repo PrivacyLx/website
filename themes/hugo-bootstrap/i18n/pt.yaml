@@ -30,3 +30,15 @@
 
 - id: helpus
   translation: "Ajude-nos"
+
+- id: article12
+  translation: "Ninguém sofrerá intromissões arbitrárias na sua vida privada,
+  na sua família, no seu domicílio ou na sua correspondência, nem ataques
+  à sua honra e reputação. Contra tais intromissões ou ataques toda a pessoa tem
+  direito a protecção da lei. "
+
+- id: article12quote
+  translation: "Artigo 12º da"
+
+- id: article12source
+  translation: "Declaração Universal dos Direitos Humanos"

@@ -30,3 +30,15 @@
 
 - id: helpus
   translation: "Help Us!"
+
+- id: article12
+  translation: "No one shall be subjected to arbitrary interference with his privacy,
+  family, home or correspondence, nor to attacks upon his honour and reputation.
+  Everyone has the right to the protection of the law against such interference
+  or attacks.. "
+
+- id: article12quote
+  translation: "Article 12 of the"
+
+- id: article12source
+  translation: "Universal Declaration of Human Rights"
