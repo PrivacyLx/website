@@ -1,7 +1,7 @@
 ---
 title: "Estamos a preparar mais eventos"
 author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-06-30T15:31:00-18:00"
+publishdate: "2018-07-14T20:00:00-20:01"
 eventdate: "2018-08-31T15:00:00-18:00"
 image: "/img/cryptoparty.jpg"
 preview: true
