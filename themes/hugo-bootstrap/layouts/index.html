@@ -12,7 +12,9 @@
       <h1 class="disp display-main">
          {{ .Title }}
        </h1>
+       {{ if .Params.eventdate }}
        <p><strong style="color: black !important">{{ partial "event-date" . }}</strong>
+       {{ end }}
        {{ .Params.description }}</p>
 
 
@@ -23,6 +25,7 @@
              </div>
 
         </div>
+        {{ if .Params.eventdate }}
         <div style="width:20%">
 
               <div style="float:right">
@@ -46,7 +49,8 @@
                 </div>
 
               </div>
-            </div>
+          </div>
+        {{ end }}
     </div>
     </div>
   </div>
