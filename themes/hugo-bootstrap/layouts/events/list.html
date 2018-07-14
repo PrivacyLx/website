@@ -19,6 +19,7 @@
                   <tbody>
                     {{ range (.Data.Pages.ByParam "publishdate").Reverse }}
                     <tr>
+                      {{ if .Params.eventdate }}
                       {{ $event_date := dateFormat "2006-01-02" .Params.eventdate }}
                       {{ $today := now.Format "2006-01-02" }}
                       {{ $month := dateFormat "January " .Params.eventdate }}
@@ -46,6 +47,7 @@
                         </tr>
                       <tr>
                         {{ end }}
+                    {{ end }}
                     {{ end }}
                   </tbody>
                 </table>
