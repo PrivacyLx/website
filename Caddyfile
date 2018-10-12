@@ -1,0 +1,5 @@
+https://privacylx.org http://ojr4ex25mf4tuxtm.onion http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion
+gzip
+log / stdout {
+        ipmask 0.0.0.255 ffff:ffff:ffff:ff00::
+}

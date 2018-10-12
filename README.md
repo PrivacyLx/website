@@ -1,5 +1,8 @@
 This is the website for the [PrivacyLx Privacy group](https://privacylx.org) based in Lisbon.
 
+PrivacyLx website is also available under an onion service:
+- v3 (http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion)
+- v2 (http://ojr4ex25mf4tuxtm.onion)
 It is based on boostrap and uses hugo to generate the static website from the Markdown files
 
 ### Usage
