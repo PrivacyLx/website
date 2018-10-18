@@ -1,14 +1,14 @@
 ---
-title: "Introdução to TOR (The Onion Router)"
+title: "Introdução to TOR"
 author: "Vasilis Ververis & Francisco Core"
 publishdate: "2018-10-18T11:00:00"
 image: "/img/weekshopIST2018.png"
 eventdate: "2018-10-18T19:00:00-20:00"
 preview: true
-description: "On Monday we are going to participate in AEIST weekshop days and make a gentle presentation to Tor."
+description: "Segunda-feira participaremos na weekshop do IST com uma pequena apresentação sobre o Tor."
 ---
 
-Segunda-feira participaremos da weekshop da associação de estudantes do Instituto Superior Técnico com uma pequena apresentação sobre o Tor.
+Segunda-feira participaremos na weekshop da associação de estudantes do Instituto Superior Técnico com uma pequena apresentação sobre o Tor.
 *A entrada é livre e gratuita e não é necessário qualquer inscrição (ao contrário do que é pedido na pagina da organização)*
 Esperamos ver-vos lá.
 
