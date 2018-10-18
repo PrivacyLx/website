@@ -14,8 +14,12 @@ Segunda-feira participaremos na weekshop da associação de estudantes do Instit
 Esperamos ver-vos lá.
 
 Quando: Segunda, 22 Outubro de 2018 das 19h às 20h
+
 Onde: Auditório VA2, piso -1, Pav. de Eng. Civil, IST, Avenida Rovisco Pais, Areeiro, Lisboa
+
 Mapa (coordenadas): https://www.openstreetmap.org/#map=19/38.73753/-9.14022
+
 Evento no site da organização (hiperligação externa): https://aeist.pt/blog/2018/10/16/5a-weekshop/
+
 
 Caso tenham alguma questão, podem contactar um dos organizadores por mail em francisco.core[at]protonmail.com
