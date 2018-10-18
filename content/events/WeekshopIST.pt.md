@@ -9,7 +9,7 @@ description: "On Monday we are going to participate in AEIST weekshop days and m
 ---
 
 Segunda-feira participaremos da weekshop da associação de estudantes do Instituto Superior Técnico com uma pequena apresentação sobre o Tor.
-A entrada é livre e gratuita e não é necessário qualquer inscrição (ao contrário do que é pedido na pagina da organização)
+*A entrada é livre e gratuita e não é necessário qualquer inscrição (ao contrário do que é pedido na pagina da organização)*
 Esperamos ver-vos lá.
 
 Quando: Segunda, 22 Outubro de 2018 das 19h às 20h
