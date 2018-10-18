@@ -2,11 +2,12 @@
 title: "Introduction to TOR"
 author: "Vasilis Ververis & Francisco Core"
 publishdate: "2018-10-18T11:00:00"
+eventdate: "2018-10-22T19:00:00-20:00"
 image: "/img/weekshopIST2018.png"
-eventdate: "2018-10-18T19:00:00-20:00"
 preview: true
 description: "On Monday we are going to participate in AEIST weekshop days and make a gentle presentation to Tor."
 ---
+![workshop picture](/img/weekshopIST2018.png)
 
 On Monday we are going to participate in AEIST weekshop days (at Instituto Superior Técnico) and make a gentle presentation to Tor.
 *The event is free and no registration is required* (as the event asks for).
