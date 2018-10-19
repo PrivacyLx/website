@@ -1,5 +1,5 @@
 ---
-title: "Introdução to TOR"
+title: "Introdução ao Tor"
 author: "Vasilis Ververis & Francisco Core"
 publishdate: "2018-10-18T11:00:00"
 eventdate: "2018-10-22T19:00:00-20:00"
