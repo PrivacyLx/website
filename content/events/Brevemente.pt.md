@@ -1,7 +1,7 @@
 ---
 title: "Estamos a preparar mais eventos"
-author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-08-19T11:00:00"
+author: "Kevin, Francisco & Vasilis"
+publishdate: "2018-10-28T00:01:00"
 image: "/img/computer.png"
 preview: true
 description: "Estejam atentos ao website. Estamos neste momento a preparar mais eventos."

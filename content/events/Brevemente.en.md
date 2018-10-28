@@ -1,7 +1,7 @@
 ---
 title: "We are preparing future workshops"
-author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-08-19T11:00:00"
+author: "Kevin, Francisco & Vasilis"
+publishdate: "2018-10-28T00:01:00"
 image: "/img/computer.png"
 preview: true
 description: "Keep ckecking to our website because we are preparing future workshops. If you would be interested in hosting or helping with one, let us know. For contacts click on 'read more'"
@@ -13,7 +13,7 @@ The newsletter signup is still a work in progress but we hope it won't take long
 
 If you are interested in organizing events like the ones we've been doing or you are interested in colaborating in one, let us know at:
 
-**francisco.core at protonmail.com** ou **kevin.gallagher at nyu.edu**.
+**francisco.core at protonmail.com** or **kevin.gallagher at nyu.edu**.
 
  
 
