@@ -31,6 +31,21 @@
 - id: helpus
   translation: "Ajude-nos"
 
+- id: view-events
+  translation: "Ver Eventos"
+
+- id: there-is
+  translation: "Há mais"
+
+- id: there-are
+  translation: "Há mais"
+
+- id: event-in-calendar
+  translation: "evento no calendário"
+
+- id: events-in-calendar
+  translation: "eventos no calendário"
+
 - id: article12
   translation: "Ninguém sofrerá intromissões arbitrárias na sua vida privada,
   na sua família, no seu domicílio ou na sua correspondência, nem ataques

@@ -2,6 +2,7 @@
 
 <main role="main">
 
+  <!--- jumbotron Showing the next event --->
   {{ range first 1 ((where .Data.Pages "Type" "events") (.Data.Pages.ByParam "publishdate")) }}
   {{ if .Params.preview }}
     <div class="jumbotron jumbotron-up" style="background-image: url({{ .Params.image }}); background-repeat: no-repeat;  background-size: cover;">
@@ -45,16 +46,44 @@
                           <div class="dayofweek">{{ $month }} {{ $year }}</div>
                           <div class="shortdate text-muted">{{ $weekday }}</div>
                     </div>
-
                 </div>
-
               </div>
           </div>
         {{ end }}
-    </div>
+      </div>
     </div>
   </div>
   {{ end }}
+<!--- END of jumbotron Showing the next event --->
+
+<!--- More events warning --->
+  <!-- counting the number of future events -->
+  {{ $.Scratch.Set "counter" 0 }} <!-- counter workaround -->
+  {{ range (.Data.Pages.ByParam "publishdate").Reverse }}
+    {{ if .Params.eventdate }}
+      {{ $event_date := dateFormat "2006-01-02" .Params.eventdate }}
+      {{ $today := now.Format "2006-01-02" }}
+
+      {{ if gt $event_date $today }}
+        <!-- if event after now increment the counter -->
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  <!--- end of count --->
+  <!-- display if counter (sigular) > 1-->
+  {{ if eq ($.Scratch.Get "counter") 2 }}
+  <div class="container-jumbotron" style="margin-top:-0.88cm; padding-top:0.4cm;">
+    <h5 class="text-center"> {{ i18n "there-is" }} {{(sub ($.Scratch.Get "counter") 1)}} {{ i18n "event-in-calendar" }} <a class="btn btn-info " href="/events/"> {{ i18n "view-events" }}</a> </h5>
+  </div>
+  {{ end }}
+  <!-- display plural -->
+  {{ if gt ($.Scratch.Get "counter") 2 }}
+  <div class="container-jumbotron" style="margin-top:-0.88cm; padding-top:0.4cm;">
+    <h5 class="text-center"> {{ i18n "there-are" }} {{(sub ($.Scratch.Get "counter") 1)}}  {{ i18n "events-in-calendar" }}   <a class="btn btn-info " href="/events/"> Ver Eventos </a> </h5>
+  </div>
+  {{ end }}
+<!--- END More events warning --->
 
   <br></br>
   <div class="container">

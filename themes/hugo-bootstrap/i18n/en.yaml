@@ -31,6 +31,21 @@
 - id: helpus
   translation: "Help Us!"
 
+- id: view-events
+  translation: "View Events"
+
+- id: there-are
+  translation: "There are"
+
+- id: there-is
+  translation: "There is"
+
+- id: event-in-calendar
+  translation: "more event in the calendar"
+
+- id: events-in-calendar
+  translation: "more events in the calendar"
+
 - id: article12
   translation: "No one shall be subjected to arbitrary interference with his privacy,
   family, home or correspondence, nor to attacks upon his honour and reputation.
