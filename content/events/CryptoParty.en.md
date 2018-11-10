@@ -10,33 +10,33 @@ description: "When you go to a Cryptoparty you learn about programs like GPG whi
 
 ![imagem do workshop](/img/cryptoparty.jpg)
 
-Cryptoparties são workshops de formato aberto com o objetivo de proporcionar a troca de conhecimentos sobre como podemos proteger a privacidade no mundo digital.
+Cryptoparties are an open format workshop aimed at the sharing of information related to how oneself can better protect their privacy and security in the digital age.
 
-Abordaremos tópicos como:
+We'll touch on topics like:
  * Tor / browsers
- * Segurança de comunicações
- * Extensões para browsers que aumentam a privacidade
- * motores de busca
- * encriptação de e-mail
+ * Communication Security
+ * Browser Extentions that augment your privacy
+ * changing the search engine
+ * e-mail encryption
  * etc...
 
-Mais informações sobre o que são cryptoparties [aqui](https://www.cryptoparty.in/).
+More information on what cryptoparties are [here](https://www.cryptoparty.in/).
 
 
-> **Nota:** Durante o workshop serão experimentados alguns programas de computador e apps de telemóvel, pelo que se pede aos participantes que tragam laptops, telemóveis ou tablets.
+> **Important:** During the workshop we'll try out some computer software and phone Apps and it would be better for you to bring you computers, phones and tablets.
 
 
-#### Onde e Quando?
+#### Where and When
 
-**entrada livre** |
-Sábado, 14 de Julho às 15:00h
+**free admission**|
+Saturday, 14th July at 3pm
 
 > Biblioteca dos Coruchéus
 Rua Alberto Oliveira
 1700-019 Lisboa
 (Freguesia de Alvalade)
 
-#### Contactos
+#### Contacts
 
 * Francisco -  francisco.core {at] protonmail.com
 * Kevin - kevin.gallagher {at] nyu.edu
