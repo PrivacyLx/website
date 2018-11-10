@@ -10,23 +10,20 @@ description: We'll do a talk introducing the privacy world we're living in and h
 
 ![imagem do workshop](/img/moita2018.png)
 
-The talk will be held in portuguese at 13:40h and the cryptoparty at 15:00h.
-
+<br></br>
 #### **Talk** | 1:40 PM
 
 [Held in Portuguese] We'll do a general introduction to the current status of privacy and why it is important for us to reclaim the privacy that is insidiously being taken away from us.
 
-
-
-#### Cryptoparty | 3:00 PM
+<br></br>
+#### **Cryptoparty** | 3:00 PM
 
 Cryptoparties are an open format workshop aimed at the sharing of information related to how oneself can better protect their privacy and security in the digital age. We invite everyone to share their knowledge and learn with others.
 
 We'll touch on topics like:
-
 - Tor / browsers
 - Communication Security
-- Browser Extentions that augment your privacy
+- Browser Extensions that augment your privacy
 - changing the search engine
 - e-mail encryption
 - etc...
@@ -36,23 +33,23 @@ More information on what cryptoparties are [here](https://www.cryptoparty.in/).
 > **Important:** During the workshop we'll try out some computer software and phone Apps and it would be better for you to bring you computers, phones and tablets.
 
 
-
+<br></br>
 ### Where and When
 
 The event will be on the context of the Free Software event *Festa do Software Livre Moita 2018*
 
-**free admission**|
-Saturday, 24th November at 1:40 pm
+**free admission** | Saturday, 24th November at 1:40 pm
 
-> Pavilhão Municipal de Exposições da Moita, Moita
+> Pavilhão Municipal de Exposições
+Largo Dr. Joaquim Marques Elias, 5
+2860 MOITA
 
-For more infomation on the rest of the event visit here http://moita2018.softwarelivre.eu/.
+<br></br>
 
-Their website also has information on how to get there.
+For more information on the rest of the event and how to get there, please visit http://moita2018.softwarelivre.eu/.
 
 
 
 #### Contacts
 
 * Francisco -  francisco.core [at] protonmail.com
-* Vasilis Ververis - 
