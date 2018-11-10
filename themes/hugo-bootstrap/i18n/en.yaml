@@ -46,6 +46,19 @@
 - id: events-in-calendar
   translation: "more events in the calendar"
 
+- id: date
+  translation: "Date"
+
+- id: time
+  translation: "Time"
+
+- id: event
+  translation: "Event"
+
+- id: next-events
+  translation: "Next Events"
+
+
 - id: article12
   translation: "No one shall be subjected to arbitrary interference with his privacy,
   family, home or correspondence, nor to attacks upon his honour and reputation.

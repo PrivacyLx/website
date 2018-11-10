@@ -46,6 +46,18 @@
 - id: events-in-calendar
   translation: "eventos no calendário"
 
+- id: date
+  translation: "Data"
+
+- id: time
+  translation: "Hora"
+
+- id: event
+  translation: "Evento"
+
+- id: next-events
+  translation: "Próximos Eventos"
+
 - id: article12
   translation: "Ninguém sofrerá intromissões arbitrárias na sua vida privada,
   na sua família, no seu domicílio ou na sua correspondência, nem ataques
