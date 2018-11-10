@@ -6,53 +6,8 @@
     <div class="col-12 col-lg-12 blog-main">
 
       <h2 class="blog-post-title"> Próximos Eventos </h2><p></p>
-      <div class="agenda">
-              <div class="table-responsive">
-                <table class="table table-condensed table-bordered">
-                  <thead>
-                    <tr>
-                      <th>Data</th>
-                      <th>Hora</th>
-                      <th>Evento</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {{ range (.Data.Pages.ByParam "publishdate").Reverse }}
-                    <tr>
-                      {{ if .Params.eventdate }}
-                      {{ $event_date := dateFormat "2006-01-02" .Params.eventdate }}
-                      {{ $today := now.Format "2006-01-02" }}
-                      {{ $month := dateFormat "January " .Params.eventdate }}
-                      {{ $year := dateFormat "'06" .Params.eventdate }}
-                      {{ $day := dateFormat "2" .Params.eventdate }}
-                      {{ $weekday := dateFormat "Monday" .Params.eventdate }}
-                      {{ $time := dateFormat "15:04h" .Params.eventdate }}
+      {{ .Render "agenda" }}
 
-                      {{ if gt $event_date $today }}
-                      <!--{{ dateFormat "Monday, Jan 2, 2006" "2015-01-21" }}-->
-                        <td class="agenda-date" rowspan="1">
-
-                                  <!-- Print the Date instead of PublishDate if PublishDate is defined but at its initial value of Jan 1, 0001 -->
-                                <div class="dayofmonth">{{ $day }}</div>
-                                <div class="dayofweek">{{ $month }} {{ $year }}</div>
-                                <div class="shortdate text-muted">{{ $weekday }}</div>
-                          </td>
-                        <td class="agenda-time">
-                          <h4><span class="badge badge-light">{{ $time }}</span></h4>
-                        </td>
-                        <td class="agenda-event">
-                          <a class="dark-link" href="{{ .RelPermalink }}">
-                            {{ .Params.title }}
-                          </a>
-                        </tr>
-                      <tr>
-                        {{ end }}
-                    {{ end }}
-                    {{ end }}
-                  </tbody>
-                </table>
-              </div>
-            </div>
 
         <hr><br>
       </div>
