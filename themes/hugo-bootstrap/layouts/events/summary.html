@@ -12,7 +12,7 @@
         {{ .Render "image" }}
     {{ end }}
     <p></p>
-    {{ .Summary }}
+    {{ .Params.description }}
     <p></p>
     <a href="{{ .RelPermalink }}">{{ i18n "readMore" }}</a>
 </article>
