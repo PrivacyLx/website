@@ -1,0 +1,64 @@
+---
+title: "0xCFD0 - Ciclo Cifra-te ou Devoram-te @Disgraça"
+author: "Vasilis Ververis"
+publishdate: "2018-11-09T13:40:00-17:00"
+eventdate: "2018-11-14T18:00:00-21:00"
+image: "/img/rememberDog.jpg"
+preview: true
+description: "Uma série de encontros onde discutimos privacidade e vigilância. Num formato aberto, onde todos são convidados a apresentar as suas opiniões e a contribuir. Os eventos serão realizados em inglês."
+---
+
+##### <center>**Every Wednesday until mid-December there will be a cycle of talks and meetings on the topics of privacy and surveillance.**
+
+</center>
+
+**<center> Nota:** Os eventos realizam-se em inglês </center>
+
+![](/img/rememberDog.jpg)
+
+<br></br>
+### 0➤ General introduction to privacy and surveillance
+*14th November 2018 at 19:30 (time yet to be confirmed. Check back on the day of the event )*
+
+Introduction to common surveillance practices and open discussion about the risks while using/not using the internet
+
+<br></br>
+### 1➤  Introduction to Online Privacy and Anonymity    (Part 1)
+*21st November 2018 (time yet to be confirmed)*
+
+Learning how to protect our privacy online, understand basic cryptographic concepts and learn how a low latency anonymity network works (Tor).
+
+<br></br>
+### 2➤ Introduction to Online Privacy and Anonymity    (Part 2)
+*28th November 2018 (time yet to be confirmed)*
+
+Learning how to protect our privacy online, understand basic cryptographic concepts and learn how a low latency anonymity network works (Tor).
+
+<br></br>
+### 3➤ Introduction to Secure Communications Online
+*5th December 2018 (time yet to be confirmed)*
+
+Learn about encrypted email communication, understand how instant messaging networks and learn about a variety of other chat protocols and application for different "threat models".               
+
+<br></br>
+### 4➤ The problem with social media and what can we do
+*12th December 2018 (time yet to be confirmed)*
+
+*How not to contribute to the loss of privacy by our friends and family.*
+
+Privacy is about choice. You do you and chose whatever level of privacy you see fit to your need, but we cannot make that choice for others. When we share a picture, for example, we should think if the other person would agree with it. We'll talk about issues like these and think collectively how we can solve these problems
+
+<br></br>
+
+
+### Onde e Quando?
+
+**entrada livre**| dias mencionados nos títulos das nas sessões respetivas
+
+> Rua da Penha de França 217B
+
+
+
+#### Talks by
+
+Vasilis Ververis
