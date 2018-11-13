@@ -2,7 +2,7 @@
 title: "0xCFD0 - Ciclo Cifra-te ou Devoram-te @Disgraça"
 author: "Vasilis Ververis"
 publishdate: "2018-11-09T13:40:00-17:00"
-eventdate: "2018-11-14T18:00:00-21:00"
+eventdate: "2018-11-14T19:30:00-21:00"
 image: "/img/cifrate.png"
 preview: true
 description: "Uma série de encontros onde discutimos privacidade e vigilância. Num formato aberto, onde todos são convidados a apresentar as suas opiniões e a contribuir. Os eventos serão realizados em inglês."
