@@ -31,11 +31,11 @@ theme = "hugo-bootstrap"
   [[languages.pt.menu.main]]
     url = "/events/"
     name = "Eventos"
-    weight = 2
+    weight = 3
   [[languages.pt.menu.main]]
     url = "/slides/"
     name = "Slides"
-    weight = 3
+    weight = 2
 
 [languages.en]
   languageName = "English"
@@ -52,11 +52,11 @@ theme = "hugo-bootstrap"
   [[languages.en.menu.main]]
     url = "/events/"
     name = "Events"
-    weight = 2
+    weight = 3
   [[languages.en.menu.main]]
     url = "/slides/"
     name = "Slides"
-    weight = 3
+    weight = 2
 
 [permalinks]
   post = "/:year/:month/:title/"
