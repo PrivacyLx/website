@@ -5,6 +5,7 @@ publishdate: "2018-07-14T11:00:00"
 image: "/img/computer.png"
 preview: true
 description: "Estejam atentos ao website. Estamos neste momento a preparar mais eventos."
+draft: true
 ---
 
 Queriamos aproveitar para agradecer a todos os participantes das úlimas sessões que encheram a sala e deixar desde já a mensagem que mais eventos virão. Portanto estejam atentos às novidades neste site.

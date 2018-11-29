@@ -5,6 +5,7 @@ publishdate: "2018-07-14T11:00:00"
 image: "/img/computer.png"
 preview: true
 description: "Keep ckecking to our website because we are preparing future workshops. If you would be interested in hosting or helping with one, let us know. For contacts click on 'read more'"
+draft: true
 ---
 
 We would like to thank all the people who filled the rooms of our last events and let you know that we are preparing future events.
