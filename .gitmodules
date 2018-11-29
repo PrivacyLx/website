@@ -1,0 +1,3 @@
+[submodule "static/slides"]
+	path = static/slides
+	url = https://github.com/PrivacyLx/slides

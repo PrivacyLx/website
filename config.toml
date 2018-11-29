@@ -32,15 +32,10 @@ theme = "hugo-bootstrap"
     url = "/events/"
     name = "Eventos"
     weight = 2
-  #[[languages.pt.menu.main]]en1
-  #  url = "/blog/"
-  #  name = "Blog"
-  #  weight = 3
-  #[[languages.pt.menu.main]]
-  #  url = "/about/"
-  #  name = "Acerca de"
-  #  weight = 3
-
+  [[languages.pt.menu.main]]
+    url = "/slides/"
+    name = "Slides"
+    weight = 3
 
 [languages.en]
   languageName = "English"
@@ -58,16 +53,10 @@ theme = "hugo-bootstrap"
     url = "/events/"
     name = "Events"
     weight = 2
-  #[[languages.en.menu.main]]
-  #url = "/post/"
-  #name = "Blog"
-  #weight = 3
-  #[[languages.en.menu.main]]
-  #  url = "/about/"
-  #  name = "About"
-  #  weight = 4
-
-
+  [[languages.en.menu.main]]
+    url = "/slides/"
+    name = "Slides"
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:title/"
