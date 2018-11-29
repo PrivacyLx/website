@@ -6,6 +6,8 @@ container_name="privacylx-website"
 
 # pull from the remote repo
 git pull --verbose
+# Update submodules and init if not already
+git submodule update --init --recursive --remote
 
 # build the static website with hugo
 hugo
