@@ -55,7 +55,7 @@ Privacy is about choice. You do you and chose whatever level of privacy you see 
 
 **entrada livre** | dias mencionados nos títulos das nas sessões respetivas
 
-Rua da Penha de França 217B
+[Rua da Penha de França 217B](https://www.openstreetmap.org/query?lat=38.72833&lon=-9.13092#map=18/38.72823/-9.12988)
 
 ![](/img/disgraca-map.png)
 
