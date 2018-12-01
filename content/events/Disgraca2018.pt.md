@@ -53,11 +53,17 @@ Privacy is about choice. You do you and chose whatever level of privacy you see 
 
 ### Onde e Quando?
 
-**entrada livre**| dias mencionados nos títulos das nas sessões respetivas
+**entrada livre** | dias mencionados nos títulos das nas sessões respetivas
 
-> Rua da Penha de França 217B
+Rua da Penha de França 217B
 
+![](/img/disgraca-map.png)
 
+Estaremos na "sala de cinema" no piso mais baixo.
+
+(tocar à campainha na porta da imagem abaixo se estiver a porta fechada)
+
+![](/img/disgraca.png)
 
 #### Talks by
 
