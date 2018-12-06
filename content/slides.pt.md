@@ -3,6 +3,7 @@ title: Uma slides coleção de presentations, oficinas e eventos
 tags: ["slides", "presentations"]
 ---
 
+* [Cifra-te ou devoram-te session 03](/slides/cifra-te-ou-devoram-session03.html)
 * [Cifra-te ou devoram-te session 02](/slides/cifra-te-ou-devoram-session02.html)
 * [Cifra-te ou devoram-te session 01](/slides/cifra-te-ou-devoram-session01.html)
 * [Cifra-te ou devoram-te session 00](/slides/cifra-te-ou-devoram-session00.html)
