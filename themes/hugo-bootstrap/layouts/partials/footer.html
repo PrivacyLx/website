@@ -1,15 +1,15 @@
-{{ $Xzya := "<a href=\"https://github.com/Xzya\">Xzya</a>" }}
-{{ $HugoThemeBootstrap4Blog := "<a href=\"https://github.com/alanorth/hugo-theme-bootstrap4-blog\">hugo-theme-bootstrap4-blog</a>" }}
-{{ $links := (dict "Xzya" $Xzya "HugoThemeBootstrap4Blog" $HugoThemeBootstrap4Blog ) }}
-{{ $thanks := i18n "thanks" $links | safeHTML }}
-
-{{ $copyright := default $thanks .Site.Copyright }}
-
-
     <footer class="footer-bs">
-
         <div class="d-flex justify-content-center">
-          <p>An informal organization that aims at informing people about the privacy issues of the modern era.</p>
+          <h5>An informal organization that aims at informing people about the privacy issues of the modern era.</h5>
+        </div>
+        <p></p>
+        <div class="d-flex justify-content-center">
+          <p>
+          <a class="footer-link" href="{{ .Site.Params.ghrepo }}" target="_blank" >Website Source Code</a> |
+          <a class="footer-link" href="{{ .Site.Params.bugtracker }}" target="_blank">Report bug / Suggestion</a> |
+          <a class="footer-link" href="{{ .Site.Params.onionv2 }}">Tor Onion Service v2</a> |
+          <a class="footer-link" href="{{ .Site.Params.onionv3 }}">Tor Onion Service v3</a>
+          </p>
         </div>
         <div class="d-flex justify-content-center">
           {{ if gt (len .Site.Home.AllTranslations) 1 }}
@@ -19,25 +19,4 @@
           {{ end }}
           {{ end }}
         </div>
-        	<!--<div class="col-md-3">
-            	<h4>Newsletter</h4>
-                <p>Informações sobre eventos</p>
-                <p>
-                    <div class="input-group">
-                      <input type="text" class="form-control" placeholder="e-mail">
-                      <span class="input-group-btn">
-                        <button class="btn btn-default" type="button">📧</button>
-                      </span>
-                    </div>
-                 </p>
-            </div>
-            <div class="col-md-3"></div>
-        </div>-->
     </footer>
-
-<!--<footer class="blog-footer w-100">
-    <nav class="navbar navbar-dark bg-dark">
-        <p class="w-100 text-center">{{ $copyright }}</p>
-        <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
-    </nav>
-</footer>-->

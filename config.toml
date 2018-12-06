@@ -42,9 +42,6 @@ theme = "hugo-bootstrap"
   weight = 1
   url = "/en/"
 
-  # Replace the default footer message with a localized message
-  # copyright = "Hugo template made with ❤ by Xzya"
-
   [[languages.en.menu.main]]
     url = "/en/"
     name = "Home"
@@ -69,6 +66,13 @@ theme = "hugo-bootstrap"
   author = "Anonymous"
 
   ghrepo = "https://github.com/PrivacyLx/website/"
+
+  # Onion service URLs
+  onionv2 = "http://ojr4ex25mf4tuxtm.onion"
+  onionv3 = "http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion"
+
+  # Default issue/bug tracker
+  bugtracker = "https://github.com/PrivacyLx/privacylx-issue-tracker"
 
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
