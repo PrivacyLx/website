@@ -69,3 +69,27 @@
 
 - id: article12source
   translation: "Declaração Universal dos Direitos Humanos"
+
+- id: article12source
+  translation: "Universal Declaration of Human Rights"
+
+- id: whoarewehead
+  translation: "Quem somos?"
+
+- id: whoarewe
+  translation: "Somos um grupo que considera a privacidade um direito fundamental para a Liberdade e Dignidade Humana. Em tempos recentes temos perdido esse direito, rendendo a nossa vida privada a governos e empresas. Pretendemos educar as sobre as ameaças à privacidade e medidas de as combater."
+
+- id: whyisprivacyimportanthead
+  translation: "Porque é a privacidade importante?"
+
+- id: whyisprivacyimportant
+  translation: "É quando estamos sozinhos ou na intimidade de alguém que nos sentimos seguros e livres para sermos o verdadeiro nós. É esse o poder da privacidade: longe de olhares alheios, permite-nos pensar, fazer erros e descobrirmo-nos, sem consequências e sem ser julgados."
+
+- id: whatcanwedohead
+  translation: "O que podemos fazer?"
+
+- id: whatcanwedo
+  translation: "Grande parte dos nossos dados são roubados sem o nosso consentimento quando navegamos na internet. Podemos começar por bloquear quem nos quer controlar sem ter permissão."
+
+- id: cometoourworkshop
+  translation: "Venha a um dos nossos workshops para aprender como isso se faz."

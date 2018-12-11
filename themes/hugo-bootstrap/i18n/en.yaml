@@ -70,3 +70,24 @@
 
 - id: article12source
   translation: "Universal Declaration of Human Rights"
+
+- id: whoarewehead
+  translation: "Who are we?"
+
+- id: whoarewe
+  translation: "We are a group that considers privacy a fundamental right necessary for liberty and human dignity. In recent times we have lost this right, surrendering our private lives to governments and businesses. We wish to educate the people about the threats to privacy and the methods we can use to combat them."
+
+- id: whyisprivacyimportanthead
+  translation: "Why is privacy important?"
+
+- id: whyisprivacyimportant
+  translation: "It is when we are alone or in intimate company that we feel safe and free to be ourselves. This is the power of privacy: away from prying eyes it allows us to think, make mistakes, and discover ourselves without consequences and without being judged."
+
+- id: whatcanwedohead
+  translation: "What can we do?"
+
+- id: whatcanwedo
+  translation: "A large portion of our data is stolen without our consent when surfing the Internet. We can start by blocking those we do not wish to have access."
+
+- id: cometoourworkshop
+  translation: "Come to one of our workshops to learn how to reclaim your privacy."
