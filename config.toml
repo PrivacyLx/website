@@ -33,7 +33,7 @@ theme = "hugo-bootstrap"
     name = "Eventos"
     weight = 3
   [[languages.pt.menu.main]]
-    url = "/slides/"
+    url = "/resources/"
     name = "Slides"
     weight = 2
 
@@ -51,7 +51,7 @@ theme = "hugo-bootstrap"
     name = "Events"
     weight = 3
   [[languages.en.menu.main]]
-    url = "/slides/"
+    url = "/resources/"
     name = "Slides"
     weight = 2
 
