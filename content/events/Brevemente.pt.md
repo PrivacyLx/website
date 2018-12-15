@@ -1,11 +1,11 @@
 ---
-title: "Estamos a preparar mais eventos"
-author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-07-14T11:00:00"
+title: "Mais eventos em breve"
+author: "The Organizers"
+publishdate: "2018-12-12T23:00:00"
 image: "/img/computer.png"
 preview: true
-description: "Estejam atentos ao website. Estamos neste momento a preparar mais eventos."
-draft: true
+description: "Obrigado a todas as pessoas que participaram nos eventos este ano e contribuiram para fascinantes discussões. Estejam atentos ao website pois estamos a preparar futuros eventos. Se tiverem interesse nestes tópicos, entrem em contacto connosco."
+draft: false
 ---
 
 Queriamos aproveitar para agradecer a todos os participantes das úlimas sessões que encheram a sala e deixar desde já a mensagem que mais eventos virão. Portanto estejam atentos às novidades neste site.
@@ -16,7 +16,5 @@ Se estiverem interessados em organizar um eventos destes ou a colaborar connosco
 
 **francisco.core at protonmail.com** ou **kevin.gallagher at nyu.edu**.
 
-
- 
 
 Obrigado a todos e até breve.
