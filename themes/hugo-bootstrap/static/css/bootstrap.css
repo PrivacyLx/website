@@ -4322,6 +4322,9 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-brand {
   color: #fff;
+}
+
+.navbar-brand-mobile {
   padding-bottom: 1rem;
 }
 
