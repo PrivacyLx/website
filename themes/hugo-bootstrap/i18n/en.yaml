@@ -91,3 +91,9 @@
 
 - id: cometoourworkshop
   translation: "Come to one of our workshops to learn how to reclaim your privacy."
+
+- id: resources
+  translation: "Resources"
+
+- id: resources-description
+  translation: "Here we have resources that we create such as presentations, reports, etc."

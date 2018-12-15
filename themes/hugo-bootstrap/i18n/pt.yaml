@@ -93,3 +93,9 @@
 
 - id: cometoourworkshop
   translation: "Venha a um dos nossos workshops para aprender como isso se faz."
+
+- id: resources
+  translation: "Recursos"
+
+- id: resources-description
+  translation: "Aqui colocamos recursos que criamos no contexto dos workshops, tais como apresentações, reports e tudo o que possa ser do interesse do leitor."
