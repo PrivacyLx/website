@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container">
+  <h1>{{ i18n "resources" }}</h1>
+  {{ i18n "resources-description" }}
+</div>
+<hr></hr>
+<hr></hr>
+<div class="container">
+  <div class="row">
+      {{ $truncate := default true .Site.Params.truncate }}
+      {{ range (.Paginator 6).Pages }}
+       <div class="col-lg-6">
+          {{ if $truncate }}
+              {{ .Render "summary" }}
+          {{ else }}
+              {{ .Render "content" }}
+          {{ end }}
+        </div>
+
+      {{ end }}
+</div>
+{{ partial "paginator" . }}
+{{ end }}
