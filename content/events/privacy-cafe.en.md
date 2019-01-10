@@ -6,7 +6,7 @@ eventdate: "2019-01-17T18:00:00-21:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
 description: "An informal meeting to learn and teach how we can better protect our online privacy"
-draft: true
+draft: false
 ---
 
 ##### <center>**An informal meeting to learn and teach how we can better protect our online privacy**
@@ -30,7 +30,7 @@ Join us there!
 
 Free event, open for all. 17th Jan 2019
 
-[The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal 
+[The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
 
 
 
