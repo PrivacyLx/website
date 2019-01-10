@@ -1,5 +1,5 @@
 ---
-title: "Privacy cafe @blockhouse"
+title: "Privacy cafe"
 author: "Anonymous"
 publishdate: "2019-01-09T08:40:00"
 eventdate: "2019-01-17T18:00:00-21:00"
@@ -27,7 +27,7 @@ We'll be talking about some practical tools you can use like the *tor browser*, 
 
 Free event, open for all. 17th Jan 2019 at 18:00-21:00
 
-[The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
+Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
 
 
 
