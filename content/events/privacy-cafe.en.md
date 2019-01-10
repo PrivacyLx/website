@@ -1,7 +1,7 @@
 ---
 title: "Privacy cafe @blockhouse"
 author: "Anonymous"
-publishdate: "2019-10-11T12:40:00-17:00"
+publishdate: "2019-01-10T12:40:00-17:00"
 eventdate: "2019-01-17T18:00:00-21:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
