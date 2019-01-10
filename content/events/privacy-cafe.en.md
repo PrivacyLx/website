@@ -16,11 +16,12 @@ At the privacy cafe, we'll have an informal gathering where we learn and teach e
 
 ##### <center>**Bring your computer, phone and tablet!**</center>
 
+
 We'll be talking about some practical tools you can use like the *tor browser*, *browser extentions* such as *firefox containers*, *password managers*, privacy respecting *operating systems*, how we can stop depending on google or facebook, but also other aspects that you might want to discuss.
 
 
 ### <center>**Join us there!**</center>
-
+<br>
 
 ### When and Where?
 
