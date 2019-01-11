@@ -12,7 +12,7 @@ description: "An informal meeting to learn and teach how we can better protect o
 
 <center>![](/img/privacy-cafe-logo.png)</center>
 
-At the privacy cafe, we'll have an informal gathering where we learn and teach each other on how we can better protect our privacy and our loved one's and have some nice chats with like-minded people over a beer or coffee.
+At the privacy cafe, we'll have an informal gathering where we learn and discuss how we can better protect our privacy and our loved one's.
 
 
 We'll be talking about some practical tools you can use like the *tor browser*, *browser extentions* such as *firefox containers*, *password managers*, privacy respecting *operating systems*, how we can stop depending on google or facebook, but also other aspects that you might want to discuss.
