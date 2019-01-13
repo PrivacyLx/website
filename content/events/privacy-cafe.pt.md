@@ -5,7 +5,7 @@ publishdate: "2019-01-09T08:40:00"
 eventdate: "2019-01-17T18:00:00-21:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
-description: "Um encontro informal para aprender e ensinar privacidade digital"
+description: "Um encontro informal para aprender e discutir privacidade digital"
 ---
 
 ##### <center>**Um encontro informal para aprender e trocar ideas sobre privacidade digital**</center>

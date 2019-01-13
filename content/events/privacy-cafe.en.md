@@ -5,7 +5,7 @@ publishdate: "2019-01-09T08:40:00"
 eventdate: "2019-01-17T18:00:00-21:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
-description: "An informal meeting to learn and teach how we can better protect our online privacy"
+description: "An informal meeting to learn and discuss how we can better protect our online privacy"
 ---
 
 ##### <center>**An informal meeting to learn and discuss how we can better protect our online privacy**</center>
