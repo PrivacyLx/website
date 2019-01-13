@@ -1,6 +1,6 @@
 ---
 title: "Privacy cafe"
-author: "Anonymous"
+author: "Core"
 publishdate: "2019-01-09T08:40:00"
 eventdate: "2019-01-17T18:00:00-21:00"
 image: "/img/privacy-cafe-logo.png"
