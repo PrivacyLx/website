@@ -8,7 +8,7 @@ preview: true
 description: "An informal meeting to learn and teach how we can better protect our online privacy"
 ---
 
-##### <center>**An informal meeting to learn and teach how we can better protect our online privacy**</center>
+##### <center>**An informal meeting to learn and discuss how we can better protect our online privacy**</center>
 
 <center>![](/img/privacy-cafe-logo.png)</center>
 
@@ -23,8 +23,8 @@ We'll be talking about some practical tools you can use like the *tor browser*, 
 
 ### When and Where?
 
-Free event, open for all. 17th Jan 2019 at 18:00-21:00
-
+[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/events/258041155/) - 17th Jan 2019 at 18:00-21:00
+]
 Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
 
 
