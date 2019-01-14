@@ -32,4 +32,4 @@ Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er a
 You may contact one of the organizers at francisco.core [at] protonmail.com
 
 #### Image and concept credit
-Credits tp [bits of freedom](https://bof.nl) for the privacy cafe concept and logo
+Credits to [bits of freedom](https://bof.nl) for the privacy cafe concept and logo
