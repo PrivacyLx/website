@@ -43,3 +43,7 @@ Podem contactar um dos organizadores através de email: francisco.core [at] prot
 
 #### Créditos do logótipo e conceito
 Credits to [bits of freedom](https://bof.nl) for the privacy cafe concept and logo
+
+#### Materiais usados
+Fizémos um "menu" com algumas recomendações de ferramentas para proteger a privacidade. [Download](/static/privacy-cafe-leaflet-v1.pdf)  
+
