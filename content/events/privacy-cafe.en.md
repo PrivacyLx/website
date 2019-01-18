@@ -35,4 +35,4 @@ You may contact one of the organizers at francisco.core [at] protonmail.com
 Credits to [bits of freedom](https://bof.nl) for the privacy cafe concept and logo
 
 #### Materials used
-We created a "menu" with some privacy tools to help guide the conversations. Get it [here](/static/privacy-cafe-leaflet-v1.pdf)
+We created a "menu" with some privacy tools to help guide the conversations. Get it [here](/resources/privacy-cafe-leaflet-v1.pdf) (8.0MB)
