@@ -1,7 +1,7 @@
 ---
 title: "We are preparing future workshops"
 author: "The Organizers"
-publishdate: "2018-12-12T23:00:00"
+publishdate: "2019-01-18T01:00:00"
 image: "/img/computer.png"
 preview: true
 description: "Keep checking to our website because we are preparing future workshops. If you would be interested in hosting or helping with one, let us know. For contacts click on 'read more'"
