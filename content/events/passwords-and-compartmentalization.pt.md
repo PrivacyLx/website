@@ -1,12 +1,14 @@
 ---
-title: "Talk: Passwords and Compartmentalization"
+title: "Talk: Passwords and Compartmentalização"
 author: "Core"
 publishdate: "2019-01-22T08:40:00"
 eventdate: "2019-01-29T18:30:00-20:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
-description: "We'll be exploring password security, how we can improve it as well as how to containerize our digital lives."
+description: "Vamos falar sobre como se pode melhorar a segurança das nossas passwords e como podemos compartimentalizar a nossa vida digital para ter mais privacidade."
 ---
+
+*(nota: o evento será em inglês)*
 
 Just a week ago we saw a big password leak - [773 million accounts](https://www.businessinsider.com/collection-one-data-breach-email-passwords-2019-1), but it looks like the leak was just an aggregation of previous data breaches. The reality is that there is a daily trade of user logins in huge volumes. Most certainly people around us were affected and possibly even some of our accounts are in some of these breaches. We'll be diving into how we can make our passwords more secure and in the second part, we'll be exploroing how we can use compartmentalization to make sure that once personal logins leak in one service, it does not compormise the rest of our accounts.
 
