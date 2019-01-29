@@ -28,3 +28,6 @@ To get notified of our future events, follow us [here](https://gettogether.commu
 <br>
 #### Contact organizers
 You may contact one of the organizers at francisco.core [at] protonmail.com
+<br>
+#### Slides used
+The slides of the presentation can be found [here](https://github.com/francisco-core/presentation-compartmentalization). The slides for the other presenation given should be added shortly.
