@@ -14,7 +14,7 @@
         <div class="d-flex justify-content-center">
           {{ if gt (len .Site.Home.AllTranslations) 1 }}
           {{ range .Site.Home.AllTranslations }}
-          <a type="button" style=""class="btn btn-dark" href="{{ .Permalink }}">{{ .Language }}</a>
+          <a type="button" style=""class="btn btn-dark" href="{{ .RelPermalink }}">{{ .Language }}</a>
           <h5> </h5>
           {{ end }}
           {{ end }}
