@@ -1,3 +1,6 @@
 [submodule "static/slides"]
 	path = static/slides
 	url = https://github.com/PrivacyLx/slides
+[submodule "static/resources/presentation-compartmentalization"]
+	path = static/resources/presentation-compartmentalization
+	url = https://github.com/francisco-core/presentation-compartmentalization
