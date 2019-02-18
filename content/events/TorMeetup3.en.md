@@ -24,5 +24,7 @@ At the end, for those interested in staying around we will configure a tor node 
 [Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/) - 23th Feb 2019 at 15:00-20:00]
 Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
 
+### Thanks
+We thank the venue [BlockCafe](https://www.meetup.com/Social-at-The-Block-Cafe/) and the following organizations for helping share the event: [tor project](https://blog.torproject.org/events/tor-meetup-lisbon), [D3](https://direitosdigitais.pt/), [Ubuntu Portugal](https://mobile.twitter.com/ubuntuportugal/status/1095964304283713537) and [AP2SI](https://ap2si.org/).
 
 

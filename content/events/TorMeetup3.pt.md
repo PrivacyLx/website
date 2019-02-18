@@ -23,3 +23,7 @@ Depois de trocas de ideas sobre uma cerveja ou café, vamos configurar um node d
 23 de Fevereiro 2019 das 15:00h às 20:00h
 [Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/) - 23th Feb 2019 at 15:00-20:00]
 Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
+
+### Agradecimentos
+
+Agradecemos ao [BlockCafe](https://www.meetup.com/Social-at-The-Block-Cafe/) por nos ceder o espaço para o evento e ao [tor project](https://blog.torproject.org/events/tor-meetup-lisbon), [D3](https://direitosdigitais.pt/), [Ubuntu Portugal](https://mobile.twitter.com/ubuntuportugal/status/1095964304283713537) e [AP2SI](https://ap2si.org/) pela ajuda na divugação do evento.
