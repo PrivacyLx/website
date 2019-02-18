@@ -1,8 +1,8 @@
 ---
 title: "Tor Meetup Lisbon"
 author: "privacylx"
-publishdate: "2019-02-12T11:00:00-20:00"
-eventdate: "2019-02-23T15:00:00-20:00"
+publishdate: "2019-02-12T11:00:00-19:00"
+eventdate: "2019-02-23T15:00:00-19:00"
 image: "/img/tor-lisbon-meetup-2019.png"
 preview: true
 description: "Recovering our lost ground on digital privacy might seem like an overwhelming taks, but in fact it is not as hard. In this workshop, we will explore and explain how to can help us in that as well as have a gathering of people interested in these topics"
@@ -21,8 +21,8 @@ At the end, for those interested in staying around we will configure a tor node 
 
 ### Where & When
 23rd February 2019 from 3pm onwards
-[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/) - 23th Feb 2019 at 15:00-20:00]
-Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
+[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/events/258934834/) - 23th Feb 2019 from 15:00 to 19:00
+Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1st floor 1050 - 133 Lisbon, Portugal
 
 ### Thanks
 We thank the venue [BlockCafe](https://www.meetup.com/Social-at-The-Block-Cafe/) and the following organizations for helping share the event: [tor project](https://blog.torproject.org/events/tor-meetup-lisbon), [D3](https://direitosdigitais.pt/), [Ubuntu Portugal](https://mobile.twitter.com/ubuntuportugal/status/1095964304283713537) and [AP2SI](https://ap2si.org/).

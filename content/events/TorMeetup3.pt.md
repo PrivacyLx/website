@@ -1,8 +1,8 @@
 ---
 title: "Explorar o Tor em Lisboa"
 author: "privacylx"
-publishdate: "2019-02-12T11:00:00-20:00"
-eventdate: "2019-02-23T15:00:00-20:00"
+publishdate: "2019-02-12T11:00:00-19:00"
+eventdate: "2019-02-23T15:00:00-19:00"
 image: "/img/tor-lisbon-meetup-2019.png"
 preview: true
 description: "Recuperar a privacidade na internet pode parecer extremamente difícil, mas na verdade não é: neste workshop em que explicaremos como é que o Tor pode ajudar nesse sentido."
@@ -21,7 +21,7 @@ Depois de trocas de ideas sobre uma cerveja ou café, vamos configurar um node d
 
 ### Onde e Quando
 23 de Fevereiro 2019 das 15:00h às 20:00h
-[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/) - 23th Feb 2019 at 15:00-20:00]
+[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/events/258934834/) - 23th Feb 2019 at 15:00-19:00
 Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1er andar 1050 - 133 Lisbon, Portugal
 
 ### Agradecimentos
