@@ -46,4 +46,5 @@ Credits to [bits of freedom](https://bof.nl) for the privacy cafe concept and lo
 
 #### Materiais usados
 Fizémos um "menu" com algumas recomendações de ferramentas para proteger a privacidade. [Download](/resources/privacy-cafe-leaflet-v1.pdf)
+Ficheiros originais (Photoshop format): [front](/resources/privacy-cafe/front-side.psd) [back](/resources/privacy-cafe/back.psd). Podem ser facilmente editados sem necessitar de fotoshop: [photopea](https://www.photopea.com/)
 
