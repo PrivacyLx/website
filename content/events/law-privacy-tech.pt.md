@@ -5,7 +5,7 @@ publishdate: 2019-02-26T10:00:35-18:00
 draft: false
 author: Luna
 image: ""
-description: "Privacy Lisbon dará as boas vindas a Sofia Calado - uma advogada especializada em privacidade e que aborará diversos tópicos com o RGPD e políticas de cookies."
+description: "Privacy Lisbon dará as boas vindas a Sofia Calado - uma advogada especializada em privacidade e que abordará diversos tópicos com o RGPD e políticas de cookies."
 ---
 
 Olá entusiastas da privacidade!
