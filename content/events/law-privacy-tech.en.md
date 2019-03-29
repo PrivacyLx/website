@@ -5,15 +5,28 @@ publishdate: 2019-02-26T10:00:35-18:00
 draft: false
 author: Luna
 image: ""
-description: "PrivacyLX will be welcoming Sofia Calado - a privacy lawyer. Sofia will be covering variety 
-of topics such as GDPR, cookie policies and consent forms."
+description: "Privacy Lisbon will be welcoming Sara who is currently completing her research on GDPR at the University of Minho and Miguel who founded the project http://legis.lontra.pt/"
 ---
 
-Hello Privacy Enthusiasts!
+Dear All,
 
-PrivacyLX will be welcoming Sofia Calado. As a privacy lawyer, Sofia will be covering variety
-of topics such as GDPR, cookie policies, data processing agreements, consent forms and more.
-If you are curious about how law, tech and privacy interact, come join us.
+Due to unforeseen circumstances, Sofia will not be able to join us anymore.
+
+Instead we will be welcoming Sara who is currently completing her research on GDPR at the University of Minho and Miguel who founded the project http://legis.lontra.pt/ during the Legal Hackathon ( https://legal-hackathon.com/ ).
+
+Current and final schedule is as follows:
+
+1- Introduction to basic concepts such as GDPR
+
+2- How we can practice our rights and benefit from the law
+
+3- Discussing the project legis lontra
+
+The presentation will be in Portuguese and will be translated to English
+
+Looking forward to see you all
+
+-----
 
 #### Where & When
 6th April 2019 from 2pm onwards

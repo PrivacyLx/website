@@ -5,13 +5,26 @@ publishdate: 2019-02-26T10:00:35-18:00
 draft: false
 author: Luna
 image: ""
-description: "Privacy Lisbon dará as boas vindas a Sofia Calado - uma advogada especializada em privacidade e que abordará diversos tópicos com o RGPD e políticas de cookies."
+description: "Privacy Lisbon dará as boas vindas à Sara, uma estudante que está a concluir o mestrado sobre RGPD na Universidade do Minho e ao Miguel, que fundou o projeto http://legis.lontra.pt/"
 ---
 
-Olá entusiastas da privacidade!
+Olá entusiastas da privacidade,
 
-Privacy Lisbon dará as boas vindas a Sofia Calado - uma advogada especializada em privacidade e que aborará diversos tópicos com o RGPD e políticas de cookies, contratos de processamento de dados
-formulários de consentimento e mais. Caso estejam curiosos como a lei, tecnologia e privacidade interagem, juntem-se.
+Devido a circunstâncias fora do nosso controlo, a Sofia não conseguirá comparecer no o próximo evento.
+
+Em vez que ela, daremos as boas vindas à Sara, uma estudante que está a concluir o mestrado sobre RGPD na Universidade do Minho e ao Miguel, que fundou o projeto [legis.lontra.pt](http://legis.lontra.pt/) durante uma [Legal Hackathon](https://legal-hackathon.com/) em Lisboa.
+
+O plano é o seguinte:
+
+1. Introdução aos conceitos basicos de privacidade
+
+2. Quais os nossos direitos de privacidade e como os podemos exercer
+
+3- Introdução ao projeto legis.lontra.pt[legis.lontra.pt](http://legis.lontra.pt/) e como este pode ajudar cidadão a inforem-se sobre a lei de forma simples.
+
+A apresentação será feita em Português, com tradução para inglês para quem necessitar.
+
+Estamos à vossa espera
 
 <br>
 #### Onde e Quando
