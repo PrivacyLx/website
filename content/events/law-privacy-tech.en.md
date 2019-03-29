@@ -16,11 +16,11 @@ Instead we will be welcoming Sara who is currently completing her research on GD
 
 Current and final schedule is as follows:
 
-1- Introduction to basic concepts such as GDPR
+1. Introduction to basic concepts such as GDPR
 
-2- How we can practice our rights and benefit from the law
+2. How we can practice our rights and benefit from the law
 
-3- Discussing the project legis lontra
+3. Discussing the project legis lontra
 
 The presentation will be in Portuguese and will be translated to English
 

@@ -20,7 +20,7 @@ O plano é o seguinte:
 
 2. Quais os nossos direitos de privacidade e como os podemos exercer
 
-3- Introdução ao projeto legis.lontra.pt[legis.lontra.pt](http://legis.lontra.pt/) e como este pode ajudar cidadão a inforem-se sobre a lei de forma simples.
+3. Introdução ao projeto legis.lontra.pt[legis.lontra.pt](http://legis.lontra.pt/) e como este pode ajudar cidadão a inforem-se sobre a lei de forma simples.
 
 A apresentação será feita em Português, com tradução para inglês para quem necessitar.
 
