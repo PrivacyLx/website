@@ -56,21 +56,16 @@
         </div>
       </div>
   {{ end }}
-<!--- END of jumbotron Showing the next event --->
+  <!--- END of jumbotron Showing the next event --->
 
-<!--- More events warning --->
+  <!--- More events warning --->
   <!-- counting the number of future events -->
   {{ $.Scratch.Set "counter" 0 }} <!-- counter workaround -->
-  {{ range (.Data.Pages.ByParam "publishdate").Reverse }}
-    {{ if .Params.eventdate }}
-      {{ $event_date := dateFormat "2006-01-02" .Params.eventdate }}
-      {{ $today := now.Format "2006-01-02" }}
-
-      {{ if gt $event_date $today }}
+  {{ $pages :=  where .Pages "Section" "events" }}
+  {{ $pages := $pages | intersect (where .Pages "Date" ">=" now) }}
+  {{ range $pages.ByDate }}
         <!-- if event after now increment the counter -->
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-      {{ end }}
-    {{ end }}
   {{ end }}
   <!--- end of count --->
   <!-- display if counter (sigular) > 1-->
