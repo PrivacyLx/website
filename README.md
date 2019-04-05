@@ -2,7 +2,7 @@
 
 This is the website for the [PrivacyLx Privacy group](https://privacylx.org) based in Lisbon.
 
-![website's screenshot](https://raw.githubusercontent.com/PrivacyLx/website/master/static/img/website-screenshot.png)
+![website's screenshot](static/img/website-screenshot.png)
 
 It is based on boostrap and uses hugo to generate the static website from the Markdown files
 
