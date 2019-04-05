@@ -1,8 +1,8 @@
 ---
 title: "Cryptoparty & Talk @ Festa do Software Livre (Moita)"
 author: "Vasilis Ververis & Francisco Core"
-publishdate: "2018-11-09T13:40:00-17:00"
-eventdate: "2018-11-24T13:40:00-18:00"
+publishdate: "2018-11-09T13:40:00"
+date: "2018-11-24T13:40:00"
 image: "/img/moita2018.png"
 preview: true
 description: Faremos uma talk de introdução ao tema da privacidade e uma cryptoparty, onde poderás aprender sobre como comunicar de forma segura, surfar na web de forma anónima e dicas sobre segurança digital."

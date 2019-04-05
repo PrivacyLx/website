@@ -2,7 +2,7 @@
 title: "Explorar o Tor em Lisboa"
 author: "privacylx"
 publishdate: "2019-02-12T11:00:00-19:00"
-eventdate: "2019-02-23T15:00:00-19:00"
+date: "2019-02-23T15:00:00"
 image: "/img/tor-lisbon-meetup-2019.png"
 preview: true
 description: "Recuperar a privacidade na internet pode parecer extremamente difícil, mas na verdade não é: neste workshop em que explicaremos como é que o Tor pode ajudar nesse sentido."
@@ -17,7 +17,7 @@ Juntem-se a nós para aprenderem como é que o Tor funciona e como é que pode s
 Termos também o workshop como configurar onion services - websites e outros servicos que só existem na rede tor e dão privacidade tanto para as pessoas que os visitam como para quem hospeda o site.
 
 Depois de trocas de ideas sobre uma cerveja ou café, vamos configurar um node da rede tor no local do evento e mostrar como isso se faz.
- 
+
 
 ### Onde e Quando
 23 de Fevereiro 2019 das 15:00h às 20:00h

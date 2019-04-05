@@ -2,7 +2,7 @@
 title: "Talk: Passwords and Compartmentalização"
 author: "Core"
 publishdate: "2019-01-22T08:40:00"
-eventdate: "2019-01-29T18:30:00-20:00"
+date: "2019-01-29T18:30:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
 description: "Vamos falar sobre como se pode melhorar a segurança das nossas passwords e como podemos compartimentalizar a nossa vida digital para ter mais privacidade."
@@ -33,4 +33,3 @@ You may contact one of the organizers at francisco.core [at] protonmail.com
 <br>
 #### Slides used
 The slides of the presentation can be found [here](https://github.com/francisco-core/presentation-compartmentalization). The slides for the other presenation given should be added shortly.
-

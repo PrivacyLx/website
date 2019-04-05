@@ -1,7 +1,7 @@
 ---
 title: "Law, Privacy & Tech"
-eventdate: 2019-04-06T14:00:00-16:00
 publishdate: 2019-02-26T10:00:35-18:00
+date: 2019-04-06T14:00:00
 draft: false
 author: Luna
 image: ""
@@ -31,8 +31,6 @@ Looking forward to see you all
 #### Where & When
 6th April 2019 from 2pm onwards
 
-[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/) 
+[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/)
 
 Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1st floor 1050 - 133 Lisbon, Portugal
-
-

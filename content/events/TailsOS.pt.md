@@ -1,8 +1,8 @@
 ---
 title: "TailsOS: a pen USB que ajuda Jornalistas e Whistleblowers"
 author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-08-01T15:31:00-18:00"
-eventdate: "2018-08-17T15:00:00-17:00"
+publishdate: "2018-08-01T15:31:00"
+date: "2018-08-17T15:00:00"
 image: "/img/Tails.jpg"
 preview: true
 description: "TailsOS é um sistema operativo de fácil utilizaçao, desenhado para

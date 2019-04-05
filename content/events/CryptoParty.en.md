@@ -1,8 +1,8 @@
 ---
 title: "Cryptoparty em Lisboa"
 author: "Kevin Gallagher & Francisco Core"
-publishdate: "2018-06-30T15:31:00-18:00"
-eventdate: "2018-07-14T15:00:00-18:00"
+publishdate: "2018-06-30T15:31:00"
+date: "2018-07-14T15:00:00"
 image: "/img/cryptoparty.jpg"
 preview: true
 description: "When you go to a Cryptoparty you learn about programs like GPG which allow you to send secure, encrypted messages using an ingenious system of key exchanges. You can also learn about secure messaging, anonymous web browsing and general tips for a safer web experience."

@@ -1,8 +1,8 @@
 ---
 title: "Workshop: Privacidade Digital"
 author: "Francisco Core & Kevin Gallagher"
-publishdate: "2018-06-10T10:30:00-12:30"
-eventdate: "2018-06-10T10:30:00-12:30"
+publishdate: "2018-06-10T10:30:00"
+date: "2018-06-10T10:30:00"
 image: "/img/WorkshopPrivacidadeDigital.png"
 preview: false
 description: 'Vivemos num mundo em que é fácil alguém aceder à nossa vida privada digital mesmo sem sabermos que isso está a acontecer. Quer sejam grandes empresas como o Facebook, governos de outros países ou "hackers", todos eles querem acesso àquilo que fazemos. E com o escândalo recente do Facebook e Cambridge Analítica é imperativo sabermos como nos proteger.'

@@ -1,7 +1,7 @@
 ---
 title: "Lei, Privacidade e Tecnologia"
-eventdate: 2019-04-06T14:00:00-16:00
 publishdate: 2019-02-26T10:00:35-18:00
+date: 2019-04-06T14:00:00
 draft: false
 author: Luna
 image: ""
@@ -33,5 +33,3 @@ Estamos à vossa espera
 [entrada livre](https://www.meetup.com/Social-at-The-Block-Cafe/)
 
 Local: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1o andar 1050 - 133 Lisboa, Portugal
-
-

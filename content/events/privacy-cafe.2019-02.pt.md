@@ -2,7 +2,7 @@
 title: "Privacy cafe"
 author: "Core"
 publishdate: "2019-01-29T08:40:00"
-eventdate: "2019-02-12T18:30:00-21:00"
+date: "2019-02-12T18:30:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
 description: "Um encontro informal para aprender e discutir privacidade digital"
@@ -46,4 +46,3 @@ Credits to [bits of freedom](https://bof.nl) for the privacy cafe concept and lo
 
 #### Materiais usados
 Fizémos um "menu" com algumas recomendações de ferramentas para proteger a privacidade. [Download](/resources/privacy-cafe-leaflet-v1.pdf)
-

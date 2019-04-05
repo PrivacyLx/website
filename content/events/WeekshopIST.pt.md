@@ -2,7 +2,7 @@
 title: "Introdução ao Tor"
 author: "Vasilis Ververis & Francisco Core"
 publishdate: "2018-10-18T11:00:00"
-eventdate: "2018-10-22T19:00:00-20:00"
+date: "2018-10-22T19:00:00"
 image: "/img/weekshopIST2018.png"
 preview: true
 description: "Segunda-feira participaremos na weekshop do IST com uma pequena apresentação sobre o Tor."

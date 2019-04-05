@@ -2,7 +2,7 @@
 title: "Talk: Passwords and Compartmentalization"
 author: "Core"
 publishdate: "2019-01-22T08:40:00"
-eventdate: "2019-01-29T18:30:00-20:00"
+date: "2019-01-29T18:30:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
 description: "We'll be exploring password security, how we can improve it as well as how to containerize our digital lives."

@@ -2,7 +2,7 @@
 title: "Privacy cafe"
 author: "Core"
 publishdate: "2019-01-29T08:40:00"
-eventdate: "2019-02-12T18:30:00-21:00"
+date: "2019-02-12T18:30:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
 description: "An informal meeting to learn and discuss how we can better protect our online privacy"
