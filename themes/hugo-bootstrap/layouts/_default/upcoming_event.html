@@ -1,0 +1,55 @@
+<!--- jumbotron Showing the next event --->
+
+{{ $pages :=  where .Pages "Section" "events" }}
+{{ $pages := $pages | intersect (where .Pages "Date" ">=" now) }}
+{{ range first 1 $pages.ByDate }}
+  {{ if .Params.preview }}
+    <div class="jumbotron jumbotron-up" style="background-image: url({{ .Params.image }}); background-repeat: no-repeat;  background-size: cover;">
+  {{ else }}
+    <div class="jumbotron jumbotron-up default-image">
+  {{ end }}
+      <div class="container container-jumbotron">
+        <h1 class="disp display-main">
+           {{ .Title }}
+         </h1>
+         {{ if .Params.Date }}
+         <p><strong style="color: black !important">{{ partial "event-date" . }}</strong>
+         {{ end }}
+         {{ .Params.description }}</p>
+
+         <div class="row">
+           <div style="width:80%; padding-left:10px">
+              <div>
+                 <p><a  class="btn btn-dark btn-lg" href="{{ .RelPermalink }}" role="button">{{ i18n "readMore" }}</a>
+               </div>
+
+          </div>
+          {{ if .Params.Date }}
+          <div style="width:20%">
+
+                <div style="float:right">
+
+                  {{ $event_date := dateFormat "2006-01-02" .Params.Date }}
+                  {{ $today := now.Format "2006-01-02" }}
+                  {{ $month := dateFormat "January " .Params.Date }}
+                  {{ $year := dateFormat "'06" .Params.Date }}
+                  {{ $day := dateFormat "2" .Params.Date }}
+                  {{ $weekday := dateFormat "Monday" .Params.Date }}
+                  {{ $time := dateFormat "15:04h" .Params.Date }}
+                  <!--{{ dateFormat "Monday, Jan 2, 2006" "2015-01-21" }}-->
+                  <div class="hideagenda agenda" style="float:right;">
+                    <div class="agenda-date" rowspan="1">
+                      <!-- Print the Date instead of PublishDate if PublishDate is defined but at its initial value of Jan 1, 0001 -->
+                      <div class="dayofmonth">{{ $day }}</div>
+                      <div class="dayofweek">{{ $month }} {{ $year }}</div>
+                      <div class="shortdate text-muted">{{ $weekday }}</div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+{{ end }}
+<!--- END of jumbotron Showing the next event --->

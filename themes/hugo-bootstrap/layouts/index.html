@@ -2,126 +2,40 @@
 
 <main role="main">
 
-  <!--- jumbotron Showing the next event --->
+  {{ .Render "upcoming_event" }}
 
-  {{ $pages :=  where .Pages "Section" "events" }}
-  {{ $pages := $pages | intersect (where .Pages "Date" ">=" now) }}
-  {{ range first 1 $pages.ByDate }}
-    {{ if .Params.preview }}
-      <div class="jumbotron jumbotron-up" style="background-image: url({{ .Params.image }}); background-repeat: no-repeat;  background-size: cover;">
-    {{ else }}
-      <div class="jumbotron jumbotron-up default-image">
-    {{ end }}
-        <div class="container container-jumbotron">
-          <h1 class="disp display-main">
-             {{ .Title }}
-           </h1>
-           {{ if .Params.Date }}
-           <p><strong style="color: black !important">{{ partial "event-date" . }}</strong>
-           {{ end }}
-           {{ .Params.description }}</p>
-
-           <div class="row">
-             <div style="width:80%; padding-left:10px">
-                <div>
-                   <p><a  class="btn btn-dark btn-lg" href="{{ .RelPermalink }}" role="button">{{ i18n "readMore" }}</a>
-                 </div>
-
-            </div>
-            {{ if .Params.Date }}
-            <div style="width:20%">
-
-                  <div style="float:right">
-
-                    {{ $event_date := dateFormat "2006-01-02" .Params.Date }}
-                    {{ $today := now.Format "2006-01-02" }}
-                    {{ $month := dateFormat "January " .Params.Date }}
-                    {{ $year := dateFormat "'06" .Params.Date }}
-                    {{ $day := dateFormat "2" .Params.Date }}
-                    {{ $weekday := dateFormat "Monday" .Params.Date }}
-                    {{ $time := dateFormat "15:04h" .Params.Date }}
-                    <!--{{ dateFormat "Monday, Jan 2, 2006" "2015-01-21" }}-->
-                    <div class="hideagenda agenda" style="float:right;">
-                      <div class="agenda-date" rowspan="1">
-                        <!-- Print the Date instead of PublishDate if PublishDate is defined but at its initial value of Jan 1, 0001 -->
-                        <div class="dayofmonth">{{ $day }}</div>
-                        <div class="dayofweek">{{ $month }} {{ $year }}</div>
-                        <div class="shortdate text-muted">{{ $weekday }}</div>
-                      </div>
-                    </div>
-                  </div>
-              </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-  {{ end }}
-  <!--- END of jumbotron Showing the next event --->
-
-  <!--- More events warning --->
-  <!-- counting the number of future events -->
-  {{ $.Scratch.Set "counter" 0 }} <!-- counter workaround -->
-  {{ $pages :=  where .Pages "Section" "events" }}
-  {{ $pages := $pages | intersect (where .Pages "Date" ">=" now) }}
-  {{ range $pages.ByDate }}
-        <!-- if event after now increment the counter -->
-        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-  {{ end }}
-  <!--- end of count --->
-  <!-- display if counter (sigular) > 1-->
-  {{ if eq ($.Scratch.Get "counter") 2 }}
-  <div class="container-jumbotron" style="margin-top:-0.88cm; padding-top:0.4cm;">
-    <h5 class="text-center"> {{ i18n "there-is" }} {{(sub ($.Scratch.Get "counter") 1)}} {{ i18n "event-in-calendar" }} <a class="btn btn-info " href="/events/"> {{ i18n "view-events" }}</a> </h5>
-  </div>
-  {{ end }}
-  <!-- display plural -->
-  {{ if gt ($.Scratch.Get "counter") 2 }}
-  <div class="container-jumbotron" style="margin-top:-0.88cm; padding-top:0.4cm;">
-    <h5 class="text-center"> {{ i18n "there-are" }} {{(sub ($.Scratch.Get "counter") 1)}}  {{ i18n "events-in-calendar" }}   <a class="btn btn-info " href="/events/"> Ver Eventos </a> </h5>
-  </div>
-  {{ end }}
-<!--- END More events warning --->
+  {{ .Render "warning_more_events"}}
 
   <br></br>
-  <div class="container"><!--
-    <div class="row">
-      <div class="col-sm-2"></div>
-      <div class="col-sm-10 text-center">-->
-      <center>
-        <blockquote style="width: 80%" class="center-block blockquote text-center">
-          <p class="mb-0">{{ i18n "article12" }}</p>
-          <footer class="blockquote-footer">{{ i18n "article12quote"}} <cite title="Source Title">{{ i18n "article12source"}} </cite></footer>
-        </blockquote>
-      </center>
-      <!--</div>
-      <div class="col-sm-2"></div>
-   </div>-->
+  <div class="container">
+    <center>
+      <blockquote style="width: 80%" class="center-block blockquote text-center">
+        <p class="mb-0">{{ i18n "article12" }}</p>
+        <footer class="blockquote-footer">{{ i18n "article12quote"}} <cite title="Source Title">{{ i18n "article12source"}} </cite></footer>
+      </blockquote>
+    </center>
  </div>
-
-  <br></br>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h3>{{ i18n "whoarewehead" }}</h3>
-            <p>{{ i18n "whoarewe" }}</p>
-            <!--<p><a class="btn btn-dark" href="/about/" role="button">Saber Mais »</a></p>-->
-        </div>
-        <div class="col-md-4">
-          <h3>{{ i18n "whyisprivacyimportanthead" }}</h3>
-          <p>{{ i18n "whyisprivacyimportant" }}</p>
-          <!--<p><a class="btn btn-dark" href="" role="button">Actually, I do have somthing to hide »</a></p>-->
-        </div>
-        <div class="col-md-4">
-        <h3>{{ i18n "whatcanwedohead" }}</h3>
-        <p>{{ i18n "whatcanwedo" }}</p>
-        <p>{{ i18n "cometoourworkshop" }}</p>
-        <!--<p><a class="btn btn-dark" href="Explor Panopticon.html" role="button">Explore the Panopticon »</a>-->
-      </div>
+ <br><br>
+ <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <h3>{{ i18n "whoarewehead" }}</h3>
+      <p>{{ i18n "whoarewe" }}</p>
+      <!--<p><a class="btn btn-dark" href="/about/" role="button">Saber Mais »</a></p>-->
     </div>
-
-    <br></br>
-
-<br>
+    <div class="col-md-4">
+      <h3>{{ i18n "whyisprivacyimportanthead" }}</h3>
+      <p>{{ i18n "whyisprivacyimportant" }}</p>
+      <!--<p><a class="btn btn-dark" href="" role="button">Actually, I do have somthing to hide »</a></p>-->
+    </div>
+    <div class="col-md-4">
+      <h3>{{ i18n "whatcanwedohead" }}</h3>
+      <p>{{ i18n "whatcanwedo" }}</p>
+      <p>{{ i18n "cometoourworkshop" }}</p>
+      <!--<p><a class="btn btn-dark" href="Explor Panopticon.html" role="button">Explore the Panopticon »</a>-->
+    </div>
+  </div>
+  <br><br>
 </main>
 
 {{ end }}

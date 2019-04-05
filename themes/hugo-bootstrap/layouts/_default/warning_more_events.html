@@ -1,0 +1,23 @@
+<!--- More events warning --->
+<!-- counting the number of future events -->
+{{ $.Scratch.Set "counter" 0 }} <!-- counter workaround -->
+{{ $pages :=  where .Pages "Section" "events" }}
+{{ $pages := $pages | intersect (where .Pages "Date" ">=" now) }}
+{{ range $pages.ByDate }}
+      <!-- if event after now increment the counter -->
+      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+{{ end }}
+<!--- end of count --->
+<!-- display if counter (sigular) > 1-->
+{{ if eq ($.Scratch.Get "counter") 2 }}
+<div class="container-jumbotron" style="margin-top:-0.88cm; padding-top:0.4cm;">
+  <h5 class="text-center"> {{ i18n "there-is" }} {{(sub ($.Scratch.Get "counter") 1)}} {{ i18n "event-in-calendar" }} <a class="btn btn-info " href="/events/"> {{ i18n "view-events" }}</a> </h5>
+</div>
+{{ end }}
+<!-- display plural -->
+{{ if gt ($.Scratch.Get "counter") 2 }}
+<div class="container-jumbotron" style="margin-top:-0.88cm; padding-top:0.4cm;">
+  <h5 class="text-center"> {{ i18n "there-are" }} {{(sub ($.Scratch.Get "counter") 1)}}  {{ i18n "events-in-calendar" }}   <a class="btn btn-info " href="/events/"> Ver Eventos </a> </h5>
+</div>
+{{ end }}
+<!--- END More events warning --->
