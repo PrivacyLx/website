@@ -13,7 +13,7 @@
               {{ range .Site.Menus.main }}
                 {{ if eq (.URL ) "/events/" }} <!-- Make events be a button -->
                 <h5> </h5>
-                <a class="btn btn-info " href="{{ .URL }}">{{ .Name }}</a>
+                <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ else }}
                 <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
                     {{ if eq (hasPrefix .URL "mailto:") true }}
@@ -39,7 +39,7 @@
               {{ range .Site.Menus.main }}
                 {{ if eq (.URL ) "/events/" }} <!-- Make events be a button -->
                 <h5> </h5>
-                <a class="btn btn-info " href="{{ .URL }}">{{ .Name }}</a>
+                <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ else }}
                 <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
                     {{ if eq (hasPrefix .URL "mailto:") true }}
