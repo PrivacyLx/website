@@ -96,3 +96,9 @@
 
 - id: resources-description
   translation: "Aqui colocamos recursos que criamos no contexto dos workshops, tais como apresentações, reports e tudo o que possa ser do interesse do leitor."
+
+- id: be-up-to-date
+  translation: "Fica a par dos nossos eventos!"
+
+- id: subscribe-newsletter
+  translation: "Subscrever Newsletter"

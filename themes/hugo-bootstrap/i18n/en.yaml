@@ -97,3 +97,9 @@
 
 - id: resources-description
   translation: "Here we have resources that we create such as presentations, reports, etc."
+
+- id: be-up-to-date
+  translation: "Get notified of our events!"
+
+- id: subscribe-newsletter
+  translation: "Subscribe Newsletter"
