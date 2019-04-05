@@ -2,9 +2,9 @@
 
 <main role="main">
 
-  {{ .Render "upcoming_event" }}
+  {{ partial "upcoming_event" . }}
 
-  {{ .Render "warning_more_events"}}
+  {{ partial "warning_more_events" . }}
 
   <br></br>
   <div class="container">
