@@ -1,9 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-eventdate: {{ .Date }}
 publishdate: {{ .Date }}
+date: "replace with date of event"
 draft: true
-image: ""
+image: "/img/[put image in /static/img/]"
 description: ""
 ---
 
