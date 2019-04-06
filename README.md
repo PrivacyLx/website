@@ -51,9 +51,9 @@ Fox example: `{{< revealjs cifra-te-ou-devoram-session00 >}}` for the presentati
 
 ## Deployment
 ### Requirements
-  * unix-based system
-  * caddy webserver
-  * hugo
+  * `unix-based system`
+  * `caddy webserver`
+  * `hugo` - generates the static website from `markdown` files
 
 ### Deploying
   * `cd /path/to/website`
