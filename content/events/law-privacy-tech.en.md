@@ -8,6 +8,8 @@ image: ""
 description: "Privacy Lisbon will be welcoming Sara who is currently completing her research on GDPR at the University of Minho and Miguel who founded the project http://legis.lontra.pt/"
 ---
 
+**NOTE:** The slides are available [here](/resources/law-privacy-tech/)
+
 Dear All,
 
 Due to unforeseen circumstances, Sofia will not be able to join us anymore.

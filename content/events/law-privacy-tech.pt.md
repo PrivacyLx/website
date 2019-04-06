@@ -3,10 +3,13 @@ title: "Lei, Privacidade e Tecnologia"
 publishdate: 2019-02-26T10:00:35-18:00
 date: 2019-04-06T14:00:00
 draft: false
+preview: tru
 author: Luna
-image: ""
+image: "/img/law-privacy-tech_thumbnail.png"
 description: "Privacy Lisbon dará as boas vindas à Sara, uma estudante que está a concluir o mestrado sobre RGPD na Universidade do Minho e ao Miguel, que fundou o projeto http://legis.lontra.pt/"
 ---
+
+**NOTA:** Os slides estao disponíveis [aqui](/resources/law-privacy-tech/)
 
 Olá entusiastas da privacidade,
 
