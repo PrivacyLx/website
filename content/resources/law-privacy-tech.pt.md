@@ -5,6 +5,9 @@ date: 2019-04-06T13:08:54-04:00
 image: "/img/law-privacy-tech_thumbnail.png"
 draft: false
 preview: true
+description: "Durante a sessão \"Lei, Privacidade e Tecnologia\", a Sara uma aluna de mestrado
+na Universidade de Braga, partilhou connosco uma apresentação sobre as leis em
+portugal de protecção de dados."
 ---
 
 Durante a sessão "Lei, Privacidade e Tecnologia", a Sara uma aluna de mestrado

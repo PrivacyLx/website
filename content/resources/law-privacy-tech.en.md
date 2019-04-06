@@ -6,6 +6,8 @@ date: 2019-04-06T13:08:54-04:00
 image: "/img/law-privacy-tech_thumbnail.png"
 draft: false
 preview: true
+description: "During the session \"Law, Privacy & Tech\", Sara (a master's student from the Braga University),
+kindly shared with us an introduction to the laws that protect our privacy in Europe."
 ---
 
 During the session "Law, Privacy & Tech", Sara (a master's student from the Braga University),
