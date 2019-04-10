@@ -1,11 +1,15 @@
 ---
-title: "Privacy cafe"
+title: "[Alterado] Privacy cafe"
 author: "Core"
 publishdate: "2019-02-01T08:40:00"
 date: "2019-04-12T16:00:00"
 image: "/img/privacy-cafe-logo.png"
 preview: true
-description: "Um encontro informal para aprender e discutir privacidade digital"
+description: "Um encontro informal para aprender e discutir privacidade digital. Alteração: o workshop decorrerá apenas em português"
+---
+
+**ALTERAÇÂO:** O workshop decorrerá apenas em português. Tipicamente, conseguimos proporcionar também inglês. Mas desta vez tal não será possível.
+
 ---
 
 ##### <center>**Um encontro informal para aprender e trocar ideas sobre privacidade digital**</center>
@@ -22,10 +26,6 @@ a nossa privacidade, tais como o *tor browser*, *extensões de browsers* como o 
 
 ### <center>**Juntem-se a nós!**</center>
 <br>
-
-
-<center>***nota sobre a língua:*** *como o evento é uma discussão, cada um pode falar a língua que quiser,
-mas é possível que tenda para mais para o Inglês.*</center>
 
 ### Onde e Quando?
 
