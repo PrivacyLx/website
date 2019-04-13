@@ -12,6 +12,8 @@
         {{ $pages :=  where .Pages "Section" "events" }}
         {{ $pages := $pages | intersect (where .Pages "Date" ">=" now) }}
         {{ range $pages.ByDate }}
+         {{ if not (isset .Params "hidedate") }}
+
         <tr>
           {{ $month := dateFormat "January " .Params.Date }}
           {{ $year := dateFormat "'06" .Params.Date }}
@@ -31,6 +33,7 @@
                 {{ .Params.title }}
               </a>
           </tr>
+	 {{ end }}
         {{ end }}
       </tbody>
     </table>
