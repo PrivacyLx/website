@@ -1,7 +1,7 @@
 ---
 title: "Mais eventos em breve"
 author: "The Organizers"
-publishdate: "2019-06-11T18:00:00"
+publishdate: "2019-06-28T18:00:00"
 date: "2019-12-05"
 image: "/img/computer.png"
 hidedate: true
