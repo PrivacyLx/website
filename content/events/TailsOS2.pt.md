@@ -35,3 +35,10 @@ Questões relacionadas com este evento pode ser dirigidas para o email cansuluna
 
 **A introdução será em inglês**, mas no resto do workshop, poderemos ajudar em português.
 
+### Onde e Quando
+28 de Junho 2019 das 18:30h às 20:30h
+[Entrada livre](https://www.meetup.com/Social-at-The-Block-Cafe/events/262428910/)
+
+Local: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1º andar 1050 - 133 Lisbon, Portugal
+
+

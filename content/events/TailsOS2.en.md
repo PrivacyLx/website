@@ -31,4 +31,10 @@ We will spend the first 30 mins discussing and understanding the Tails Operating
 
 Further questions or concerns regarding this event can be directed to cansuluna [at] protonmail.com
 
+### Where & When
+28th June 2019 from 6:30pm until 8:30
+[Free event, open for all](https://www.meetup.com/Social-at-The-Block-Cafe/events/262428910/)
+
+Location: [The Block Cafe](http://theblock.cafe/) |  Rua Latino Coelho 63, 1st floor 1050 - 133 Lisbon, Portugal
+
 
