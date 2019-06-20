@@ -1,12 +1,12 @@
 ---
 title: "TailsOS Workshop"
 publishdate: 2019-06-19T00:00:00Z
-date: 2019-06-28T16:00:00
+date: 2019-06-28T18:30:00
 Author: luna
 draft: false
 image: "/img/tails-logo.svg"
 preview: True
-description: 'O Tails é um sistema operativo que corre a partir de uma pen usb e protege a nossa privacidade. É ativamente utilizado por jornalistas e ativistas dos direitos humanos em situações hostis.'
+description: 'O Tails é um sistema operativo que corre a partir de uma pen usb e protege a nossa privacidade.'
 ---
 
 Hello Privacy Enthusiast,
