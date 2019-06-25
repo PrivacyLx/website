@@ -88,7 +88,7 @@ This website uses [hugo](https://gohugo.io) to generate the [static website](htt
 something but caching problems may occur and if something unexpected happens you
 should restart the server (`hugo -D server`) and see if it persists
 
-### Where to edit what
+### Where to edit what 
 
 It uses the [hugo-bootstrap](https://themes.gohugo.io/hugo-bootstrap/) to leverage
 the aesthetics of [twitter bootstrap](https://getbootstrap.com/) and the simplicity
