@@ -24,10 +24,10 @@ theme = "hugo-bootstrap"
   weight = 13
   url = "/"
 
-  [[languages.pt.menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+   [[languages.pt.menu.main]]
+     url = "https://cafe.privacylx.org"
+     name = "Comunidade"
+     weight = 1
   [[languages.pt.menu.main]]
     url = "/events/"
     name = "Eventos"
@@ -42,10 +42,10 @@ theme = "hugo-bootstrap"
   weight = 1
   url = "/en/"
 
-  [[languages.en.menu.main]]
-    url = "/en/"
-    name = "Home"
-    weight = 1
+   [[languages.en.menu.main]]
+     url = "https://cafe.privacylx.org"
+     name = "Community"
+     weight = 1
   [[languages.en.menu.main]]
     url = "/events/"
     name = "Events"
