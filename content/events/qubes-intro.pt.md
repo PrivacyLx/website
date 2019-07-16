@@ -24,6 +24,8 @@ A talk será uma introdução ao tópico mas queremos também deixar o convite a
 
 ### Onde e Quando
 
+**nota:** a talk será em inglês, com a possibilidade também que colocar questões em português na parte final
+
 Entrada Livre - dia 22 de Julho de 2019 da 16:00h até às 17:30h
 
 Onde: Hemeroteca Municipal| Rua Lucio de Azevedo, 21B 1600145 Lisboa
