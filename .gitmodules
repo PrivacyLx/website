@@ -4,3 +4,6 @@
 [submodule "static/resources/presentation-compartmentalization"]
 	path = static/resources/presentation-compartmentalization
 	url = https://github.com/francisco-core/presentation-compartmentalization
+[submodule "static/resources/qubes-journalists"]
+	path = static/resources/qubes-journalists
+	url = https://github.com/francisco-core/presentation-qubes-for-journalists

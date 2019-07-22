@@ -22,6 +22,11 @@ Tem também outras funcionalidades como a capacidade de fazer com que um vírus 
 
 A talk será uma introdução ao tópico mas queremos também deixar o convite a veteranos de qubes para contribuirem para a discussão na última meia hora. Todos são bem-vindos!
 
+### Onde estão os slides
+
+Pode encontrá-los [aqui](/resources/qubes-journalists)
+
+
 ### Onde e Quando
 
 **nota:** a talk será em inglês, com a possibilidade também que colocar questões em português na parte final
