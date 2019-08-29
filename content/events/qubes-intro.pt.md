@@ -14,7 +14,7 @@ description: "Uma introdução ao sistema operativo razoavelmente seguro Qubes O
 
 O Qubes OS é um sistema operativo único em termos de segurança. Usa a ideia de **segurança por compartimentalização**.
 
-{{< tweet 781493632293605376 >}}
+ <blockquote class="twitter-tweet"><p dir="ltr" lang="en">If you're serious about security, <a href="https://twitter.com/QubesOS?ref_src=twsrc%5Etfw">@QubesOS</a> is the best OS available today. It's what I use, and free. Nobody does VM isolation better. <a href="https://t.co/FyX5NX47cS">https://t.co/FyX5NX47cS</a></p> -- Edward Snowden (@Snowden) <a href="https://twitter.com/Snowden/status/781493632293605376?ref_src=twsrc%5Etfw">September 29, 2016</a></blockquote>
 
 Essencialmente, em vez de no mesmo computador armazenarmos as nossas palavras-passe, histórico de navegação, e documentos ao mesmo tempo que abrimos qualquer PDF e visitamos qualquer site, o Qubes OS ajuda-nos a fazê-lo em várias máquinas virtuais sem sequer nos apercebermos disso.
 
