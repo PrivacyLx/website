@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+<br>
+<div class="container text-center">
+  <h1>{{ i18n "join-us" }}</h1>
+  {{ i18n "join-us-description" }}
+</div>
+
+<br></br>
+<div class="jumbotron jumbotron-fluid">
+<div class="container">
+  <div class="row">
+       <div class="col-lg-6 text-center">
+	<h2>{{ i18n "Forum" }}</h2>
+	<p>{{ i18n "join our forum" }}</p>
+	<a href="https://chat.privacylx.org"> <img src="/img/forum-screenshot.png" style="width: 100%"></img></a>
+	<br></br>
+        </div>
+       <div class="col-lg-6 text-center">
+        <h2>{{ i18n "Chat" }}</h2>
+        <p>{{ i18n "Come and say hello on our chat" }}</p>
+        <a href="https://riot.im/app/#/group/+privacylx:matrix.org">
+	  <img src="/img/matrix-chat.png" style="width: 100%"></img>
+	</a>
+	{{ i18n "The channel can also be accessed through"}} <a href="https://irc.lc/oftc/privacylx/">{{ i18n "IRC (#privacylx on OFTC)" }}</a>
+	<br></br>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="container text-center">
+  <br>
+  <div class="row">
+   <div class="col-sm-4 text-center">
+      <h2>{{ i18n "learn" }}</h2>
+      {{ i18n "learn-description" }}
+      <br><br>
+      <a href="{{ i18n "learn-link" }}">{{ i18n "readMore" }}</a>
+      <br><br>
+    </div>
+    <div class="col-sm-4 text-center">
+      <h2>{{ i18n "teach" }}</h2>
+      {{ i18n "teach-description" }}
+      <br><br>
+      <a href="{{ i18n "teach-link" }}">{{ i18n "readMore" }}</a>
+      <br><br>
+    </div>
+    <div class="col-sm-4 text-center">
+      <h2>{{ i18n "develop" }}</h2>
+      {{ i18n "develop-description" }}
+      <br><br>
+      <a href="https://github.com/PrivacyLx/privacylx-issue-tracker">{{ i18n "readMore" }}</a>
+      <br>
+    </div>
+  </div>
+</div>
+<br></br>
+{{ end }}

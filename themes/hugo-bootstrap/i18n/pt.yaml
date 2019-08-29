@@ -96,3 +96,54 @@
 
 - id: resources-description
   translation: "Aqui colocamos recursos que criamos no contexto dos workshops, tais como apresentações, reports e tudo o que possa ser do interesse do leitor."
+
+- id: join-us-description
+  translation: "Somos uma comunidade que valoriza a privacidade como algo fundamental para uma sociedade livre."
+
+- id: join-us
+  translation: "Junta-te a nós!"
+
+- id: "all are welcome"
+  translation: "Todos são bem-vindos independentemente do conhecimento que tenham já sobre o tópico."
+
+- id: Forum
+  translation: "Forum"
+
+- id: "join our forum"
+  translation: "O principar meio de comunicação da comunidade"
+
+- id: "Chat"
+  translation: "Chat"
+
+- id: "Come and say hello on our chat"
+  translation: "Para conversas rápidas, em real-time ou pequenas questões este é o sítio"
+
+- id: "The channel can also be accessed through"
+  translation: "The channel can also be accessed through"
+
+- id: "IRC (#privacylx on OFTC)"
+  translation: "IRC (#privacylx on OFTC)"
+
+- id: "learn"
+  translation: "Aprender"
+
+- id: "learn-description"
+  translation: "É o primeiro passo para a ação! Pode parecer uma tarefa impossível, mas passo a passo conseguimos recuperar a nossa privacidade."
+
+- id: "learn-link"
+  translation: "https://cafe.privacylx.org/t/getting-started-as-bases/39#portugues"
+
+- id: "teach"
+  translation: "Ensinar"
+
+- id: "teach-description"
+  translation: "Parte do nosso trabalho consiste em dar formação gratuita sobre o riscos da vigilância digital e como os combater."
+
+- id: "teach-link"
+  translation: "https://cafe.privacylx.org/new-topic?title=Ideia%20para%20evento%20sobre...&body=Boas!%20Estava%20interessado%20em%20organizar%20um%20evento%20sobre...&category=event-ideas"
+
+- id: "develop"
+  translation: "Programar"
+
+- id: "develop-description"
+  translation: "As configurações da nossa infraestrutura são pública. Para programadores generosos, temos uma lista de issues."
