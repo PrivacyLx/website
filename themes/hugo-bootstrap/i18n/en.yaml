@@ -110,17 +110,11 @@
 - id: "join our forum"
   translation: "Where we have lively discussions about privacy and surveillance"
 
-- id: "all are welcome"
-  translation: "Todos s  o bem-vindos independentemente do conhecimento que tenham j   sobre o t  pico."
-
 - id: "Chat"
   translation: "Chat"
 
 - id: "Come and say hello on our chat"
-  translation: "Come and say hello on our chat"
-
-- id: "The channel can also be accessed through"
-  translation: "The channel can also be accessed through"
+  translation: "Come and say hello to our chat"
 
 - id: "IRC (#privacylx on OFTC)"
   translation: "IRC (#privacylx on OFTC)"
@@ -129,10 +123,13 @@
   translation: "Learn"
 
 - id: "learn-description"
-  translation: "It's the first step to be able to act. It might sound impossible but step by step you can do it. Let's get started!"
+  translation: "It's the first step to be able to act. It might sound impossible but step by step you can do it."
 
 - id: "learn-link"
   translation: "https://cafe.privacylx.org/t/getting-started-as-bases/39#english"
+
+- id: "learn-link-text"
+  translation: "Let's get started!"
 
 - id: "teach"
   translation: "Teach"
@@ -143,8 +140,11 @@
 - id: "teach-link"
   translation: "https://cafe.privacylx.org/new-topic?title=Idea%20for%20an%20event%20about...&body=Hello!%20I%20am%20interested%20in%20organizing%20an%20event%20about...&category=event-ideas"
 
-- id: "develop"
-  translation: "Develop"
+- id: "help"
+  translation: "Help"
 
-- id: "develop-description"
-  translation: "Our infrastructure's code is free sofware so everyone can contribute. If you are a developer and feel generous, take a look out our open issues."
+- id: "help-description"
+  translation: "Since we are volunteers some tasks are waiting just for the right person to do them. Are you the one?"
+
+- id: "help-link-text"
+  translation: "Are you the one?"

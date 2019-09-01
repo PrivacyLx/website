@@ -103,14 +103,11 @@
 - id: join-us
   translation: "Junta-te a nós!"
 
-- id: "all are welcome"
-  translation: "Todos são bem-vindos independentemente do conhecimento que tenham já sobre o tópico."
-
 - id: Forum
   translation: "Forum"
 
 - id: "join our forum"
-  translation: "O principar meio de comunicação da comunidade"
+  translation: "Tod@s são bem-vindos! Este é o principal meio onde nos encontramos."
 
 - id: "Chat"
   translation: "Chat"
@@ -128,10 +125,13 @@
   translation: "Aprender"
 
 - id: "learn-description"
-  translation: "É o primeiro passo para a ação! Pode parecer uma tarefa impossível, mas passo a passo conseguimos recuperar a nossa privacidade."
+  translation: "Pode parecer uma tarefa impossível, mas passo a passo conseguimos recuperar a nossa privacidade."
 
 - id: "learn-link"
   translation: "https://cafe.privacylx.org/t/getting-started-as-bases/39#portugues"
+
+- id: "learn-link-text"
+  translation: "Vamos começar"
 
 - id: "teach"
   translation: "Ensinar"
@@ -142,8 +142,11 @@
 - id: "teach-link"
   translation: "https://cafe.privacylx.org/new-topic?title=Ideia%20para%20evento%20sobre...&body=Boas!%20Estava%20interessado%20em%20organizar%20um%20evento%20sobre...&category=event-ideas"
 
-- id: "develop"
-  translation: "Programar"
+- id: "help"
+  translation: "Ajudar"
 
-- id: "develop-description"
-  translation: "As configurações da nossa infraestrutura são pública. Para programadores generosos, temos uma lista de issues."
+- id: "help-description"
+  translation: "Como somos todos voluntários, há uma série de tarefas que estão só à espera da pessoa certa para as fazer."
+
+- id: "help-link-text"
+  translation: "Serás tu essa pessoa?"
