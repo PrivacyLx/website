@@ -14,7 +14,7 @@ description: "An introduction to the reasonable secure operating system Qubes OS
 
 Qubes OS is an operating system unlike any other in terms of security. It it based on the idea of *security by compartmentalization*.
 
-{{< tweet 781493632293605376 >}}
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">If you're serious about security, <a href="https://twitter.com/QubesOS?ref_src=twsrc%5Etfw">@QubesOS</a> is the best OS available today. It's what I use, and free. Nobody does VM isolation better. <a href="https://t.co/FyX5NX47cS">https://t.co/FyX5NX47cS</a></p> -- Edward Snowden (@Snowden) <a href="https://twitter.com/Snowden/status/781493632293605376?ref_src=twsrc%5Etfw">September 29, 2016</a></blockquote>
 
 The presentation will be presented with the aim of solving some security issues investigative jounalists may face to provide empirical
 examples on how it can be useful. But people from all backgrounds are invited.
