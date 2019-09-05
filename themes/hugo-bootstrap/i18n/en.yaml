@@ -13,6 +13,9 @@
 - id: translations
   translation: "Translations"
 
+- id: footer-text
+  translation: "We are an association based in Lisbon that aims to raise awareness on privacy issues"
+
 - id: related
   translation: "See also"
 
