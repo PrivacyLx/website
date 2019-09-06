@@ -97,56 +97,56 @@
 - id: resources-description
   translation: "Aqui colocamos recursos que criamos no contexto dos workshops, tais como apresentações, reports e tudo o que possa ser do interesse do leitor."
 
-- id: join-us-description
-  translation: "Somos uma comunidade que valoriza a privacidade como algo fundamental para uma sociedade livre."
-
 - id: join-us
   translation: "Junta-te a nós!"
 
-- id: Forum
+- id: join-us-description
+  translation: "Somos uma comunidade que valoriza a privacidade como algo fundamental para uma sociedade livre."
+
+- id: forum
   translation: "Forum"
 
-- id: "join our forum"
+- id: join-forum
   translation: "Tod@s são bem-vind@s! Este é o principal meio onde nos encontramos."
 
-- id: "Chat"
+- id: chat
   translation: "Chat"
 
-- id: "Come and say hello on our chat"
-  translation: "Para conversas rápidas, em real-time ou pequenas questões este é o sítio"
+- id: chat-hello
+  translation: "Para conversas rápidas, em real-time ou pequenas questões este é o sítio."
 
-- id: "The channel can also be accessed through"
+- id: irc-privacylx
+  translation: "IRC (#privacylx em OFTC)"
+
+- id: channel-access
   translation: "Também é possivel aceder ao canal através de"
 
-- id: "IRC (#privacylx on OFTC)"
-  translation: "IRC (#privacylx on OFTC)"
-
-- id: "learn"
+- id: learn
   translation: "Aprender"
 
-- id: "learn-description"
+- id: learn-description
   translation: "Pode parecer uma tarefa impossível, mas passo a passo conseguimos recuperar a nossa privacidade."
 
-- id: "learn-link"
+- id: learn-link
   translation: "https://cafe.privacylx.org/t/getting-started-as-bases/39#portugues"
 
-- id: "learn-link-text"
-  translation: "Vamos começar"
+- id: learn-link-text
+  translation: "Vamos começar!"
 
-- id: "teach"
+- id: teach
   translation: "Ensinar"
 
-- id: "teach-description"
+- id: teach-description
   translation: "Parte do nosso trabalho consiste em dar formação gratuita sobre o riscos da vigilância digital e como os combater."
 
-- id: "teach-link"
+- id: teach-link
   translation: "https://cafe.privacylx.org/new-topic?title=Ideia%20para%20evento%20sobre...&body=Boas!%20Estava%20interessado%20em%20organizar%20um%20evento%20sobre...&category=event-ideas"
 
-- id: "help"
+- id: help
   translation: "Ajudar"
 
-- id: "help-description"
+- id: help-description
   translation: "Como somos tod@s voluntári@s, há uma série de tarefas que estão só à espera da pessoa certa para as fazer."
 
-- id: "help-link-text"
+- id: help-link-text
   translation: "Serás tu essa pessoa?"
