@@ -13,6 +13,9 @@
 - id: translations
   translation: "Traduções"
 
+- id: footer-text
+  translation: "Somos uma associação cediada em Lisboa que defende o direito à privacidade"
+
 - id: related
   translation: "Recomendações"
 
