@@ -28,7 +28,7 @@ bloquear outros sites.
 
 ## Como posso ajudar?
 
-Pode-nos ajudar a recolher medições de diferentes redes e ISPs (operadora móvel) através de
+Pode-nos ajudar a recolher medições de diferentes redes e ISPs (operadora móvel) através
 do software desenvolvido pela OONI (Open Observatory of Network Interference),
 um software livre e uma rede de observação global para detectar censura,
 vigilância e manipulação de tráfego na Internet. Pode instalar a OONI
@@ -57,7 +57,7 @@ disponível e acessível a partir do seu ISP ou rede.
 
 <br>
 
-<center><a class="btn btn-info btn-lg" href="https://run.ooni.io/nettest?tn=web_connectivity&ta=%7B%22urls%22%3A%5B%22https%3A%2F%2Fpartidoalianca.pt%2F%22%2C%22https%3A%2F%2Fwww.bloco.org%2F%22%2C%22https%3A%2F%2Ffazsentido.cds.pt%2F%22%2C%22https%3A%2F%2Fpartidochega.pt%2F%22%2C%22https%3A%2F%2Fwww.cdu.pt%2F2019%2F%22%2C%22https%3A%2F%2Finiciativaliberal.pt%2F%22%2C%22https%3A%2F%2Fjuntospelopovo.pt%2F%22%2C%22https%3A%2F%2Fpartidolivre.pt%2F%22%2C%22http%3A%2F%2Fwww.mas.org.pt%2F%22%2C%22http%3A%2F%2Fwww.mas.org.pt%2F%22%2C%22https%3A%2F%2Fnoscidadaos.pt%2F%22%2C%22https%3A%2F%2Fwww.pan.com.pt%2F%22%2C%22https%3A%2F%2Fwww.lutapopularonline.org%2F%22%2C%22https%3A%2F%2Fpdr.pt%2F%22%2C%22http%3A%2F%2Fwww.pnr.pt%2F%22%2C%22http%3A%2F%2Fwww.cds.pt%2F%22%2C%22https%3A%2F%2Fppmonarquico.pt%2F%22%2C%22https%3A%2F%2Fwww.psd.pt%2F%22%2C%22https%3A%2F%2Fps.pt%2F%22%2C%22https%3A%2F%2Fwww.partidotrabalhista.pt%2F%22%2C%22https%3A%2F%2Fwww.purp.pt%2F%22%2C%22https%3A%2F%2Fmpt.pt%2F%22%2C%22https%3A%2F%2Fwww.partido-rir.pt%2F%22%2C%22http%3A%2F%2Fwww.cne.pt%2F%22%2C%22https%3A%2F%2Fwww.recenseamento.mai.gov.pt%2F%22%2C%22http%3A%2F%2Fwww.eleicoes.mai.gov.pt%2F%22%2C%22https%3A%2F%2Fwww.eleicoes.mai.gov.pt%2Flegislativas2015%2F%22%2C%22http%3A%2F%2Fwww.portaldoeleitor.pt%2F%22%2C%22http%3A%2F%2Fwww.sg.mai.gov.pt%2FAdministracaoEleitoral%2FPaginas%2Fdefault.aspx%2F%22%2C%22http%3A%2F%2Fwww.tribunalconstitucional.pt%2F%22%5D%7D&mv=1.2.0" role="button">correr o OONI</a></center>
+<center><a class="btn btn-info btn-lg" href="https://run.ooni.io/nettest?tn=web_connectivity&ta=%7B%22urls%22%3A%5B%22https%3A%2F%2Fpartidoalianca.pt%2F%22%2C%22https%3A%2F%2Fwww.bloco.org%2F%22%2C%22https%3A%2F%2Ffazsentido.cds.pt%2F%22%2C%22https%3A%2F%2Fpartidochega.pt%2F%22%2C%22https%3A%2F%2Fwww.cdu.pt%2F2019%2F%22%2C%22https%3A%2F%2Finiciativaliberal.pt%2F%22%2C%22https%3A%2F%2Fjuntospelopovo.pt%2F%22%2C%22https%3A%2F%2Fpartidolivre.pt%2F%22%2C%22http%3A%2F%2Fwww.mas.org.pt%2F%22%2C%22http%3A%2F%2Fwww.mas.org.pt%2F%22%2C%22https%3A%2F%2Fnoscidadaos.pt%2F%22%2C%22https%3A%2F%2Fwww.pan.com.pt%2F%22%2C%22https%3A%2F%2Fwww.lutapopularonline.org%2F%22%2C%22https%3A%2F%2Fpdr.pt%2F%22%2C%22http%3A%2F%2Fwww.pnr.pt%2F%22%2C%22http%3A%2F%2Fwww.cds.pt%2F%22%2C%22https%3A%2F%2Fppmonarquico.pt%2F%22%2C%22https%3A%2F%2Fwww.psd.pt%2F%22%2C%22https%3A%2F%2Fps.pt%2F%22%2C%22https%3A%2F%2Fwww.partidotrabalhista.pt%2F%22%2C%22https%3A%2F%2Fwww.purp.pt%2F%22%2C%22https%3A%2F%2Fmpt.pt%2F%22%2C%22https%3A%2F%2Fwww.partido-rir.pt%2F%22%2C%22http%3A%2F%2Fwww.cne.pt%2F%22%2C%22https%3A%2F%2Fwww.recenseamento.mai.gov.pt%2F%22%2C%22http%3A%2F%2Fwww.eleicoes.mai.gov.pt%2F%22%2C%22https%3A%2F%2Fwww.eleicoes.mai.gov.pt%2Flegislativas2015%2F%22%2C%22http%3A%2F%2Fwww.portaldoeleitor.pt%2F%22%2C%22http%3A%2F%2Fwww.sg.mai.gov.pt%2FAdministracaoEleitoral%2FPaginas%2Fdefault.aspx%2F%22%2C%22http%3A%2F%2Fwww.tribunalconstitucional.pt%2F%22%5D%7D&mv=1.2.0" role="button">Correr o OONI test</a></center>
 
 <br>
 
