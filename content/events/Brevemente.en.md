@@ -15,7 +15,7 @@ The newsletter signup is still a work in progress but we hope it won't take long
 
 If you are interested in organizing events like the ones we've been doing or you are interested in colaborating in one, let us know at:
 
-**francisco.core at protonmail.com** ou **kevin.gallagher at nyu.edu**.
+**contact at privacylx.org**.
 
  
 

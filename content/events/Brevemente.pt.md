@@ -16,7 +16,7 @@ Relativamente à newsletter, ainda não está completamente pronta, mas em breve
 
 Se estiverem interessados em organizar um eventos destes ou a colaborar connosco, enviem-nos um e-mail para:
 
-**francisco.core at protonmail.com** ou **kevin.gallagher at nyu.edu**.
+**contact at privacylx.org**.
 
 
 Obrigado a todos e até breve.
