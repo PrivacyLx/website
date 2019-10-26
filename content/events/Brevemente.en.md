@@ -7,6 +7,8 @@ image: "/img/computer.png"
 hidedate: true
 preview: true
 description: "Keep checking to our website because we are preparing future workshops. If you would be interested in hosting or helping with one, let us know. For contacts click on 'read more'"
+sitemap_exclude: true
+rss_exclude: true
 ---
 
 We would like to thank all the people who filled the rooms of our last events and let you know that we are preparing future events.
