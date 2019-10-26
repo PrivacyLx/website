@@ -1,7 +1,7 @@
 ---
 title: "We are preparing future workshops"
 author: "The Organizers"
-publishdate: "2019-10-15T18:00:00"
+publishdate: "2019-11-02T18:00:00"
 date: "2019-12-05"
 image: "/img/computer.png"
 hidedate: true
