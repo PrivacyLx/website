@@ -15,7 +15,7 @@ We would like to thank all the people who filled the rooms of our last events an
 
 The newsletter signup is still a work in progress but we hope it won't take long. As soon as that is up, you will see on the homepage a signup from for that. That way we will be able to keep you updated on future events much more easily.
 
-If you are interested in organizing events like the ones we've been doing or you are interested in colaborating in one, let us know at:
+If you are interested in organizing events like the ones we've been doing or you are interested in collaborating in one, let us know at:
 
 **contact at privacylx.org**.
 
