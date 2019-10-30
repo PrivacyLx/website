@@ -1,13 +1,15 @@
 ---
 title: "Mais eventos em breve"
 author: "The Organizers"
-publishdate: "2019-11-08T18:00:00"
+publishdate: "2019-11-02T18:00:00"
 date: "2019-12-05"
 image: "/img/computer.png"
 hidedate: true
 preview: true
 description: "Obrigado a todas as pessoas que participaram nos eventos este ano e contribuiram para fascinantes discussões. Estejam atentos ao website pois estamos a preparar futuros eventos. Se tiverem interesse nestes tópicos, entrem em contacto connosco."
 draft: false
+sitemap_exclude: true
+rss_exclude: true
 ---
 
 Queriamos aproveitar para agradecer a todos os participantes das úlimas sessões que encheram a sala e deixar desde já a mensagem que mais eventos virão. Portanto estejam atentos às novidades neste site.
