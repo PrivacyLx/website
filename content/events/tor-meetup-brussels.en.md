@@ -5,7 +5,7 @@ publishdate: "2019-10-30T11:00:00"
 date: "2019-11-08T18:00:00"
 image: "/img/tor-brussels-meetup.png"
 preview: true
-description: "Recovering our lost ground on digital privacy might seem like an overwhelming taks, but in fact it is not as hard. In this workshop, we will explore and explain how to can help us in that as well as have a gathering of people interested in these topics"
+description: "Recovering our lost ground on digital privacy might seem like an overwhelming task, but in fact it is not as hard. In this workshop, we will explore and explain how to can help us in that as well as have a gathering of people interested in these topics"
 ---
 
 ![workshop image](/img/tor-brussels-meetup.png)
