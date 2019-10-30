@@ -9,9 +9,9 @@ description: "Paletra sobre privacidade e controles de informações em nossa vi
 
 ![inercia 2019 imagem](/img/inercia2019.png)
 
-Estamos organizando uma palestra geral sobre privacidade e controles de
-informações em nosso a vida quotidiana. Por favor, venha e encontre-nos depois
-da conversa, caso queira saber mais, vamos ficar por cá durante algumas horas.
+Iremos fazer uma palestra sobre privacidade em geral e sobre como ganhar mais controlo
+sobre a nossa a vida quotidiana digital. Estamos de braços abertos para virem ter connosco
+depois da palestra caso haja interesse. Vamos ficar por lá durante algumas horas.
 
 #### Onde e quando
 
