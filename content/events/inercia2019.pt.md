@@ -3,7 +3,8 @@ title: "PrivacyLx @ Inércia Demoparty"
 author: "Vasilis"
 publishdate: "2019-10-26T00:31:00"
 date: "2019-11-02T18:00:00"
-preview: false
+image: "/img/inercia2019.png"
+preview: true
 description: "Paletra sobre privacidade e controles de informações em nossa vida diária"
 ---
 
