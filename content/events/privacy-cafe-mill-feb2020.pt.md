@@ -34,7 +34,7 @@ Algumas das temas que podes encontrar nesta edição do Privacy Cafe:
 - Lojas de aplicações alternativas e que promovem a tua liberdade
 - Como é que somos seguidos online?
 - Enviar mensagens de forma segura e fácil (encriptação ponta-a-ponta)
-- Alternativas de Software Livre/Libre de Código Aberto à vigilância do capitalismo
+- Software Livre/Libre de Código Aberto com alternativas ao capitalismo de vigilância
 - Criar um plano de segurança (modelo de ameaças)
 
 **Data:** Sábado, 15 de Fevereiro, 2020\
