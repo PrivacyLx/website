@@ -153,3 +153,9 @@
 
 - id: help-link-text
   translation: "Serás tu essa pessoa?"
+
+- id: matrix-privacylx
+  translation: "Matrix (#privacylx:matrix.org)"
+
+- id: rocketchat-privacylx
+  translation: "RocketChat"
