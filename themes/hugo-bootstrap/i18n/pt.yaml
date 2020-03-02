@@ -159,3 +159,12 @@
 
 - id: rocketchat-privacylx
   translation: "RocketChat"
+
+- id: become-a-member
+  translation: "Torna-te membro"
+
+- id: member-pitch
+  translation: "Se já estiveste em alguns eventos, conheces até alguns dos membros ou já estiveste envolvida(o) com a defesa da privacidade, candidata-te a membro!"
+
+- id: become-member-link-text
+  translation: "Vê como o podes fazer"
