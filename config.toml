@@ -60,7 +60,7 @@ theme = "hugo-bootstrap"
 
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
-  mainSections = ["post"]
+  mainSections = ["events","post"]
 
   # Default author
   author = "Anonymous"

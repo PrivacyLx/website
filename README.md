@@ -14,7 +14,18 @@ PrivacyLx website is also available under an onion service:
 Adding content
 --------------
 
-Since the website is based in Hugo, adding new posts / events is as simple as creating a markdown file in the right directory
+Since the website is based in Hugo, adding new posts / events is as
+simple as creating a markdown file in the right directory
+
+With hugo you can do this via command line with
+
+```bash
+# for a blog post
+hugo new post/title-of-post.pt.md
+
+# for an event
+hugo new event/title-of-event.pt.md
+```
 
 Overview of the structure:
 ```tree

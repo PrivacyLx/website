@@ -1,6 +1,6 @@
 ---
 title: Privacy Guides
-date: 2018-07-05
+date: "2019-04-20T09:08:46Z"
 tags: ["privacy"]
 ---
 On this post, I want to link to as many privacy guides as I possibly can. I will
