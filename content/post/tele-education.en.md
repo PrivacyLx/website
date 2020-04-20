@@ -7,12 +7,13 @@ about distance learning in Portugal"
 tags: ["tele-education", "bigbluebutton", "education"]
 ---
 
-We are happy to announce that we have installed a new [BigBlueButton][0] service
-available to the public for entities in need of a web conferencing system that
-respect their privacy and no additional software requirements. BigBlueButton is
-a free and open source web conferencing system designed for use in
-tele-education. You are welcome to create an account under our
-[BigBlueButton service][0].
+We are happy to announce that we have installed a new
+[BigBlueButton][0] service available to the public for entities in
+need of a web conferencing system that respect their privacy and no
+additional software requirements. BigBlueButton is a free and open
+source web conferencing system designed for use in tele-education. All
+you need to do is to reach out to us via contact [at] privacylx.org
+and then create an account under our [BigBlueButton service][0].
 
 ---
 

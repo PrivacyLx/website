@@ -7,16 +7,19 @@ Educação sobre tele-educação em Portugal"
 tags: ["ensino à distância", "bigbluebutton", "educação"]
 ---
 
-Temos o prazer de anunciar que instalámos um novo serviço [BigBlueButton][0].
-disponíveis ao público para as entidades que necessitam de um sistema de
-conferência web que respeitarem a sua privacidade e não necessitarem de software
-adicional. O BigBlueButton é um sistema de conferência web gratuito e de código
-aberto concebido para utilização em tele-educação. É bem-vindo a criar uma conta
-no nosso [Serviço BigBlueButton][0].
+Temos o prazer de anunciar que instalámos um novo serviço
+[BigBlueButton][0].  disponíveis ao público para as entidades que
+necessitam de um sistema de conferência web que respeitarem a sua
+privacidade e não necessitarem de software adicional. O BigBlueButton
+é um sistema de videoconferências web gratuito e de código aberto
+concebido para utilização em tele-educação. Caso tenha interesse em
+utilizar ou experimentar basta contactar-nos por email para contact
+[at] privacylx.org e posteriormente criar uma conta no nosso [Serviço
+BigBlueButton][0].
 
 ---
 
-**Hoje enviámos a seguinte carta ao Ministério da Educação português:**
+**Enviámos hoje a seguinte carta ao Ministério da Educação português:**
 
 Exmos(as).Senhores(as) do Ministério da Educação,
 
