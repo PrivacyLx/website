@@ -68,7 +68,7 @@ theme = "hugo-bootstrap"
     weight = 5
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/post/:title/"
 
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
