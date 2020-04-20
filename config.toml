@@ -36,7 +36,7 @@ theme = "hugo-bootstrap"
     weight = 3
   [[languages.pt.menu.main]]
     url = "https://bbb.privacylx.org"
-    name = "BigBlueButton"
+    name = "Videoconferências"
     weight = 4
   [[languages.pt.menu.main]]
     url = "/resources/"
@@ -60,7 +60,7 @@ theme = "hugo-bootstrap"
     weight = 3
  [[languages.en.menu.main]]
     url = "https://bbb.privacylx.org"
-    name = "BigBlueButton"
+    name = "Videoconferences"
     weight = 4
   [[languages.en.menu.main]]
     url = "/resources/"
