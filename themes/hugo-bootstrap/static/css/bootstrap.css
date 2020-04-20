@@ -61,7 +61,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 3vw;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
@@ -9030,4 +9030,14 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+@media (max-width: 619px) {
+  body {
+    font-size: 0.6rem;
+  }
+  .btn-lg, .btn-group-lg > .btn {
+    font-size: 0.6rem;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */

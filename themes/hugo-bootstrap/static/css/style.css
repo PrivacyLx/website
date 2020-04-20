@@ -99,7 +99,7 @@
 
 
 .display-main {
-    font-size: 1.5cm;
+    font-size: 3rem;
     font-weight: 300;
     line-height: 1.2;
 }
@@ -124,15 +124,16 @@
 .navbar-mobile {
   text-align: center;
   padding-top: 0.5rem;
+  font-size: 2.5vw;
 }
-@media (min-width: 401px) {
+@media (min-width: 620px) {
   .navbar-mobile {
     display: none;
   }
 }
 
 /* navbar for desktops */
-@media (max-width: 401px) {
+@media (max-width: 619px) {
   .navbar-desktop {
     display: none;
   }
