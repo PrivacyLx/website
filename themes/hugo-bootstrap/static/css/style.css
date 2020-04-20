@@ -1,3 +1,7 @@
+body {
+    font-size: 1rem !important;
+}
+
 .blog-header, .blog-post, .blog-pagination {
   margin-bottom: 2rem;
 }
@@ -62,9 +66,13 @@
 
 /* agenda that hides if screen is too smal */
 @media (max-width: 12cm) {
-  .hideagenda {
-    display: none;
-  }
+    .display-main{
+	font-size: 1.3rem;
+    }
+
+    .hideagenda {
+	display: none;
+    }
 }
 
 .indexhtml .agenda .agenda-date {
@@ -97,17 +105,9 @@
   color: rgba(255,255,255,.5)!important;
 }
 
-
 .display-main {
-    font-size: 3rem;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 1.2;
-}
-
-@media (max-width: 12cm) {
-    .display-main{
-      font-size: 1rem;
-    }
 }
 
 /* center images */
@@ -137,6 +137,12 @@
   .navbar-desktop {
     display: none;
   }
+  body {
+      font-size: 0.6rem;
+  }
+  .btn-lg, .btn-group-lg > .btn {
+      font-size: 0.6rem;
+  }
 }
 
 
@@ -159,4 +165,6 @@
     flex-basis: auto;
   }
 }
+
+
 /* end header hamburger menu */
