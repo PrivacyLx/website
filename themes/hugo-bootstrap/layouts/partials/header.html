@@ -11,7 +11,7 @@
             <ul class="navbar-nav">
               {{ $url := .URL | relLangURL }}
               {{ range .Site.Menus.main }}
-                {{ if eq (.URL ) "/events/" }} <!-- Make events be a button -->
+                {{ if eq (.URL ) "/post/" }} <!-- Make blog be a button -->
                 <h5> </h5>
                 <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ else }}
@@ -36,8 +36,8 @@
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
             <ul class="navbar-nav">
               {{ $url := .URL | relLangURL }}
-              {{ range .Site.Menus.main }}
-                {{ if eq (.URL ) "/events/" }} <!-- Make events be a button -->
+              {{ range first 3 .Site.Menus.main }}
+                {{ if eq (.URL ) "/post/" }} <!-- Make blog be a button -->
                 <h5> </h5>
                 <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ else }}
