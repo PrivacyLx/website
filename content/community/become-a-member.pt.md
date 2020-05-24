@@ -1,80 +1,97 @@
-TODO finish draft and translate
+---
+title: "Junta-te a nós"
+author: "Direção"
+publishdate: "2020-05-23"
+date: "2020-05-23"
+hidedate: true
+preview: true
+description: "Sabe como te podes juntar a nós. Somos uma associação sem fins lucrativos focada na defesa da privacidade e segurança digital como direitos fundamentais para uma sociedade livre através da educação, investigação e desenvolvimento de ferramentas para a sua proteção."
+rss_exclude: true
+---
 
-# Become a member
+Somos uma associação sem fins lucrativos (oficialmente Defend our Privacy
+Association, NIPC 515584550) e estamos *queremos a tua ajuda para defender
+a privacidade*.
+&nbsp;
 
-Offically we are a non-profit association (Defend our privacy
-association, NIPC 515584550) and we are looking for members.
+#### A nossa missao
 
-## Our mission
+> *Somos uma associação sem fins lucrativos focada na defesa da
+privacidade e segurança digital como direitos fundamentais para uma
+sociedade livre através da educação, investigação e desenvolvimento de
+ferramentas para a sua proteção.* &nbsp; <a style="color:
+#9b9b9b">(oficialmente Defend Our Privacy Association, NIPC
+515584550)</a> &nbsp;
 
-*Our mission is the defense of digital privacy and digital security as
-fundamental rights for a free society though education, investigation
-and development of tools for its protection.* (as stated in our bylaws).
+#### Porquê juntares-te?
 
-## Why become a member?
+Organizamos eventos abertos ao público em geral ou audiências
+particulares onde ensinamos a teoria e a prática da privacidade e
+segurança digital através de [workshops](/events/), [Privacy Cafés
+informais](/events/privacy-cafe-mill-feb2020/), [blogs](/post/),
+discussões no nosso [fórum](https://cafe.privacylx.org/) e
+[apresentações online](/resources/). *Tudo isto organizado pelos
+membros na sua própria agenda e em regime voluntário.*
 
-We do public events and most of what we do is public facing, but for
-some stuff you have be be a memeber:
+Somos uma associação de competências e capacidades variadas. Não é
+necessário conhecer tecnologia, programação, segurança digital ou
+temas relacionados.  **Basta apenas demonstrar interesse em promover a
+privacidade como um direito humano.**
 
-* **Get a say in the association** - we are a democratic organization
-  and every member's vote counts the same. So join in if you want to
-  participate.
+* ##### **Faz a tua voz ouvida** 
 
-* **support our work** - member fees provide for our core
-  funding. What basically allows us to pay for the expenses of running
-  an association and all of that goes into making sure we fulful our
-  mission.
+    Acima de tudo, somos uma organização de base democrática, feita de
+    indivíduos apaixonados pelo assunto. Isto significa que todas as
+    decisões tomadas na associação são tomadas tendo em mente a
+    seguinte regra: tudo decidido coletivamente. Cada pessoa da
+    associação tem uma palavra a dizer sobre as medidas que tomamos,
+    incluindo decisões sobre eventos, financiamento, estratégia, e
+    muito mais.
 
+* ##### **Apoia o nosso trabalho**
 
-## Member fees
+    As quotas são fundamentais para suportar a organização, realizar
+    workshops e outros eventos para o público em geral
 
-* **12 € or more** - for youth (under 25)
-* **25 € or more** - for everyone else
+&nbsp;
 
-**Note:** *if for your financial situation makes these fees
-prohibilitvely expensive message the direction at *
+#### Como me posso juntar?
 
-## Bilingual community
+Se quiseres juntar-te à nossa associação, apareçe antes nos nossos
+eventos ou participa no [fórum](cafe.privacylx.org/)!
 
-We are a bilingual communinty. We'll try to accommodate both English
-and Portuguese whenever possible, if you're not comfortable with both
-languages we'll try to whisper translate. In that case, please ask for
-help and it will be provided.
+E quando quiseres conhecer todos os cantos da nossa casa (tornares-te
+sócio), fala com alquém da associação com quem te identificas para que
+te abra as portas a tornar-te membro. Essa pessoa vai depois enviar-te
+um email com um pequeno formulário e assim que responderes inicia-se o
+processo de adesão. Este processo pode demorar até duas semanas.
 
-## Process for becoming a member
+&nbsp;
 
-In our association we make it so everyone gets to vote on everything
-(as a grassroots organization). And also because we want to make sure
-everyone has a greate time, we have a bit of a selection process.
+#### Quotas
 
-But it's supper easy to go though as long as you show you care about
-privacy and either have been around in some events and talked to
-people or have been involved in other privacy communities. It goes as
-follows:
+* **25 € ou mais** - Quota normal
+* **12 € ou mais** - Jovens com menos de 26 anos
 
-1. Find someone from the association (or be invited) who's willing to
-   vouch for you to become a member. Let's call her/him the supporting
-   member.
+Os fundos são usados para suportar a organização, realizar workshops e
+outros eventos para o público em geral e a sua utilização será
+decidida democraticamente.
 
-2. Give the supporting member the following info: (via email or something):
-   1. Name by which you wanna be refered to
-   2. List of privacy-related activities you've been involved recently
-   3. Email address by which you'd like to get contacted for association-related communications
-   
-3. Your supporing memeber will propose to the other members your
-   application (along with the info you gave) and after two weeks
-   we'll have a concensus.
+**Nota:** Também poderá ser pedida uma redução de quotas para outras
+situações (bastando para isso endereçar um membro da direção).
 
-4. If you're accepted, welcome! You are now officially a member and
-   can now pay the member fees (you have 90 days for that but only get
-   to vote after those are payed)
+&nbsp;
+#### Direitos e obrigações
 
-5. If your application was denied, we'll get back to you with an
-   explanation of why that is and recommendations on how to get
-   accepted.
+Os direitos e obrigações dos membros estão explicadas nos
+[estatutos](TODO-add-link) e [regulamento
+interno](TODO-add-link).&nbsp;
 
-## Rights and obligations
+&nbsp;
+#### Questões adicionais
+Qualquer questão adicional é sempre bem-vinda nas [nossas plataformas
+de comunicação](/community/) o através do nosso email
+contact [at]privacylx.org.
 
-Member's rights are explaied in the bylaws and in the internal
-regulation. That will be be made available to you if you express
-interest in becoming a member.
+&nbsp;
+
