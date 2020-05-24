@@ -3,9 +3,10 @@ title: "Junta-te a nós"
 author: "Direção"
 publishdate: "2020-05-23"
 date: "2020-05-23"
+image: "/img/PrivacyLxLogoWhite.svg"
 hidedate: true
 preview: true
-description: "Sabe como te podes juntar a nós. Somos uma associação sem fins lucrativos focada na defesa da privacidade e segurança digital como direitos fundamentais para uma sociedade livre através da educação, investigação e desenvolvimento de ferramentas para a sua proteção."
+description: "Somos uma associação sem fins lucrativos focada na defesa da privacidade. Sabe como te podes juntar!"
 rss_exclude: true
 ---
 
