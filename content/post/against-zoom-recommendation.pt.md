@@ -9,7 +9,9 @@ Preocupados com problemas de segurança da plataforma Zoom, a
 associação PrivacyLx (Defend our Privacy Association) partilha o
 conteúdo do email enviado ao Centro Nacional de Cibersegurança no dia
 15 de Maio de 2020 por nao ter sido prestado qualquer esclarecimento
-ou resposta.
+ou resposta à data de publicação.
+
+Abaixo segue-se o email na sua versão original.
 
 -----
 
@@ -54,8 +56,8 @@ utilizador (7);
     monitorização da atenção (8) e o controlo de cliques (9).
 
 Assim, partilhamos das preocupações que levaram diversas entidades dos
-EUA a desaprovar a plataforma Zoom, como: o senado Americano (10), o
-ministério da defesa Britânico (11), o FBI (12), instituições de
+EUA a desaprovar a plataforma Zoom, como: o senado (10), o
+ministério da defesa (11), o FBI (12), instituições de
 ensino de Nova York (13) e os próprios acionistas - com acusações de
 fraude (14) e ações judiciais interpostas (15); e como tal,
 consideramos que os cidadãos devem ser assertivamente informados (16).

@@ -50,8 +50,8 @@ In addition, the lack of respect for privacy is evident in the various examples,
 - the disproportion of data obtained from the user, such as attention monitoring (8) and click control (9).
 
 We therefore share the concerns that have led several US entities to
-disapprove of the Zoom platform, such as: the US Senate (10), the
-UK's Department of Defense (11), the FBI (12), New York educational
+disapprove of the Zoom platform, such as: the Senate (10), the
+Department of Defense (11), the FBI (12), New York educational
 institutions (13) and the shareholders themselves - with accusations
 of fraud (14) and lawsuits (15); and as such, we believe that citizens
 should be assertively informed (16).
