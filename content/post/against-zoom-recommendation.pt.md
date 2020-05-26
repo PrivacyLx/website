@@ -50,10 +50,10 @@ Ainda, é manifesto nos vários exemplos o desrespeito pela privacidade,
 tais como: 
 
 - a partilha de dados pessoais com terceiros sem conhecimento do
-utilizador (7);
+  utilizador (7);
 
-  - a desproporção de dados obtidos do utilizador, como a
-    monitorização da atenção (8) e o controlo de cliques (9).
+- a desproporção de dados obtidos do utilizador, como a
+  monitorização da atenção (8) e o controlo de cliques (9).
 
 Assim, partilhamos das preocupações que levaram diversas entidades dos
 EUA a desaprovar a plataforma Zoom, como: o senado (10), o
