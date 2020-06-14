@@ -3,3 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 {{ template "_internal/opengraph.html" . }}
+
+{{if isset .Site.Params "onionv3"}}
+  <meta http-equiv="onion-location" content="{{ .Site.Params.onionv3 }}" />
+{{ end }}
