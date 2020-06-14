@@ -71,8 +71,8 @@ processo de adesão. Este processo pode demorar até duas semanas.
 
 #### Quotas
 
-* **25 € ou mais** - Quota normal
-* **12 € ou mais** - Jovens com menos de 26 anos
+* **25€/ano ou mais** - Quota normal
+* **12€/ano ou mais** - Jovens com menos de 26 anos
 
 Os fundos são usados para suportar a organização, realizar workshops e
 outros eventos para o público em geral e a sua utilização será
@@ -92,7 +92,7 @@ interno](TODO-add-link).&nbsp;
 #### Questões adicionais
 Qualquer questão adicional é sempre bem-vinda nas [nossas plataformas
 de comunicação](/community/) o através do nosso email
-contact [at]privacylx.org.
+contact[at]privacylx.org.
 
 &nbsp;
 
