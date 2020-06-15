@@ -21,14 +21,14 @@ We aim to keep the picnic bi-lingual (PT & ENG)
 **!!!Bringing a mask is mandatory!!!** **We will be following the
 rules and regulations following the pandemic for the safety of all of
 us.** If we're a big group (not likely) we'll have to split into
-smaller ones 
+smaller ones.
 
 Bringing food, drinks, beach towels to sit on the grass… is voluntary
 
+**Registration:** recommended (but non-mandatory) - just send an email to cansuluna[at]protonmail.com saying you'll come \
 **Date:** 27th july, 2020 \
 **Time:** 14:00 - 16:00 \
-**Place:** Jardim da Estrela (precise location to be given soon) \
-**Map:** (soon) 
+**Place:** Jardim da Estrela (in front of [estatue Pedro Álvares Cabral](https://www.openstreetmap.org/#map=19/38.71572/-9.15871))
 
 ---
 
