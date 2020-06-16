@@ -27,8 +27,8 @@ Podem trazer comida, bebidas e toalhas para se sentarem na relva.
 
 
 **Inscrição:** recomendeda (mas não obrigatória) - basta enviar um email para cansuluna[at]protonmail.com a dizer que tem interesse em aparecer \
-**Data:** 27 de julho de 2020 \
-**Hora:** 14:00 - 16:00 \
+**Data:** 27 de junho de 2020 \
+**Hora:** 14:00h - 16:00h \
 **Local:** Jardim da Estrela (em frente à [estátua Pedro Álvares Cabral](https://www.openstreetmap.org/#map=19/38.71572/-9.15871))
 
 ---
