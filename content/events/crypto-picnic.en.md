@@ -26,8 +26,8 @@ smaller ones.
 Bringing food, drinks, beach towels to sit on the grass… is voluntary
 
 **Registration:** recommended (but non-mandatory) - just send an email to cansuluna[at]protonmail.com saying you'll come \
-**Date:** 27th july, 2020 \
-**Time:** 14:00 - 16:00 \
+**Date:** 27th June, 2020 \
+**Time:** 2pm - 4pm \
 **Place:** Jardim da Estrela (in front of [estatue Pedro Álvares Cabral](https://www.openstreetmap.org/#map=19/38.71572/-9.15871))
 
 ---
