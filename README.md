@@ -17,7 +17,7 @@ Getting started
 
 Our website is generated from [markdown](https://daringfireball.net/projects/markdown/) to HTML with [Hugo](https://gohugo.io).
 
-- [download the version v54] (wanna [help upgrade?](https://github.com/PrivacyLx/privacylx-issue-tracker/issues/89))
+- [download the version v54](https://github.com/gohugoio/hugo/releases/tag/v0.54.0) (wanna [help upgrade?](https://github.com/PrivacyLx/privacylx-issue-tracker/issues/89))
 - extract it and execute it with `./hugo -D server`
 - open a browser on `http://127.0.0.1:1313`
 - and you should now see your version of the website. Any changes made will be immedialtely reflected there.
