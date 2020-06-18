@@ -72,6 +72,14 @@ decidida democraticamente.
 **Nota:** Também poderá ser pedida uma redução de quotas para outras
 situações (bastando para isso endereçar um membro da direção).
 
+
+#### Direitos e obrigações
+
+Os direitos e obrigações dos membros estão explicadas nos
+[estatutos](/documents/estatutos.pdf) e [regulamento
+interno](/documents/regulamento-interno.pdf).
+
+
 #### Questões adicionais
 Qualquer questão adicional é sempre bem-vinda nas [nossas plataformas
 de comunicação](/community/) o através do nosso email

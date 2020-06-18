@@ -69,6 +69,14 @@ democratically.
 **Note:** A quota reduction may also be requested for others
 situations (by addressing a member of the board).
 
+
+#### Rights and obligations
+
+The rights and obligation of members are explain in our
+[bylaws](/documents/estatutos.pdf) and [internal
+regulation](/documents/regulamento-interno.pdf).
+
+
 #### Additional questions
 Any additional questions are always welcome on [our platforms
 communication](/community/) or via our email
