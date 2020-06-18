@@ -11,13 +11,25 @@ PrivacyLx website is also available under an onion service:
 - v3 (http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion)
 - v2 (http://ojr4ex25mf4tuxtm.onion)
 
+
+Getting started
+---------------
+
+Our website is generated from [markdown](https://daringfireball.net/projects/markdown/) to HTML with [Hugo](https://gohugo.io).
+
+- [download the version v54] (wanna [help upgrade?](https://github.com/PrivacyLx/privacylx-issue-tracker/issues/89))
+- extract it and execute it with `./hugo -D server`
+- open a browser on `http://127.0.0.1:1313`
+- and you should now see your version of the website. Any changes made will be immedialtely reflected there.
+
+
 Adding content
 --------------
 
 Since the website is based in Hugo, adding new posts / events is as
 simple as creating a markdown file in the right directory
 
-With hugo you can do this via command line with
+With hugo you can do this via command line with [Hugo](gohugo.io). We are using version 54 which you can download here
 
 ```bash
 # for a blog post
