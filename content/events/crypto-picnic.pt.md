@@ -1,9 +1,13 @@
 ---
-title: "Crypto Picnic"
+title: "[Adiado] Crypto Picnic"
 author: "PrivacyLx"
 publishdate: "2020-06-12"
-date: "2020-06-27T14:00:00-16:00"
+date: "2020-07-04T14:00:00-16:00"
 description: "Vamos fazer um 'picnic' em que aprendemos e discutimos criptografia."
+---
+
+**Dado um regresso de medidas mais restritivas relativas a agregações de pessoas em Lisboa, adiámos o evento e vamos fazê-lo online**
+
 ---
 
 Olá entusiastas de privacidade,
