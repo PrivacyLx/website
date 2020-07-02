@@ -6,9 +6,16 @@ description: "Sinto uma profunda dívida pelas pessoas que se sacrificaram para 
 tags: ["privicidade", "internet", "tgnvs", "liberdade"]
 ---
 
+#### Introdução
+
+*Ao longo do próximo mês e meio, a PrivacyLx publica bissemanalmente a primeira edição de um blog, com o objetivo de sensibilizar a sociedade civil para os perigos de viver numa sociedade sobre permanente vigilância, e mobilizar os portugueses na adoção de soluções que visem dirimir os olhares, que afetam o nosso comportamento e condicionam as nossas opções.*
+
+---
+
 Sinto uma profunda dívida pelas pessoas que se sacrificaram para que possamos disfrutar da Carta dos Direitos Humanos. A angustia é para mim uma sensação de sufoco que subtrai gradualmente a liberdade que ainda se respira.
 
 ---
+
 
 ## PARTE I - O problema
 
