@@ -2,6 +2,7 @@
 title: "Ave Rara"
 author: "tgvns"
 publishdate: 2020-07-02T00:27:49+01:00
+date: "2020-07-01"
 description: "Sinto uma profunda dívida pelas pessoas que se sacrificaram para que possamos disfrutar da Carta dos Direitos Humanos. A angustia é para mim uma sensação de sufoco que subtrai gradualmente a liberdade que ainda se respira."
 tags: ["privicidade", "internet", "tgnvs", "liberdade"]
 ---
