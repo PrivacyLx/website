@@ -68,6 +68,14 @@ For that, in the website root directory you type `hugo new content/events/[name-
 just copy and paste some content's markdown from the type of
 content that you want in order to add it.
 
+### Adding forum comments to post / blog
+
+There is the option to add the discourse comments to the post. For
+that you can add "{{< discourse-comments >}}" in the bottom of your
+markdown post and it should show up on the website. (But it will only
+work on a live deployment).
+
+
 ### Adding images and presentations
 All static content goes under `/static/` and is is referenced as though it was in the root of the website.
 
