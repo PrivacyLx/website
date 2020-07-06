@@ -1,8 +1,8 @@
 ---
 title: "Message in Support of Eclips.is"
 author: "kgallagher"
-publishdate: 2020-07-02T00:27:49+01:00
-date: "2020-07-01"
+publishdate: 2020-07-06T14:27:49+01:00
+date: "2020-07-06"
 description: "PrivacyLx stands with Eclips.is and other projects funded by the OTF, and we implore the American government to recosider the damage it is doing to the world by sabotaging the Open Technology Fund."
 tags: ["OTF", "America", "Trump", "Eclips.is", "Infrastructure"]
 ---
