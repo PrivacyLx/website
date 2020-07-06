@@ -74,4 +74,3 @@ Sabendo de antemão que o acesso e a empregabilidade de dados pessoais pode serv
 
 (7) - About: [https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/](https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/)
 
-{{< discourse-comments >}}
