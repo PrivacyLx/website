@@ -1,6 +1,6 @@
-{{ if isset .Params "date" }}
-{{ if gt .Date (time "2020-06-20") }}
-  <!-- so only posts arfter this commit are affected-->
+{{ if .Params.comments }}
+
+<!-- so only posts arfter this commit are affected-->
   
 <div id='discourse-comments'></div>
 
@@ -14,5 +14,4 @@
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
-{{ end }}
 {{ end }}
