@@ -4,7 +4,7 @@ author: "tgvns"
 publishdate: 2020-07-06T00:27:49+01:00
 date: "2020-07-06"
 description: "Neste admirável mundo novo somos expostos aos mais variados estímulos e tentações, explorando a tecnologia que nos explora. O conceito utópico original prometido pela internet, de espaço aberto, neutro, democrático e sem fronteiras, está gradualmente a ser subvertido."
-tags: ["privicidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
+tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
 ---
 
 *Ao longo do próximo mês e meio, a PrivacyLx [publica bissemanalmente](/tags/toca-do-coelho/) a primeira edição de um blog intitulado "Descendo a toca do coelho", com o objetivo de sensibilizar a sociedade civil para os perigos de viver numa sociedade sobre permanente vigilância, e mobilizar os portugueses na adoção de soluções que visem dirimir os olhares, que afetam o nosso comportamento e condicionam as nossas opções.*
