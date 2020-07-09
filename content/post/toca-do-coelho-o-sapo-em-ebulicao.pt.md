@@ -11,10 +11,6 @@ tags: ["privicidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
 
 ---
 
-## PARTE I - O Problema
-
-
-
 ### Capítulo 3 - O Sapo em Ebulição
 
 Sir Berners-Lee, carinhosamente conhecido por pai da internet, disse na Web Summit que decorreu em Lisboa, no ano que marcou o 30º aniversário da World Wide Web, que alguns dos problemas que esta enfrenta, estão relacionados com notícias falsas, falta de privacidade, abuso de dados pessoais e a forma como as pessoas são catalogadas e manipuladas (1). Podemos estender esta lista, em particular às redes sociais. Passo a enumerar (2): o vício digital alimentado pelo deslizar de um polegar sobre um telemóvel como se de uma slot machine se tratasse; o desequilíbrio mental resultante do constante apelo aos nossos sentidos, a comparação social (automática) e o bullying digital; a quebra de verdade, provocada por fontes de desinformação que distorcem os factos ou ativamente promovem a mentira; a polarização política, provocada por algoritmos de pesquisa que nos retêm enclausurados nas nossas convicções; a manipulação política, provocada por ciberguerras financeiramente menos dispendiosas que as guerras convencionais; a superficialidade das redes sociais.
