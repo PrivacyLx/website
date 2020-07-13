@@ -102,15 +102,15 @@ An extended notion of privacy can be found in the following articles:
 
 United Nations Declaration of Human Rights (UDHR) 1948, Article 12: 
 
->“No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honor and reputation. Everyone has the right to the protection of the law against such interference or attacks.”
+>*“No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honor and reputation. Everyone has the right to the protection of the law against such interference or attacks.”*
 
 
 
 International Covenant on Civil and Political Rights (ICCPR) 1966, Article 17: “
 
-    1. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honor or reputation.
+>*1. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honor or reputation.*
 
-    2. Everyone has the right to the protection of the law against such interference or attacks.”
+>*2. Everyone has the right to the protection of the law against such interference or attacks.”*
 
 
 
