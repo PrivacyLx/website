@@ -87,7 +87,7 @@ theme = "hugo-bootstrap"
   onionv3 = "http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion"
 
   # Federated Social Media
-  mastadon = "https://social.privacytools.io/@PrivacyLX"
+  mastodon = "https://social.privacytools.io/@PrivacyLX"
 
   # Default issue/bug tracker
   bugtracker = "https://github.com/PrivacyLx/privacylx-issue-tracker"
