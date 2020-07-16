@@ -1,5 +1,5 @@
 ---
-title: "Idiocracia"
+title: "Segurança"
 author: "tgvns"
 publishdate: 2020-07-16T12:00:00+01:00
 date: "2020-07-16"
