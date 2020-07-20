@@ -1,7 +1,7 @@
 ---
 title: "Privacidade"
 author: "tgvns"
-publishdate: 2020-07-20T12:00:00+01:00
+publishdate: 2020-07-20T12:01:00+01:00
 date: "2020-07-20"
 description: "O telemóvel do Wally informa que o Google requer autorização para obter a sua geolocalização! Como pode ele e todos nós termos privacidade, atualmente?"
 tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
