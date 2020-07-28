@@ -4,7 +4,7 @@ author: "tgvns"
 publishdate: 2020-07-27T12:00:00+01:00
 date: "2020-07-27"
 description: "As aplicações-web poderiam abrir mais depressa, se bloqueássemos todos os anúncios. E o Windows leva muito tempo a atualizar. O que estará a fazer todo esse tempo?"
-tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade", "anonimato"]
+tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
 ---
 
 *Ao longo do próximo mês e meio, a PrivacyLx [publica bissemanalmente](/tags/toca-do-coelho/) a primeira edição de um blog intitulado "Descendo a toca do coelho", com o objetivo de sensibilizar a sociedade civil para os perigos de viver numa sociedade sobre permanente vigilância, e mobilizar os portugueses na adoção de soluções que visem dirimir os olhares, que afetam o nosso comportamento e condicionam as nossas opções.*
