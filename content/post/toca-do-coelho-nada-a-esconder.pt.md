@@ -3,7 +3,7 @@ title: "Nada a Esconder"
 author: "tgvns"
 publishdate: 2020-07-27T12:00:00+01:00
 date: "2020-07-27"
-description: "Preocupa-me que as novas gerações não saibam o que é a privacidade. Recordo-me de um cartoon no qual um cão em frente a um computador dizia a outro sentado ao seu lado: «Na internet, ninguém sabe que és um cão»"
+description: "As aplicações-web poderiam abrir mais depressa, se bloqueássemos todos os anúncios. E o Windows leva muito tempo a atualizar. O que estará a fazer todo esse tempo?"
 tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade", "anonimato"]
 ---
 
