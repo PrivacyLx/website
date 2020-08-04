@@ -68,12 +68,29 @@ For that, in the website root directory you type `hugo new content/events/[name-
 just copy and paste some content's markdown from the type of
 content that you want in order to add it.
 
-### Adding forum comments to post / blog
+### Post metadata
+This is what is at the top of every `markdown` file and it makes the
+post have certain things.
 
-There is the option to add the discourse comments to the post. For
-that you can add "{{< discourse-comments >}}" in the bottom of your
-markdown post and it should show up on the website. (But it will only
-work on a live deployment).
+Here's a sample metadata (some things only apply to events)
+```
+title: "Just an example title"
+publishdate: 2020-07-13
+date: "replace with date of event"
+image: "/img/[put image in /static/img/]"
+description: "this description will show up in the homepage"
+comments: true
+tags: ["privacidade", "internet", "liberdade"]
+```
+
+| metadata    | Explanation                                                                                                         |
+|-------------|---------------------------------------------------------------------------------------------------------------------|
+| title       | The title of the post                                                                                               |
+| publishdate | Today usually. But can be useful to schedule posts                                                                  |
+| date        | If an event, this will be the date of the event                                                                     |
+| description | Summarized post. Should be about 1-2 lines and will show up in the homepage                                         |
+| comments    | Posts automatically a new post on the forum linking to website and adds comments at the bottom of the article/event |
+| tags        | Tags that fit the content. This makes it easier for people to find related posts / events                           |
 
 
 ### Adding images and presentations

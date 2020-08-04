@@ -5,6 +5,7 @@ publishdate: 2020-07-02T00:27:49+01:00
 date: "2020-07-01"
 description: "Sinto uma profunda dívida pelas pessoas que se sacrificaram para que possamos disfrutar da Carta dos Direitos Humanos. A angustia é para mim uma sensação de sufoco que subtrai gradualmente a liberdade que ainda se respira."
 tags: ["privicidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
+comments: true
 ---
 
 *Ao longo do próximo mês e meio, a PrivacyLx [publica bissemanalmente](/tags/toca-do-coelho/) a primeira edição de um blog intitulado "Descendo a toca do coelho", com o objetivo de sensibilizar a sociedade civil para os perigos de viver numa sociedade sobre permanente vigilância, e mobilizar os portugueses na adoção de soluções que visem dirimir os olhares, que afetam o nosso comportamento e condicionam as nossas opções.*
@@ -100,4 +101,3 @@ Remato com uma frase que dá o nome a este guia e que vos é a todos familiar, d
 
 9 - Source (Matrix movie): «After this, there is no turning back. You take the blue pill the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more. »
 
-{{< discourse-comments >}}

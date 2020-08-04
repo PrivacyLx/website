@@ -5,6 +5,7 @@ publishdate: 2020-07-09T00:27:49+01:00
 date: "2020-07-09"
 description: "Em lume brando dos livros de ficção para a realidade, explorando o uso que fazemos da tecnologia, e que está a concentrar uma enorme quantidade de informação em torno de poucos decisores dos quais quase nada sabemos."
 tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
+comments: true
 ---
 
 *Ao longo do próximo mês e meio, a PrivacyLx [publica bissemanalmente](/tags/toca-do-coelho/) a primeira edição de um blog intitulado "Descendo a toca do coelho", com o objetivo de sensibilizar a sociedade civil para os perigos de viver numa sociedade sobre permanente vigilância, e mobilizar os portugueses na adoção de soluções que visem dirimir os olhares, que afetam o nosso comportamento e condicionam as nossas opções.*
