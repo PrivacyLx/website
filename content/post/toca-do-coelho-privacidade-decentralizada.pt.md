@@ -3,7 +3,7 @@ title: "Privacidade Decentralizada"
 author: "tgvns"
 publishdate: 2020-08-06T12:00:00+01:00
 date: "2020-08-06"
-description: "Para quem viu o filme The Matrix Reloaded, fazemos uma visita ao personagem Keymaker. Neste caso, são dois."
+description: "É incontornável abordar a temática sem referenciar uma velha tecnologia que antecede a própria internet, e que nos mantém ligados, apesar dos avanços sucessivos de centralização de serviços e aplicações informáticas."
 tags: ["privacidade", "toca do coelho", "internet", "tgnvs", "liberdade"]
 ---
 
@@ -72,6 +72,4 @@ Signal: [https://signal.org/](https://signal.org/)
 Wire: [https://wire.com/en/](https://wire.com/en/)
 
 Session: [https://getsession.org/](https://getsession.org/)
-
-
 
