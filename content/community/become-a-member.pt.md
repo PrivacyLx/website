@@ -9,10 +9,10 @@ rss_exclude: true
 ---
 
 Somos uma associação sem fins lucrativos (oficialmente Defend our Privacy
-Association, NIPC 515584550) e estamos *queremos a tua ajuda para defender
+Association, NIPC 515584550) e *queremos a tua ajuda para defender
 a privacidade*.
 
-#### A nossa missao
+#### A nossa missão
 
 > *Somos uma associação sem fins lucrativos focada na defesa da
 privacidade e segurança digital como direitos fundamentais para uma
