@@ -8,9 +8,9 @@ description: "Somos uma associação sem fins lucrativos focada na defesa da pri
 rss_exclude: true
 ---
 
-Somos uma associação sem fins lucrativos (oficialmente Defend our Privacy
-Association, NIPC 515584550) e *queremos a tua ajuda para defender
-a privacidade*.
+Somos uma associação sem fins lucrativos e *queremos a tua ajuda para defender
+a privacidade*. (oficialmente Defend our Privacy
+Association, NIPC 515584550) 
 
 #### A nossa missão
 
