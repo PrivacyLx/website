@@ -1,5 +1,5 @@
 ---
-title: "Comunicado: uso Obrigatório Stayaway COVID"
+title: "Comunicado: uso Obrigatório da App Stayaway"
 author: "PrivacyLx"
 date: "2020-10-16"
 Description: "A dia 14 deste mês, o Governo apresentou uma proposta de lei que impõe o uso da aplicação Stayaway COVID. Este comunicado contextualiza o problema numa lógica de privacidade e soberania digital."
