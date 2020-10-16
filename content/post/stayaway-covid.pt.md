@@ -6,7 +6,7 @@ Description: "A dia 14 deste mês, o Governo apresentou uma proposta de lei que 
 tags: ["stayaway covid"]
 ---
 
-*Ao dia 14 deste mês, o Governo [apresentou uma proposta de lei](http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679595842774f6a63334e7a637664326c756157357059326c6864476c3259584d7657456c574c33526c6548527663793977634777324d693159535659755a47396a&fich=ppl62-XIV.doc&Inline=true) que impõe o uso da aplicação Stayaway COVID. Este comunicado contextualiza o problema numa lógica de privacidade e soberania digital.*
+*A dia 14 deste mês, o Governo [apresentou uma proposta de lei](http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679595842774f6a63334e7a637664326c756157357059326c6864476c3259584d7657456c574c33526c6548527663793977634777324d693159535659755a47396a&fich=ppl62-XIV.doc&Inline=true) que impõe o uso da aplicação Stayaway COVID. Este comunicado contextualiza o problema numa lógica de privacidade e soberania digital.*
 
 A aplicação falha em vários domínios, mas sem querermos entrar em detalhe de natureza técnica, social ou jurídica - neste pequeno comunicado a PrivacyLx advoga a não utilização de tal aplicação e recomenda a leitura do excelente trabalho que tem vindo a ser conduzido pela Associação D3, quer através do [“Comunicado sobre a Stayaway”](https://direitosdigitais.pt/comunicacao/comunicados/106-comunicado-sobre-stayaway), quer do seu website interamente [dedicado ao assunto](https://rastreamento.pt/), subscrevendo a mesma posição.
 
