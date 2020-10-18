@@ -51,14 +51,12 @@ privacidade como um direito humano.**
 
 #### Como me posso juntar?
 
-Se quiseres juntar-te à nossa associação, apareçe antes nos nossos
+Se quiseres juntar-te à nossa associação, aparece antes nos nossos
 eventos ou participa no [fórum](https://cafe.privacylx.org/) !
 
-E quando quiseres conhecer todos os cantos da nossa casa (tornares-te
-sócio), fala com alquém da associação com quem te identificas para que
-te abra as portas a tornar-te membro. Essa pessoa vai depois enviar-te
-um email com um pequeno formulário e assim que responderes inicia-se o
-processo de adesão. Este processo pode demorar até duas semanas.
+E quando quiseres conhecer todos os cantos da nossa casa (tornar-te
+sócio), envia-nos um e-mail para [direcao@privacylx.org](mailto:direcao@privacylx.org) manifestando o teu interesse em seres membro.
+Ser-te-á te enviado um pequeno formulário que deverás enviar preenchido e aguardar pela resposta da direcção. Receberás uma resposta em 15 dias.
 
 #### Quotas
 
