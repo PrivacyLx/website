@@ -184,3 +184,5 @@
 - id: activities
   translation: "Atividades"
 
+- id: code
+  translation: "Código / Serviços"

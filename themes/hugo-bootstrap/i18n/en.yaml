@@ -184,3 +184,6 @@
 
 - id: activities
   translation: "Our Work"
+
+- id: code
+  translation: "Code / Services"

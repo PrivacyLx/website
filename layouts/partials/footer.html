@@ -14,8 +14,6 @@
       </a>
       <ul class="list-unstyled">
 	<li><a class="footer-link" href="/community/">{{ i18n "community" }}</a></li>
-	<li><a class="footer-link" href="/community/">Forum</a></li>
-	<li><a class="footer-link" href="/community/">Chat</li>
 	<li><a class="footer-link" href="/community/become-a-member">{{ i18n "become-a-member" }}</a></li>
 	<li><a class="footer-link" href="/documents/estatutos.pdf">{{ i18n "bylaws" }}</a></li>
 	<li><a class="footer-link" href="/about/regulamento-interno">{{ i18n "internal-regulation" }}</a></li>
@@ -38,11 +36,13 @@
   
   <div class="col-lg-2 col-md-2">
     <h5 class="text-left footer-link add-bottom">
-      Website
+      {{ i18n "code" }}
     </h5>
     <ul class="list-unstyled">
+      <li><a class="footer-link" href="https://bbb.privacylx.org" target="_blank" >BigBlueButton</a></li>
+      <li><a class="footer-link" href="https://github.com/privacylx/devops" target="_blank" >Ansible Infrastructure</a></li>
       <li><a class="footer-link" href="{{ .Site.Params.ghrepo }}" target="_blank" >Website Source Code</a></li>
-      <li><a class="footer-link" href="{{ .Site.Params.bugtracker }}" target="_blank">Report bug / Suggestion</a></li>
+      <li><a class="footer-link" href="{{ .Site.Params.bugtracker }}" target="_blank">Bugs & Suggestion</a></li>
 
     </ul>
   </div>
@@ -52,8 +52,9 @@
     </h5>
    <ul class="list-unstyled">
       <li><a class="footer-link" href="{{ .Site.Params.mastodon }}" target="_blank">Mastodon</a></li>
-      <li><a class="footer-link" href="{{ .Site.Params.onionv2 }}{{ .URL | relLangURL }}">Tor Onion Service v2</a></li>
-      <li><a class="footer-link" href="{{ .Site.Params.onionv3 }}{{ .URL | relLangURL }}">Tor Onion Service v3</a></li>
+      <li><a class="footer-link" href="/community/">Forum</a></li>
+      <li><a class="footer-link" href="/community/">Chat</li>
+      <li><a class="footer-link" href="{{ .Site.Params.onionv3 }}{{ .URL | relLangURL }}">Onion Site</a></li>
     </ul>
   </div>
 </div>
