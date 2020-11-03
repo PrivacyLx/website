@@ -168,3 +168,19 @@
 
 - id: become-member-link-text
   translation: "Vê como o podes fazer"
+
+- id: about-us
+  translation: "Associação"
+
+- id: bylaws
+  translation: "Estatutos"
+
+- id: internal-regulation
+  translation: "Regulamento Interno"
+
+- id: follow-us
+  translation: "Sigam-nos"
+
+- id: activities
+  translation: "Atividades"
+
