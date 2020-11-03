@@ -187,3 +187,6 @@
 
 - id: code
   translation: "Code / Services"
+
+- id: resources
+  translation: "Resources"
