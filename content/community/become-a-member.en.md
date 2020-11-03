@@ -70,7 +70,7 @@ situations (by addressing a member of the board).
 
 The rights and obligation of members are explain in our
 [bylaws](/documents/estatutos.pdf) and [internal
-regulation](/documents/regulamento-interno.pdf).
+regulation](/about/regulamento-interno) (in Portuguese).
 
 
 #### Additional questions

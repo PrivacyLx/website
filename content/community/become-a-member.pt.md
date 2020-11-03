@@ -75,7 +75,7 @@ situações (bastando para isso endereçar um membro da direção).
 
 Os direitos e obrigações dos membros estão explicadas nos
 [estatutos](/documents/estatutos.pdf) e [regulamento
-interno](/documents/regulamento-interno.pdf).
+interno](/about/regulamento-interno).
 
 
 #### Questões adicionais
