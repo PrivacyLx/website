@@ -2,16 +2,14 @@
   <div class="d-flex justify-content-center">
     <h5>{{ i18n "footer-text" }}</h5>
   </div>
-  <p></p>
+  <p> <br> </p>
 
   <div class="row footer-nav">
     <div class="col-lg-2 col-md-2"></div>
     <div class="col-lg-2 col-md-2">
-      <a class="footer-link" href="/intro/">
 	<h5 class="text-left add-bottom">
           {{ i18n "about-us" }}
 	</h5>
-      </a>
       <ul class="list-unstyled">
 	<li><a class="footer-link" href="/community/">{{ i18n "community" }}</a></li>
 	<li><a class="footer-link" href="/community/become-a-member">{{ i18n "become-a-member" }}</a></li>
@@ -21,7 +19,7 @@
   </div>
   
   <div class="col-lg-2 col-md-2">
-      <h5 class="text-left add-bottom footer-link">
+      <h5 class="text-left add-bottom">
         {{ i18n "activities" }}
       </h5>
     <ul class="list-unstyled">
@@ -34,33 +32,32 @@
   </div>
   
   <div class="col-lg-2 col-md-2">
-    <h5 class="text-left footer-link add-bottom">
+    <h5 class="text-left add-bottom">
       {{ i18n "code" }}
     </h5>
     <ul class="list-unstyled">
       <li><a class="footer-link" href="https://bbb.privacylx.org" target="_blank" >BigBlueButton</a></li>
-      <li><a class="footer-link" href="https://github.com/privacylx/devops" target="_blank" >Ansible Infrastructure</a></li>
-      <li><a class="footer-link" href="{{ .Site.Params.ghrepo }}" target="_blank" >Website Source Code</a></li>
-      <li><a class="footer-link" href="{{ .Site.Params.bugtracker }}" target="_blank">Bugs & Suggestion</a></li>
-
+      <li><a class="footer-link" href="https://github.com/privacylx/devops" target="_blank" >{{ i18n "devops" }}</a></li>
+      <li><a class="footer-link" href="{{ .Site.Params.ghrepo }}" target="_blank" >{{ i18n "website-source" }}</a></li>
+      <li><a class="footer-link" href="{{ .Site.Params.bugtracker }}" target="_blank">{{ i18n "issue-tracker" }}</a></li>
     </ul>
   </div>
   <div class="col-lg-2 col-md-2">
-    <h5 class="text-left footer-link add-bottom">
+    <h5 class="text-left add-bottom">
       {{ i18n "follow-us" }}
     </h5>
    <ul class="list-unstyled">
       <li><a class="footer-link" href="{{ .Site.Params.mastodon }}" target="_blank">Mastodon</a></li>
       <li><a class="footer-link" href="/community/">Forum</a></li>
       <li><a class="footer-link" href="/community/">Chat</li>
-      <li><a class="footer-link" href="{{ .Site.Params.onionv3 }}{{ .URL | relLangURL }}">Onion Site</a></li>
+      <li><a class="footer-link" href="{{ .Site.Params.onionv3 }}{{ .URL | relLangURL }}">Onion Website</a></li>
     </ul>
   </div>
 </div>
   <div class="d-flex justify-content-center">
     {{ if gt (len .Site.Home.AllTranslations) 1 }}
     {{ range .Site.Home.AllTranslations }}
-    <a type="button" style=""class="btn btn-dark" href="{{ .RelPermalink }}">{{ .Language }}</a>
+    <a type="button" style=""class="btn btn-dark" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
     <h5> </h5>
     {{ end }}
     {{ end }}

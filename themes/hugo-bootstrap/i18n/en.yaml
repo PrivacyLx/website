@@ -190,3 +190,12 @@
 
 - id: resources
   translation: "Resources"
+
+- id: devops
+  translation: "Our Infrastructure As Code"
+
+- id: website-source
+  translation: "Website Código Fonte"
+
+- id: issue-tracker
+  translation: "Sugestões & Bugs"
