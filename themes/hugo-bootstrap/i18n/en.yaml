@@ -192,10 +192,10 @@
   translation: "Resources"
 
 - id: devops
-  translation: "Our Infrastructure As Code"
+  translation: "Infrastructure Code"
 
 - id: website-source
-  translation: "Website Código Fonte"
+  translation: "Website Source"
 
 - id: issue-tracker
-  translation: "Sugestões & Bugs"
+  translation: "Suggestions & Bugs"
