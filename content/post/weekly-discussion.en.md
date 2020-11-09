@@ -19,13 +19,13 @@ Then you have a good reason to join us on our weekly gathering, where we will be
 having lively discussions and Q&A on security, privacy, anonymity and freedom of
 expression online.
 
-Join us every wednesday at 7pm (Lisbon time). The first gathering will take place this **Wednesday, 11 November, 2020**.
+Join us every wednesday at 19:00h (Lisbon time). The first gathering will take place this **Wednesday, 11 November, 2020**.
 
 Save the date and join us!
 
 ---
 
-**When:** Every Wednesday at 7pm\
+**When:** Every Wednesday at 19:00h\
 **Where:** [PrivacyLx chat](https://privacylx.org/community/) |
          [Matrix (#privacylx:matrix.org)](https://riot.im/app/#/room/#privacylx:matrix.org),
          [IRC (#privacylx in OFTC)](https://webchat.oftc.net/?channels=privacylx) or
