@@ -45,17 +45,13 @@ to know technology, programming, digital security or related issues.
     Quotas are essential to support the organisation, to carry out
     workshops and other events for the general public
 
-##### How can I join?
+#### How can I join?
 
-If you want to join our association, appear first in our events or
-participate in our [forum](https://cafe.privacylx.org/) !
+If you want to join our association, please first appear in our
+events or participate in [forum](https://cafe.privacylx.org/) !
 
-And when you are aready a known face, talk to someone within the
-association and tell them you are interested in becoming a member. If
-that person agrees to bring you in then they will send you an email
-with a small form and as soon as you reply the process of becoming a
-member starts. It can take up to two weeks for us to let you know that
-you are in.
+And when you're ready to join, send us an e-mail to [direcao@privacylx.org](mailto:direcao@privacylx.org) expressing your interest in being a member.
+You will be sent a short form to fill out and and then you should wait for a response from the board. You will receive a reply within 15 days.
 
 #### Quotas
 
@@ -74,7 +70,7 @@ situations (by addressing a member of the board).
 
 The rights and obligation of members are explain in our
 [bylaws](/documents/estatutos.pdf) and [internal
-regulation](/documents/regulamento-interno.pdf).
+regulation](/about/regulamento-interno) (in Portuguese).
 
 
 #### Additional questions

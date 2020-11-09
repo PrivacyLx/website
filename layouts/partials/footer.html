@@ -1,0 +1,66 @@
+<footer class="footer-bs">
+  <div class="d-flex justify-content-center">
+    <h5>{{ i18n "footer-text" }}</h5>
+  </div>
+  <p> <br> </p>
+
+  <div class="row footer-nav">
+    <div class="col-lg-2 col-md-2"> </div>
+    <div class="col-lg-2 col-md-2 col-sm-6">
+	<h5 class="text-left add-bottom">
+          {{ i18n "about-us" }}
+	</h5>
+      <ul class="list-unstyled">
+	<li><a class="footer-link" href="/community/">{{ i18n "community" }}</a></li>
+	<li><a class="footer-link" href="/community/become-a-member">{{ i18n "become-a-member" }}</a></li>
+	<li><a class="footer-link" href="/documents/estatutos.pdf">{{ i18n "bylaws" }}</a></li>
+	<li><a class="footer-link" href="/about/regulamento-interno">{{ i18n "internal-regulation" }}</a></li>
+    </ul>
+  </div>
+  
+  <div class="col-lg-2 col-md-2 col-sm-6">
+      <h5 class="text-left add-bottom">
+        {{ i18n "activities" }}
+      </h5>
+    <ul class="list-unstyled">
+      <li>
+        <a class="footer-link" href="/post/">Blog Posts</a>
+      </li>
+      <li><a class="footer-link" href="/post/">{{ i18n "view-events" }}</a><li>
+      <li><a class="footer-link" href="/resources">{{ i18n "resources" }}</a><li>
+    </ul>
+  </div>
+  
+  <div class="col-lg-2 col-md-2 col-sm-6">
+    <h5 class="text-left add-bottom">
+      {{ i18n "code" }}
+    </h5>
+    <ul class="list-unstyled">
+      <li><a class="footer-link" href="https://bbb.privacylx.org" target="_blank" >BigBlueButton</a></li>
+      <li><a class="footer-link" href="https://github.com/privacylx/devops" target="_blank" >{{ i18n "devops" }}</a></li>
+      <li><a class="footer-link" href="{{ .Site.Params.ghrepo }}" target="_blank" >{{ i18n "website-source" }}</a></li>
+      <li><a class="footer-link" href="{{ .Site.Params.bugtracker }}" target="_blank">{{ i18n "issue-tracker" }}</a></li>
+    </ul>
+  </div>
+  <div class="col-lg-2 col-md-2 col-sm-6">
+    <h5 class="text-left add-bottom">
+      {{ i18n "follow-us" }}
+    </h5>
+   <ul class="list-unstyled">
+      <li><a class="footer-link" href="{{ .Site.Params.mastodon }}" target="_blank">Mastodon</a></li>
+      <li><a class="footer-link" href="/community/">Forum</a></li>
+      <li><a class="footer-link" href="/community/">Chat</li>
+      <li><a class="footer-link" href="{{ .Site.Params.onionv3 }}{{ .URL | relLangURL }}">Onion Website</a></li>
+    </ul>
+  </div>
+</div>
+  <p><!---spacing--></p>
+  <div class="d-flex justify-content-center">
+    {{ if gt (len .Site.Home.AllTranslations) 1 }}
+    {{ range .Site.Home.AllTranslations }}
+    <a type="button" style=""class="btn btn-dark" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    <h5> </h5>
+    {{ end }}
+    {{ end }}
+  </div>
+</footer>

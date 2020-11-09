@@ -169,3 +169,33 @@
 
 - id: become-member-link-text
   translation: "Check out how to do so"
+
+- id: about-us
+  translation: "About us"
+  
+- id: bylaws
+  translation: "Bylaws"
+
+- id: internal-regulation
+  translation: "Internal Regulation"
+
+- id: follow-us
+  translation: "Follow Us"
+
+- id: activities
+  translation: "Our Work"
+
+- id: code
+  translation: "Code / Services"
+
+- id: resources
+  translation: "Resources"
+
+- id: devops
+  translation: "Infrastructure Code"
+
+- id: website-source
+  translation: "Website Source"
+
+- id: issue-tracker
+  translation: "Suggestions & Bugs"
