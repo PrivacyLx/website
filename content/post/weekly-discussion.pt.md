@@ -1,7 +1,7 @@
 ---
 title: "Meetings às Quartas"
 author: "PrivacyLx"
-date: "2020-11-09"
+date: "2020-11-09T15:00:00Z"
 Description: "Online discussion in PrivacyLx chat"
 tags: ["encontro", "chat"]
 ---
