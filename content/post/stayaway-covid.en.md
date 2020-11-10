@@ -2,15 +2,15 @@
 title: "Notice: Mandatory use of App Stayaway"
 author: "PrivacyLx"
 date: "2020-10-16"
-Description: "On the 14th of this month, the Government presented a bill that imposes the use of the COVID Stayaway application. This statement contextualizes the problem in a logic of privacy and digital sovereignty."
+Description: "On the 14th of this month, the Government presented a bill that imposes the use of the COVID Stayaway application. This statement contextualizes the problem in a logic of privacy and digital sovereignty.
 tags: ["stayaway covid"]
 ---
 
 *On the 14th day of this month, the Government [presented a bill](http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679595842774f6a63334e7a637664326c756157357059326c6864476c3259584d7657456c574c33526c6548527663793977634777324d693159535659755a47396a&fich=ppl62-XIV.doc&Inline=true) that imposes the use of the COVID Stayaway application. This statement contextualizes the problem in a logic of privacy and digital sovereignty.*
 
-----
+---
 
-The application fails in several domains, but without wanting to go into detail of a technical, social or legal nature - in this short communication PrivacyLx advocates not to use such application and recommends reading the excellent work that has been conducted by the D3 Association, either through the [“Comunicado sobre a Stayaway”](https://direitosdigitais.pt/comunicacao/comunicados/106-comunicado-sobre-stayaway) or through its website [dedicated to the subject](https://rastreamento.pt/). We subscribe their position position.
+The application fails in several domains, but without wanting to go into detail of a technical, social or legal nature - in this short communication PrivacyLx advocates to not this application and recommends reading the excellent work that has been conducted by the D3 Association, either through the [“Comunicado sobre a Stayaway”](https://direitosdigitais.pt/comunicacao/comunicados/106-comunicado-sobre-stayaway) or through their website [dedicated to the subject](https://rastreamento.pt/). We are endorsing their position.
 
 ## An Underlying Problem
 
@@ -26,4 +26,4 @@ And until when should we maintain the application? Until the curve starts to go 
 
 ---
 
-Note: This post is a translation of post originally published on 22nd October 2020 in Portuguese.
+Note: This post is a translation of the post originally published on 14th October 2020 in Portuguese.
