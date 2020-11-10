@@ -2,7 +2,7 @@
 title: "Notice: Mandatory use of App Stayaway"
 author: "PrivacyLx"
 date: "2020-10-16"
-Description: "On the 14th of this month, the Government presented a bill that imposes the use of the COVID Stayaway application. This statement contextualizes the problem in a logic of privacy and digital sovereignty.
+Description: "On the 14th of this month, the Government presented a bill that imposes the use of the COVID Stayaway application. This statement contextualizes the problem in a logic of privacy and digital sovereignty."
 tags: ["stayaway covid"]
 ---
 
