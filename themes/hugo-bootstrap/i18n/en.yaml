@@ -199,3 +199,6 @@
 
 - id: issue-tracker
   translation: "Suggestions & Bugs"
+
+- id: learn-about-us
+  translation: "About us"
