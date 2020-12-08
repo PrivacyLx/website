@@ -1,7 +1,6 @@
 ---
 title: "Sobre a PrivacyLx"
 author: "Direção"
-image: "/img/PrivacyLxLogoWhite.svg"
 hidedate: true
 preview: true
 description: "Somos uma associação sem fins lucrativos focada na defesa da privacidade. Sabe mais sobre nós."

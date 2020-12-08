@@ -1,7 +1,6 @@
 ---
 title: "Join us!"
 author: "Direction"
-image: "/img/PrivacyLxLogoWhite.svg"
 hidedate: true
 preview: true
 description: "We're a non-profit association focused on defending privacy."
