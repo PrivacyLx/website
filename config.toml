@@ -89,9 +89,6 @@ theme = "hugo-bootstrap"
   # Federated Social Media
   mastodon = "https://social.privacytools.io/@PrivacyLX"
 
-  # Financial Report Link
-  report = "/documents/financials/financialreport2019.pdf"
-
   # Default issue/bug tracker
   bugtracker = "https://github.com/PrivacyLx/privacylx-issue-tracker"
 
