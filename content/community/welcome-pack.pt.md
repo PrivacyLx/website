@@ -86,6 +86,6 @@ artigos, vídeos, filmes e outras coisas.
 
 ## Conversa em tempo real
 
-Caso desejes conversar connosco e participar nas nossas discussões, encontrarás todas as opções disponíveis [no nosso canal de chat público,aqui! ](/community/).
+Caso desejes conversar connosco e participar nas nossas discussões, encontrarás todas as opções disponíveis [no nosso canal de chat público,aqui! ](https://privacylx.org/community/).
 
 Todos os membros da PrivacyLx podem juntar-se ao nosso canal privado de chat, isto geralmente acontece no momento do registo, por favor informa-nos se não for esse o caso.
