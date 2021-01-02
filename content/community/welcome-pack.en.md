@@ -16,7 +16,7 @@ organization works who does what and how can you help.
 The association aims to defend **digital privacy** and **digital security** as
 fundamental rights for a free society through **education**, **research and
 development** of tools and service for its protection. You can find more about
-us in our [mission statement](https://privacylx.org/documents/estatutos.pdf).
+us [here](https://privacylx.org/en/about/about-us).
 
 Currently we're most active in [organizing events](https://privacylx.org/events/)
 and creating [educational material](https://privacylx.org/resources/).
@@ -69,7 +69,7 @@ of the forum.
 ### Research
 
 There are always research ideas and proposal, please have a look at the
-following section of the forum to get you started:
+following sections of the forum to get you started:
 
 - [Action category](https://cafe.privacylx.org/c/action)
 - [Discuss category](https://cafe.privacylx.org/c/discuss-privacy)

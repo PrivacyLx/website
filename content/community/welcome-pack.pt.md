@@ -4,7 +4,7 @@ Este é o kit de boas vindas que passará em revista as questões básicas de co
 
 ## De que trata a PrivacyLx?
 
-A associação tem como fim a defesa da **privacidade digital** e **segurança digital** como direitos fundamentais para uma sociedade livre através da **educação**, **investigação e desenvolvimento** de ferramentas para a sua protecção. Podes saber mais sobre nós através da leitura dos [estatutos](https://privacylx.org/documents/estatutos.pdf).
+A associação tem como fim a defesa da **privacidade digital** e **segurança digital** como direitos fundamentais para uma sociedade livre através da **educação**, **investigação e desenvolvimento** de ferramentas para a sua protecção. Podes saber mais sobre nós [aqui](https://privacylx.org/about/about-us).
 
 Actualmente estamos mais activos na [organização de eventos](https://privacylx.org/events/) e na criação de [recursos educativos](https://privacylx.org/resources/).
 Além disso, estamos a criar campanhas e a compilar uma lista de ideias que com um pouco mais de colaboração podem ser concretizadas. Podes encontrar mais sobre este assunto [no fórum](https://cafe.privacylx.org/c/action).
