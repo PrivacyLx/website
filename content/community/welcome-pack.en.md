@@ -56,7 +56,7 @@ to participate.
 
 If you have questions about anything, you may contact the moderators at our
 [forum](https://cafe.privacylx.org), just message `@moderators` or send an email
-to: `contact@privacylx.org`
+to: `contact at privacylx.org`
 
 ### Educational Materials
 

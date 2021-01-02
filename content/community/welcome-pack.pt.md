@@ -29,7 +29,7 @@ Somos uma comunidade de pessoas que se preocupam muito com uma causa. Ao seres u
 
 O [fórum](https://cafe.privacylx.org) é a nossa casa virtual. Com certeza encontrarás aqui muitas conversas interessantes e és muito bem-vindo(a) a participar.
 
-Se tiveres dúvidas sobre alguma coisa, podes contactar os moderadores no nosso [fórum](https://cafe.privacylx.org), basta enviar uma mensagem `@moderators` ou enviar um e-mail para: contact [a] privacylx.org
+Se tiveres dúvidas sobre alguma coisa, podes contactar os moderadores no nosso [fórum](https://cafe.privacylx.org), basta enviar uma mensagem `@moderators` ou enviar um e-mail para: `contact [a] privacylx.org`
 
 ### Materiais educativos
 
