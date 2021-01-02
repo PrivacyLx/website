@@ -31,7 +31,7 @@ We always need help, read through this section to find out how you can help us.
 Also do not hesitate to ask us if you can help us in other such as providing us
 with a physical space, or a server that we can use, etc.
 
- :heart: Help is always appreciated.
+*Help is always appreciated.*
 
 ### Events
 

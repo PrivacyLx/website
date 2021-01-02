@@ -13,7 +13,7 @@ Além disso, estamos a criar campanhas e a compilar uma lista de ideias que com 
 
 Precisamos sempre de ajuda, lê esta secção para saberes como nos podes ajudar. Também não hesites em perguntar-nos se podes ajudar de outras formas, como por exemplo proporcionando-nos um espaço físico, ou um servidor que possamos utilizar, etc.
 
-:heart: A ajuda é sempre bem vinda.
+*Ajuda é sempre bemvinda.*
 
 ### Eventos
 
