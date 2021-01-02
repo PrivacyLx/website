@@ -1,6 +1,6 @@
 ---
-title: "Descendo a Toca do Coelho (online)"
-author: "PrivacyLx"
+title: "Descendo a Toca do Coelho - versão ilustrada"
+author: "tgnvs"
 publishdate: "2020-12-28"
 date: "2021-01-06T19:00:00-20:00"
 preview: true
@@ -21,4 +21,4 @@ comportamento e condicionam as nossas opções. Contamos contigo.
 **Data:** Quarta, 6 de janeiro, 2021\
 **Hora:** 19:00 - 20:00\
 **Local:** https://bbb.privacylx.org/b/tty-zsg-bol-lsa (código de acesso: 873675)\
-Basta ter um browser como firefox ou chromium/chrome
+Basta aceder um browser moderno (como firefox ou chromium/chrome)
