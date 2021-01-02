@@ -50,7 +50,7 @@ us a space that we can occasionally use to make events and work together.
 
 We're a community of people that dearly care about a cause. By being an active
 and welcoming member you make the community's heart beat.
-[This forum](https://cafe.privacylx.org) is our main virtual home. For sure
+[The forum](https://cafe.privacylx.org) is our main virtual home. For sure
 you'll find here many are interesting conversations and you're very much welcome
 to participate.
 
