@@ -4,7 +4,7 @@ author: "tgnvs"
 publishdate: "2020-12-28"
 date: "2021-01-06T19:00:00-20:00"
 preview: true
-description: "Entra de pé direito dem 2021 com uma discussão online sobre descer a toca do colhelho para o mundo da privacidade. A palestra é insipirada numa série de blogs publicada pela PrivacyLx com o mesmo nome"
+description: "Entra de pé direito de 2021 com uma discussão online sobre descer a toca do colhelho para o mundo da privacidade. A palestra é insipirada numa série de blogs publicada pela PrivacyLx com o mesmo nome."
 ---
 
 Para iniciar o ano de 2021 com o pé direito, a PrivacyLx organiza no
