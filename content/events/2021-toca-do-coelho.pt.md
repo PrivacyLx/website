@@ -9,7 +9,7 @@ description: "Entra de pé direito de 2021 com uma discussão online sobre desce
 
 Para iniciar o ano de 2021 com o pé direito, a PrivacyLx organiza no
 próximo dia 6 de janeiro pelas 19:00 (UTC±00:00) um primeiro por
-audioconferença no nosso [BigBlueButton](https://bbb.privacylx.org/),
+audioconferência no nosso [BigBlueButton](https://bbb.privacylx.org/),
 onde serão projetados slides baseados no blog [Descendo a toca do
 coelho](/tags/toca-do-coelho/). Este, tem o
 objetivo de sensibilizar a sociedade civil para os perigos de viver
