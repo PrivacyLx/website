@@ -16,10 +16,10 @@ organization works who does what and how can you help.
 The association aims to defend **digital privacy** and **digital security** as
 fundamental rights for a free society through **education**, **research and
 development** of tools and service for its protection. You can find more about
-us [here](https://privacylx.org/en/about/about-us).
+us [here](/about/about-us).
 
-Currently we're most active in [organizing events](https://privacylx.org/events/)
-and creating [educational material](https://privacylx.org/resources/).
+Currently we're most active in [organizing events](/events/)
+and creating [educational material](/resources/).
 Furthermore we are creating campaigns and compiled a list of ideas that with a
 bit more collaboration can be brought to life. You can find more about this by
 looking at the [action category](https://cafe.privacylx.org/c/action/5) of our
@@ -40,7 +40,7 @@ event or simply propose something, feel free to present your idea or have a look
 on other ideas by visiting this
 [section of our forum](https://cafe.privacylx.org/c/action/5).
 
-You are always welcome to join us to the [events](https://privacylx.org/events/)
+You are always welcome to join us to the [events](/events/)
 too, of course!
 
 We are in need of a physical space in Lisbon, please contact us if you can offer
@@ -61,7 +61,7 @@ to: `contact at privacylx.org`
 ### Educational Materials
 
 We've been publishing a series of slides that we've used throughout [our
-presentations](https://privacylx.org/resources/). Feel free to propose any other
+presentations](/resources/). Feel free to propose any other
 material that you may find useful in either Portuguese or English. The best
 place to do so is the [learning category](https://cafe.privacylx.org/c/learn/13)
 of the forum.
@@ -87,7 +87,7 @@ We self-host our infrastructure. We use software that automates the deployment,
 configuration and managements of our infrastructure and all our code and
 deployment tools can be found in our
 [git repository](https://github.com/PrivacyLx/devops). Currently we host a
-[website](http://privacylx.org), our [forum](https://cafe.privacylx.org/),
+[website](/), our [forum](https://cafe.privacylx.org/),
 our mailserver and [BigBlueButton](https://bbb.privacylx.org). If you have
 knowledge of system administration or would like to learn don't hesitate to have
 a look at our configurations and open issues in our
@@ -107,7 +107,7 @@ perhaps you can look on
 have a look at the
 [bureaucratic tasks](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Abureaucracy)
 that we need help with. Furthermore you can help us to improve our
-[website](https://privacylx.org) here you can find the
+[website](/) here you can find the
 [website tasks](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Awebsite)
 that are not strictly related to development or system administration.
 
