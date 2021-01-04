@@ -3,7 +3,7 @@ title: "Welcome Pack"
 author: "Direction"
 hidedate: true
 preview: true
-description: "How the organization works who does what and how can you help."
+description: "How PrivacyLx works, and how can you help."
 ---
 
 Hey, Welcome to PrivacyLx!
