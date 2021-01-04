@@ -1,6 +1,6 @@
 ---
 title: "Welcome Pack"
-author: "Direction"
+author: "PrivacyLx"
 hidedate: true
 preview: true
 description: "How PrivacyLx works, and how can you help."
