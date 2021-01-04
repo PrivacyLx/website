@@ -1,3 +1,11 @@
+---
+title: "Welcome Pack"
+author: "Direction"
+hidedate: true
+preview: true
+description: "How PrivacyLx works, and how can you help."
+---
+
 Olá, Bem-vindo(a) à PrivacyLx!
 
 Este é o kit de boas vindas que passará em revista as questões básicas de como a organização trabalha, quem faz o quê e como podes ajudar.
@@ -33,7 +41,7 @@ Se tiveres dúvidas sobre alguma coisa, podes contactar os moderadores no nosso 
 
 ### Materiais educativos
 
-Temos publicado uma série de slides de  [apresentações](https://privacylx.org/resources/) que fizemos. Sente-te à vontade para propor qualquer outro material que aches que pode ser útil tanto em português como em inglês. O melhor sítio para o fazer é na [categoria de aprendizagem](https://cafe.privacylx.org/c/learn) do fórum.
+Temos publicado uma série de slides de [apresentações](https://privacylx.org/resources/) que fizemos. Sente-te à vontade para propor qualquer outro material que aches que pode ser útil tanto em português como em inglês. O melhor sítio para o fazer é na [categoria de aprendizagem](https://cafe.privacylx.org/c/learn) do fórum.
 
 ### Investigação
 
@@ -56,8 +64,12 @@ Portugal que possamo acolher um exit node da rede Tor, por favor contacta-nos se
 
 ### Outros
 
-Se ainda nos queres ajudar e não há nada que desperte o teu interesse talvez possas ver as [publicações](https://cafe.privacylx.org/c/learn?max_posts=1) não respondidas do nosso fórum ou talvez dar uma vista de olhos às [tarefas burocráticas](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Abureaucracy)
-com que precisamos de ajuda. Além disso, podes ajudar-nos a melhorar o nosso  [site](https://privacylx.org). Aqui podes encontrar as [tarefas do site](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Awebsite) que não estão estritamente relacionadas com o desenvolvimento ou administração do sistema.
+Se ainda nos queres ajudar e não há nada que desperte o teu interesse talvez
+possas ver as [publicações](https://cafe.privacylx.org/c/learn?max_posts=1)
+[não](https://cafe.privacylx.org/c/discuss-privacy?max_posts=1)
+[respondidas](https://cafe.privacylx.org/c/action?max_posts=1) do nosso fórum ou
+talvez dar uma vista de olhos às [tarefas burocráticas](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Abureaucracy)
+com que precisamos de ajuda. Além disso, podes ajudar-nos a melhorar o nosso [site](https://privacylx.org). Aqui podes encontrar as [tarefas do site](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Awebsite) que não estão estritamente relacionadas com o desenvolvimento ou administração do sistema.
 
 ## Familizariza-te com o fórum
 
@@ -73,7 +85,7 @@ se fores membro, és mais do que bem-vindo(a) a participar!
 Onde fazemos brainstorming, colaboramos em ideias e anunciamos eventos futuros,
 campanhas e acções. És mais do que bem-vindo(a) a propor e preparar um evento / campanha / acção que gostarias de realizar ou ajudar outros a fazê-lo.
 
-- [Notícias](https://cafe.privacylx.org/c/news)  - https://cafe.privacylx.org/c/discuss-privacy/news/35 (?)
+- [Notícias](https://cafe.privacylx.org/c/news)
 Esta categoria enumera artigos de notícias e tópicos relacionados (mas não limitados) à
 privacidade, vigilância e liberdade de expressão.
 
@@ -86,6 +98,6 @@ artigos, vídeos, filmes e outras coisas.
 
 ## Conversa em tempo real
 
-Caso desejes conversar connosco e participar nas nossas discussões, encontrarás todas as opções disponíveis [no nosso canal de chat público,aqui! ](https://privacylx.org/community/).
+Caso desejes conversar connosco e participar nas nossas discussões, encontrarás todas as opções disponíveis [no nosso canal de chat público, aqui!](/community/).
 
 Todos os membros da PrivacyLx podem juntar-se ao nosso canal privado de chat, isto geralmente acontece no momento do registo, por favor informa-nos se não for esse o caso.

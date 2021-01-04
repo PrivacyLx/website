@@ -3,9 +3,9 @@ title: "Welcome Pack"
 author: "Direction"
 hidedate: true
 preview: true
-description: "How the organization works who does what and how can you help."
-rss_exclude: true
+description: "Como funciona o PrivacyLx, e como pode ajudar."
 ---
+
 Hey, Welcome to PrivacyLx!
 
 This is the welcome pack and it will go over the basic stuff of how the
@@ -68,8 +68,8 @@ of the forum.
 
 ### Research
 
-There are always research ideas and proposal, please have a look at the
-following sections of the forum to get you started:
+There are always research ideas and proposals, please have a look at the
+following sections of the forum to get started:
 
 - [Action category](https://cafe.privacylx.org/c/action)
 - [Discuss category](https://cafe.privacylx.org/c/discuss-privacy)
@@ -145,7 +145,7 @@ happen. So let's take a look at it's various categories:
 
 In case you would like to chat with us and take part in our discussions. Please
 find all the available option to
-[access our public chat channel here](https://privacylx.org/en/community/).
+[access our public chat channel here](/community/).
 
 All PrivacyLx members can join our private chat channel, this usually happens
 upon registration please let us know if this is not the case.
