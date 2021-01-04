@@ -81,18 +81,18 @@ Portanto, vejamos as suas várias categorias:
 Aqui encontrarás a área exclusiva para membros. É aqui que localizamos o progresso do nosso projecto e onde discutimos sobre acções futuras. Todas as semanas temos uma [reunião](https://cafe.privacylx.org/t/saturdays-6pm-weelky-updates-meeting/283/1)
 se fores membro, és mais do que bem-vindo(a) a participar!
 
-- [Acção](https://cafe.privacylx.org/c/discuss-privacy)
+- [Acção](https://cafe.privacylx.org/c/discuss-privacy/5)
 Onde fazemos brainstorming, colaboramos em ideias e anunciamos eventos futuros,
 campanhas e acções. És mais do que bem-vindo(a) a propor e preparar um evento / campanha / acção que gostarias de realizar ou ajudar outros a fazê-lo.
 
-- [Notícias](https://cafe.privacylx.org/c/news)
+- [Notícias](https://cafe.privacylx.org/c/news/35)
 Esta categoria enumera artigos de notícias e tópicos relacionados (mas não limitados) à
 privacidade, vigilância e liberdade de expressão.
 
-- [Aprender](https://cafe.privacylx.org/c/learn)
+- [Aprender](https://cafe.privacylx.org/c/learn/13)
 Partilhamos aqui recursos de aprendizagem e ensino sobre privacidade e segurança digital.
 
-- [Discutir](https://cafe.privacylx.org/c/discuss-privacy)
+- [Discutir](https://cafe.privacylx.org/c/discuss-privacy/15)
 Um lugar para discutir as implicações das violações da privacidade, discutir notícias
 artigos, vídeos, filmes e outras coisas.
 
