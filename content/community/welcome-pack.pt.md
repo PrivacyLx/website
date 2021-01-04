@@ -3,7 +3,7 @@ title: "Welcome Pack"
 author: "Direction"
 hidedate: true
 preview: true
-description: "How PrivacyLx works, and how can you help."
+description: "Como funciona a PrivacyLx e como podes ajudar?"
 ---
 
 Olá, Bem-vindo(a) à PrivacyLx!
