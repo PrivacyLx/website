@@ -15,7 +15,7 @@ Este é o kit de boas vindas que passará em revista as questões básicas de co
 A associação tem como fim a defesa da **privacidade digital** e **segurança digital** como direitos fundamentais para uma sociedade livre através da **educação**, **investigação e desenvolvimento** de ferramentas para a sua protecção. Podes saber mais sobre nós [aqui](https://privacylx.org/about/about-us).
 
 Actualmente estamos mais activos na [organização de eventos](https://privacylx.org/events/) e na criação de [recursos educativos](https://privacylx.org/resources/).
-Além disso, estamos a criar campanhas e a compilar uma lista de ideias que com um pouco mais de colaboração podem ser concretizadas. Podes encontrar mais sobre este assunto [no fórum](https://cafe.privacylx.org/c/action).
+Além disso, estamos a criar campanhas e a compilar uma lista de ideias que com um pouco mais de colaboração podem ser concretizadas. Podes encontrar mais sobre este assunto [no fórum](https://cafe.privacylx.org/c/action/5).
 
 ## Como posso ajudar?
 
@@ -25,7 +25,7 @@ Precisamos sempre de ajuda, lê esta secção para saberes como nos podes ajudar
 
 ### Eventos
 
-Se tens uma habilidade especial, interesse num tópico específico, queres receber um evento ou simplesmente propor algo, sente-te à vontade para apresentar a tua ideia ou dar uma espreitadela sobre outras ideias, visitando esta [secção do nosso fórum](https://cafe.privacylx.org/c/action).
+Se tens uma habilidade especial, interesse num tópico específico, queres receber um evento ou simplesmente propor algo, sente-te à vontade para apresentar a tua ideia ou dar uma espreitadela sobre outras ideias, visitando esta [secção do nosso fórum](https://cafe.privacylx.org/c/action/5).
 
 Serás também sempre bem-vindo a juntares-te a nós nos [eventos](https://privacylx.org/events/) !
 
@@ -41,14 +41,14 @@ Se tiveres dúvidas sobre alguma coisa, podes contactar os moderadores no nosso 
 
 ### Materiais educativos
 
-Temos publicado uma série de slides de [apresentações](https://privacylx.org/resources/) que fizemos. Sente-te à vontade para propor qualquer outro material que aches que pode ser útil tanto em português como em inglês. O melhor sítio para o fazer é na [categoria de aprendizagem](https://cafe.privacylx.org/c/learn) do fórum.
+Temos publicado uma série de slides de [apresentações](https://privacylx.org/resources/) que fizemos. Sente-te à vontade para propor qualquer outro material que aches que pode ser útil tanto em português como em inglês. O melhor sítio para o fazer é na [categoria de aprendizagem](https://cafe.privacylx.org/c/learn/13) do fórum.
 
 ### Investigação
 
 Há sempre ideias e propostas de investigação, por favor dá uma vista de olhos às secções do fórum:
 
-- [Categoria de acção](https://cafe.privacylx.org/c/action)
-- [Categoria de discussão](https://cafe.privacylx.org/c/discuss-privacy)
+- [Categoria de acção](https://cafe.privacylx.org/c/action/5)
+- [Categoria de discussão](https://cafe.privacylx.org/c/discuss-privacy/15)
 
 ### Desenvolvimento (código)
 
@@ -65,9 +65,9 @@ Portugal que possamo acolher um exit node da rede Tor, por favor contacta-nos se
 ### Outros
 
 Se ainda nos queres ajudar e não há nada que desperte o teu interesse talvez
-possas ver as [publicações](https://cafe.privacylx.org/c/learn?max_posts=1)
-[não](https://cafe.privacylx.org/c/discuss-privacy?max_posts=1)
-[respondidas](https://cafe.privacylx.org/c/action?max_posts=1) do nosso fórum ou
+possas ver as [publicações](https://cafe.privacylx.org/c/learn/13?max_posts=1)
+[não](https://cafe.privacylx.org/c/discuss-privacy/15?max_posts=1)
+[respondidas](https://cafe.privacylx.org/c/action/5?max_posts=1) do nosso fórum ou
 talvez dar uma vista de olhos às [tarefas burocráticas](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Abureaucracy)
 com que precisamos de ajuda. Além disso, podes ajudar-nos a melhorar o nosso [site](https://privacylx.org). Aqui podes encontrar as [tarefas do site](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Awebsite) que não estão estritamente relacionadas com o desenvolvimento ou administração do sistema.
 
