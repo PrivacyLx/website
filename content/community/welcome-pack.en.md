@@ -22,7 +22,7 @@ Currently we're most active in [organizing events](https://privacylx.org/events/
 and creating [educational material](https://privacylx.org/resources/).
 Furthermore we are creating campaigns and compiled a list of ideas that with a
 bit more collaboration can be brought to life. You can find more about this by
-looking at the [action category](https://cafe.privacylx.org/c/action) of our
+looking at the [action category](https://cafe.privacylx.org/c/action/5) of our
 forum.
 
 ## How can I help?
@@ -38,7 +38,7 @@ with a physical space, or a server that we can use, etc.
 If you have a special skill, interested in a specific topic, want to host an
 event or simply propose something, feel free to present your idea or have a look
 on other ideas by visiting this
-[section of our forum](https://cafe.privacylx.org/c/action).
+[section of our forum](https://cafe.privacylx.org/c/action/5).
 
 You are always welcome to join us to the [events](https://privacylx.org/events/)
 too, of course!
@@ -63,7 +63,7 @@ to: `contact at privacylx.org`
 We've been publishing a series of slides that we've used throughout [our
 presentations](https://privacylx.org/resources/). Feel free to propose any other
 material that you may find useful in either Portuguese or English. The best
-place to do so is the [learning category](https://cafe.privacylx.org/c/learn)
+place to do so is the [learning category](https://cafe.privacylx.org/c/learn/13)
 of the forum.
 
 ### Research
@@ -71,8 +71,8 @@ of the forum.
 There are always research ideas and proposals, please have a look at the
 following sections of the forum to get started:
 
-- [Action category](https://cafe.privacylx.org/c/action)
-- [Discuss category](https://cafe.privacylx.org/c/discuss-privacy)
+- [Action category](https://cafe.privacylx.org/c/action/5)
+- [Discuss category](https://cafe.privacylx.org/c/discuss-privacy/15)
 
 ### Development
 
@@ -101,9 +101,9 @@ help us with that.
 
 If you still want to help us and you haven't anything that sparks your interest
 perhaps you can look on
-[the](https://cafe.privacylx.org/c/discuss-privacy?max_posts=1)
-[unanswered](https://cafe.privacylx.org/c/action?max_posts=1)
-[posts](https://cafe.privacylx.org/c/learn?max_posts=1) of our forum or perhaps
+[the](https://cafe.privacylx.org/c/discuss-privacy/15?max_posts=1)
+[unanswered](https://cafe.privacylx.org/c/action/5?max_posts=1)
+[posts](https://cafe.privacylx.org/c/learn/13?max_posts=1) of our forum or perhaps
 have a look at the
 [bureaucratic tasks](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Abureaucracy)
 that we need help with. Furthermore you can help us to improve our
@@ -123,21 +123,21 @@ happen. So let's take a look at it's various categories:
   meeting](https://cafe.privacylx.org/t/saturdays-6pm-weelky-updates-meeting/283/1)
   and if you are a member you are more than welcome to join!
 
-- [Action](https://cafe.privacylx.org/c/discuss-privacy)
+- [Action](https://cafe.privacylx.org/c/discuss-privacy/5)
   Where we brainstorm, collaborate on ideas and announce future events,
   campaigns and actions. You are more than welcome to participate in the
   preparations and propose an event/campaign/action that you would like to make
   a reality or help others to do so.
 
-- [News](https://cafe.privacylx.org/c/news)
+- [News](https://cafe.privacylx.org/c/news/35)
   This category lists news articles and topics related (but not limited) to
   privacy, surveillance and freedom of expression.
 
-- [Learn](https://cafe.privacylx.org/c/learn)
+- [Learn](https://cafe.privacylx.org/c/learn/13)
   We share here learning and teaching resources about privacy and digital
   security.
 
-- [Discuss](https://cafe.privacylx.org/c/discuss-privacy)
+- [Discuss](https://cafe.privacylx.org/c/discuss-privacy/15)
   A place to discuss the implications of privacy violations, discuss news
   articles, videos, films and other stuff.
 
