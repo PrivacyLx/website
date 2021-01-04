@@ -12,9 +12,9 @@ Este é o kit de boas vindas que passará em revista as questões básicas de co
 
 ## De que trata a PrivacyLx?
 
-A associação tem como fim a defesa da **privacidade digital** e **segurança digital** como direitos fundamentais para uma sociedade livre através da **educação**, **investigação e desenvolvimento** de ferramentas para a sua protecção. Podes saber mais sobre nós [aqui](https://privacylx.org/about/about-us).
+A associação tem como fim a defesa da **privacidade digital** e **segurança digital** como direitos fundamentais para uma sociedade livre através da **educação**, **investigação e desenvolvimento** de ferramentas para a sua protecção. Podes saber mais sobre nós [aqui](/about/about-us).
 
-Actualmente estamos mais activos na [organização de eventos](https://privacylx.org/events/) e na criação de [recursos educativos](https://privacylx.org/resources/).
+Actualmente estamos mais activos na [organização de eventos](/events/) e na criação de [recursos educativos](/resources/).
 Além disso, estamos a criar campanhas e a compilar uma lista de ideias que com um pouco mais de colaboração podem ser concretizadas. Podes encontrar mais sobre este assunto [no fórum](https://cafe.privacylx.org/c/action/5).
 
 ## Como posso ajudar?
@@ -27,7 +27,7 @@ Precisamos sempre de ajuda, lê esta secção para saberes como nos podes ajudar
 
 Se tens uma habilidade especial, interesse num tópico específico, queres receber um evento ou simplesmente propor algo, sente-te à vontade para apresentar a tua ideia ou dar uma espreitadela sobre outras ideias, visitando esta [secção do nosso fórum](https://cafe.privacylx.org/c/action/5).
 
-Serás também sempre bem-vindo a juntares-te a nós nos [eventos](https://privacylx.org/events/) !
+Serás também sempre bem-vindo a juntares-te a nós nos [eventos](/events/) !
 
 Estamos a precisar de um espaço físico em Lisboa, por favor contacta-nos se puderes oferecer um espaço que possamos ocasionalmente utilizar para fazer eventos e trabalhar em conjunto.
 
@@ -41,7 +41,7 @@ Se tiveres dúvidas sobre alguma coisa, podes contactar os moderadores no nosso 
 
 ### Materiais educativos
 
-Temos publicado uma série de slides de [apresentações](https://privacylx.org/resources/) que fizemos. Sente-te à vontade para propor qualquer outro material que aches que pode ser útil tanto em português como em inglês. O melhor sítio para o fazer é na [categoria de aprendizagem](https://cafe.privacylx.org/c/learn/13) do fórum.
+Temos publicado uma série de slides de [apresentações](/resources/) que fizemos. Sente-te à vontade para propor qualquer outro material que aches que pode ser útil tanto em português como em inglês. O melhor sítio para o fazer é na [categoria de aprendizagem](https://cafe.privacylx.org/c/learn/13) do fórum.
 
 ### Investigação
 
@@ -57,7 +57,7 @@ Tens um projecto ou uma deia que gostarias de desenvolver, por favor fala connos
 ### Infra-estrutura
 
 Hospedamos as nossa infra-estrutura digital. Utilizamos software que automatiza a implementação,
-configuração e gestão das nossa infra-estrutura, de todo o nosso código e ferramentas. Podem ser encontrado no nosso [repositório git](https://github.com/PrivacyLx/devops). Actualmente albergamos um [website](http://privacylx.org), o nosso [fórum](https://cafe.privacylx.org/), o nosso servidor de correio e [BigBlueButton](https://bbb.privacylx.org), um servidor de videoconferências. Se tiveres conhecimento em administração de sistemas ou queiras aprender não hesites em visitar as nossas configurações e questões abertas no [issue tracker](https://github.com/privacylx/privacylx-issue-tracker).
+configuração e gestão das nossa infra-estrutura, de todo o nosso código e ferramentas. Podem ser encontrado no nosso [repositório git](https://github.com/PrivacyLx/devops). Actualmente albergamos um [website](/), o nosso [fórum](https://cafe.privacylx.org/), o nosso servidor de correio e [BigBlueButton](https://bbb.privacylx.org), um servidor de videoconferências. Se tiveres conhecimento em administração de sistemas ou queiras aprender não hesites em visitar as nossas configurações e questões abertas no [issue tracker](https://github.com/privacylx/privacylx-issue-tracker).
 
 Estamos a precisar de um servidor físico ou de colocação de servidores num centro de dados em
 Portugal que possamo acolher um exit node da rede Tor, por favor contacta-nos se puderes ajudar-nos com isso.
@@ -69,7 +69,7 @@ possas ver as [publicações](https://cafe.privacylx.org/c/learn/13?max_posts=1)
 [não](https://cafe.privacylx.org/c/discuss-privacy/15?max_posts=1)
 [respondidas](https://cafe.privacylx.org/c/action/5?max_posts=1) do nosso fórum ou
 talvez dar uma vista de olhos às [tarefas burocráticas](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Abureaucracy)
-com que precisamos de ajuda. Além disso, podes ajudar-nos a melhorar o nosso [site](https://privacylx.org). Aqui podes encontrar as [tarefas do site](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Awebsite) que não estão estritamente relacionadas com o desenvolvimento ou administração do sistema.
+com que precisamos de ajuda. Além disso, podes ajudar-nos a melhorar o nosso [site](/). Aqui podes encontrar as [tarefas do site](https://github.com/PrivacyLx/privacylx-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Awebsite) que não estão estritamente relacionadas com o desenvolvimento ou administração do sistema.
 
 ## Familizariza-te com o fórum
 
