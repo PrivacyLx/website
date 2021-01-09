@@ -8,7 +8,7 @@ description: "Como funciona a PrivacyLx e como podes ajudar?"
 
 Olá, Bem-vindo(a) à PrivacyLx!
 
-Este é o kit de boas vindas que passará em revista as questões básicas de como a organização trabalha, quem faz o quê e como podes ajudar.
+Este é o kit de boas vindas. Cobre as questões básicas de como a organização trabalha, quem faz o quê e como podes ajudar.
 
 ## De que trata a PrivacyLx?
 
