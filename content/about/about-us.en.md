@@ -24,6 +24,10 @@ can become even more active in the defense of privacy by [becoming a
 member](/community/become-a-member)! 
 
 
-#### Financial Transparency Reports
+#### Reports
 
+##### 2020
+
+* [Activity report 2018-2020](/documents/activities/relatorio-atividades-2020.pdf) (in Portuguese)
 * [Financial Report 2019-2020](/documents/financials/financialreport2019.pdf)
+
