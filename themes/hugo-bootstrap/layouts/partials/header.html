@@ -11,7 +11,7 @@
             <ul class="navbar-nav">
               {{ $url := .URL | relLangURL }}
               {{ range .Site.Menus.main }}
-                {{ if eq (.URL ) "/post/" }} <!-- Make blog be a button -->
+                {{ if eq (.URL ) "/community/become-a-member" }} <!-- Make blog be a button -->
                 <h5> </h5>
                 <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ else }}

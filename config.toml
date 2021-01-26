@@ -35,12 +35,12 @@ theme = "hugo-bootstrap"
     name = "Comunidade"
     weight = 3
   [[languages.pt.menu.main]]
-    url = "https://bbb.privacylx.org"
-    name = "Videoconferências"
-    weight = 4
-  [[languages.pt.menu.main]]
     url = "/resources/"
     name = "Slides"
+    weight = 4
+  [[languages.pt.menu.main]]
+    url = "/community/become-a-member"
+    name = "Associa-te!"
     weight = 5
 [languages.en]
   languageName = "English"
@@ -58,13 +58,13 @@ theme = "hugo-bootstrap"
     url = "/community/"
     name = "Community"
     weight = 3
- [[languages.en.menu.main]]
-    url = "https://bbb.privacylx.org"
-    name = "Videoconferences"
-    weight = 4
   [[languages.en.menu.main]]
     url = "/resources/"
     name = "Slides"
+    weight = 4
+  [[languages.en.menu.main]]
+    url = "/community/become-a-member"
+    name = "Become a member!"
     weight = 5
 
 [permalinks]
