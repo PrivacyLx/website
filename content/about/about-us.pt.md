@@ -16,10 +16,14 @@ privacidade e segurança digital como direitos fundamentais para uma
 sociedade livre através da educação, investigação e desenvolvimento de
 ferramentas para a sua proteção.*
 
-#### Junsta-te a nós
+#### Junta-te a nós
 
  Já és frequente nos nossos eventos, fórum ou chat? Sabe como podes tornar-te ainda mais ativo(a) na defesa da privacidade, [torna-te membro](/community/become-a-member)!
  
-#### Relatórios Financeiros de Transparência
 
+#### Relatórios
+
+##### 2020
+
+* [Relatório de Atividades 2018-2020](/documents/activities/relatorio-atividades-2020.pdf)
 * [Relatório Financeiro 2019-2020](/documents/financials/financialreport2019.pdf)
