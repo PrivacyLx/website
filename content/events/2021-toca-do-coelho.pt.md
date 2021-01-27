@@ -1,5 +1,5 @@
 ---
-title: "Descendo a Toca do Coelho - versão ilustrada"
+title: "Descendo a Toca do Coelho - versão ilustrada (parte 1)"
 author: "tgnvs"
 publishdate: "2020-12-28"
 date: "2021-01-06T19:00:00-20:00"
@@ -22,3 +22,7 @@ comportamento e condicionam as nossas opções. Contamos contigo.
 **Hora:** 19:00 - 20:00\
 **Local:** https://bbb.privacylx.org/b/tty-zsg-bol-lsa (código de acesso: 873675)\
 Basta aceder um browser moderno (como firefox ou chromium/chrome)
+
+![](/img/Down_the_Rabbit_Hole.png)
+
+Créditos da imagem: John Tenniel, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Down_the_Rabbit_Hole.png)
