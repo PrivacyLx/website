@@ -13,6 +13,7 @@
               {{ range .Site.Menus.main }}
                 {{ if eq (.URL ) "/community/become-a-member" }} <!-- Make blog be a button -->
                 <h5> </h5>
+
                 <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ else }}
                 <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
@@ -35,7 +36,7 @@
       </a>
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
             <ul class="navbar-nav">
-              {{ $url := .URL | relLangURL }}
+              {{ $url := .RelPermalink | relLangURL }}
               {{ range .Site.Menus.main }}
                 <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
                     {{ if eq (hasPrefix .URL "mailto:") true }}
