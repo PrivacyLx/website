@@ -6,7 +6,7 @@
 {{ $next_event := $future_events | first 1 }}
 
 <!-- Find the last post -->
-{{ $posts := where .Pages "Section" "post" }}
+{{ $posts := where .Site.RegularPages "Section" "post" }}
 {{ $last_post := last 1 $posts.ByDate }}
 
 <!-- Show event if there is one and if not show the last
