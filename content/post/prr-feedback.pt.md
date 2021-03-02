@@ -9,7 +9,7 @@ tags: ["privacidade", "governação"]
 
 *O Plano de Recuperação e Resiliência (PRR) define a "Visão
 estratégica para o plano de recuperação económica de Portugal
-2020-2030". Concretamente o plano define as àreas que beneficiarão de
+2020-2030". Concretamente o plano define as áreas que beneficiarão de
 apoio económico e o âmbito desse apoio.*
 
 Neste sentido, a associação PrivacyLx sentiu-se na obrigação de dar o
