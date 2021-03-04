@@ -3,7 +3,7 @@ title: "Dystopia Awards Tuga 2021"
 author: "PrivacyLx"
 publishdate: 2021-03-05T12:00:00
 date: "2021-03-05"
-description: "Vigilância na Web Portuguesa" (Beta)
+description: "Vigilância na Web Portuguesa (Beta)"
 tags: ["privacidade", "1984"]
 ---
 
