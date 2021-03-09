@@ -7,8 +7,8 @@ description: "Vigilância na Web Portuguesa (Beta)"
 tags: ["privacidade", "1984"]
 ---
 
-*Inspirado pelos prémios Big Brother Awards, surgiu a ideia de compilar 
-em um único documento uma análise preliminar aos principais websites 
+*Inspirado pelos [prémios Big Brother Awards](https://pt.wikipedia.org/wiki/Big_Brother_Awards), surgiu a ideia de compilar 
+num único documento uma análise preliminar aos principais websites 
 portugueses e respectivos rastreadores.*
 
 Iniciámos este estudo cheios de curiosidade por vislumbrar o atual panorama nacional e  com os objetivos de: 
