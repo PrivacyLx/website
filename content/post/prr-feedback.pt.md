@@ -31,7 +31,7 @@ da nossa participação.
 >    Algumas razões que justificam a proposta:
 >     - promover um regime misto que garante a maior resiliência do sistema educativo e promove a concentração dos alunos ao incentivar que certas tarefas sejam concretizadas "offline".
 >
->     - a título de inspiração ver (em inglês) https://www.good.is/articles/why-are-silicon-valley-executives sending-their-kids-to-a-tech-free-school
+>     - a título de inspiração ver (em inglês) https://www.good.is/articles/why-are-silicon-valley-executives-sending-their-kids-to-a-tech-free-school
 >
 > -------------------------------------------------------------------------------------------------
 > 
