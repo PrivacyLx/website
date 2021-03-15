@@ -1,12 +1,12 @@
 <!--- jumbotron Showing the next event --->
 
 <!-- Find the next event -->
-{{ $events :=  where .Pages "Section" "events" }}
+{{ $events :=  where .Site.RegularPages "Section" "events" }}
 {{ $future_events := $events | intersect (where $events "Date" ">=" now) }}
-{{ $next_event := first 1 $future_events.ByDate }}
+{{ $next_event := $future_events | first 1 }}
 
 <!-- Find the last post -->
-{{ $posts := where .Pages "Section" "post" }}
+{{ $posts := where .Site.RegularPages "Section" "post" }}
 {{ $last_post := last 1 $posts.ByDate }}
 
 <!-- Show event if there is one and if not show the last
