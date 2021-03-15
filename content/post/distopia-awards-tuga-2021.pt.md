@@ -20,6 +20,14 @@ Iniciámos este estudo cheios de curiosidade por vislumbrar o atual panorama nac
 
 A continuidade deste projeto vai depender não só da disponibilidade, como do número de voluntários que se deseja que sejam muitos. 
 
----
+<a class="btn btn-dark btn-lg" href="/documents/dystopia2021_v2.pdf" role="button">Transferir documento</a>
 
-Link para o documento: [Analise Vigilancia PT.pdf](/documents/Analise.Vigilancia.PT.pdf)
+
+----
+
+Histórico de versões:
+
+* [v2 - 2021/03/14](/documents/dystopia2021_v2.pdf) - colocação errada de menção honrosa em app do continente
+* [v1 - 2021/03/05](/documents/Analise.Vigilancia.PT.pdf) - versão original
+
+
