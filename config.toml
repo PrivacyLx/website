@@ -98,6 +98,9 @@ theme = "hugo-bootstrap"
   # Display post summaries instead of content in list templates (default: true)
   # truncate = false
 
+  # RSS
+  RSS = "https://privacylx.org/index.xml"
+
   [params.sidebar]
     # Whether to show the recent posts or not (default: true)
     # showRecent = false

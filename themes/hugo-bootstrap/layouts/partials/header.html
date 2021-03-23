@@ -3,6 +3,17 @@
         <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
             {{ partial "brand" . }}
         </a>
+        <div class="d-flex justify-content-center">
+          {{ if gt (len .Site.Home.AllTranslations) 1 }}
+          {{ range .Site.Home.AllTranslations }}
+          <a type="button" style="" class="btn btn-dark" href="{{ .RelPermalink }}">{{ .Language }}</a>
+          <h5> </h5>
+          {{ end }}
+          {{ end }}
+          </div>
+        <div class="d-flex justify-content-center">
+        <a type="button" style=""class="btn btn-dark" href="{{ .Site.Params.RSS }}">RSS</a>
+        </div>
 
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
           <ul class="navbar-nav">
