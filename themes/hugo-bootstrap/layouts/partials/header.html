@@ -3,28 +3,45 @@
         <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
             {{ partial "brand" . }}
         </a>
+        <div class="d-flex justify-content-center">
+	  <ul class="navbar-nav">
+	    <a class="nav-link" href="{{ .Site.Params.RSS }}">
+	      <img src="/img/rss.png" style="width: 12px">
+              </img>
+            </a>
+            {{- $currentPage := . -}}
+            {{ if gt (len .Site.Home.AllTranslations) 1 }}
+            {{ range .Site.Home.AllTranslations }}
+	    {{if ne .Lang $.Lang}}
+            <a class="nav-link" href="{{ .RelPermalink }}">{{ .Language }}</a>
+	    {{ end }}
+	    {{ end }}
+            {{ end }}
+	  </ul>
+        </div>
 
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
           <ul class="navbar-nav">
             <!-- The rest used to be here -->
           </ul>
-            <ul class="navbar-nav">
-              {{ $url := .URL | relLangURL }}
-              {{ range .Site.Menus.main }}
-                {{ if eq (.URL ) "/community/become-a-member" }} <!-- Make blog be a button -->
-                <h5> </h5>
-                <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-                {{ else }}
-                <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
-                    {{ if eq (hasPrefix .URL "mailto:") true }}
-                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                    {{ else }}
-                        <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-                    {{ end }}
-                </li>
-                {{ end }}
+	
+	  <ul class="navbar-nav">
+            {{ $url := .URL | relLangURL }}
+            {{ range .Site.Menus.main }}
+            {{ if eq (.URL ) "/community/become-a-member" }} <!-- Make blog be a button -->
+            <h5> </h5>
+            <a class="btn btn-info " href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+            {{ else }}
+            <li class="nav-item {{ if eq $url (.URL | relLangURL) }}active{{end}}">
+              {{ if eq (hasPrefix .URL "mailto:") true }}
+              <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+              {{ else }}
+              <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
               {{ end }}
-            </ul>
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
         </div>
     </nav>
 
