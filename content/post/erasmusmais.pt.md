@@ -7,14 +7,15 @@ description: "Erasmusmais"
 tags: ["privacidade", "google"]
 ---
 
-* A PrivacyLx informa seus associados e simpatizantes que, na sequência da exclusão de candidatos da Bolsa de Avaliadores da Erasmusmais 
-* que não possuem conta Gmail (ver [aqui](https://www.erasmusmais.pt/post/bolsa-avaliadores-2021-2027 )), denunciou tal prática junto da instituição promotora. 
-* Não tendo obtido uma resposta em tempo útil, reencaminhou o email para a autoridade que a tem sob [tutela](https://eacea.ec.europa.eu/erasmus-plus/contacts ), 
-* assim como os serviços do Ministério da Educação. Novamente, e por não termos obtido uma resposta em tempo útil, decidimos tornar público 
-* neste espaço o conteúdo dos emails. Ponderamos ainda outras soluções, como publicar no [Portal da Queixa](https://portaldaqueixa.com/).
+A PrivacyLx informa seus associados e simpatizantes que, na sequência da exclusão de candidatos da Bolsa de Avaliadores da Erasmusmais que não possuem conta Gmail - ver [aqui](https://www.erasmusmais.pt/post/bolsa-avaliadores-2021-2027), denunciou tal prática junto da instituição promotora. 
 
-Porque observamos o surgimento desta prática ([outro exemplo](https://www.dge.mec.pt/noticias/pixels-tour-projeto-erasmus ), 
-preocupa-nos a sua banalização com a passagem do tempo. Contudo, para termos força precisamos de crescer. Contamos com todos os que se queiram juntar.*
+Não tendo obtido uma resposta em tempo útil, reencaminhamos o email para os serviços do Ministério da Educação, bem como para a autoridade que a tem sob [tutela](https://eacea.ec.europa.eu/erasmus-plus/contacts). Esta teve a amabilidade de nos responder, embora apenas informando que aguardassemos por uma resposta da erasmusmais.pt. Novamente, e por não termos obtido uma resposta em tempo útil, decidimos tornar público neste espaço o conteúdo dos emails, tendo todo este procecesso durado mais de um mês até à data desta publicação. 
+
+Porque observamos o surgimento desta prática, preocupa-nos a futura banalização.
+
+Podemos encontrar ainda outros exemplos, ora repetida pela própria instituição como [noutro exemplo](https://www.dge.mec.pt/noticias/pixels-tour-projeto-erasmus ), cuja inscrição requer o preenchimento de um formulário da Google com o registo de dados pessoais, ora observada em outras instituições de ensino, forçado alunos a comprometer os seus computadores através da instalação de software prejudicial da privacidade, como é exemplo o Google Chrome e que fica registado [nesta recente notícia](https://www.rtp.pt/noticias/pais/faculdade-de-direito-alunos-em-luta-contra-programa-que-vigia-sons-e-movimentos_n1307313). 
+
+Ponderamos ainda outras soluções, como publicar no [Portal da Queixa](https://portaldaqueixa.com/). Contudo, para termos força precisamos de crescer. Contamos com todos os que se queiram aderir à causa ou à Associação PrivacyLX.
 
 ---
 
