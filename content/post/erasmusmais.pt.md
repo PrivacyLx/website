@@ -21,6 +21,7 @@ Ponderamos ainda outras soluções, como publicar no [Portal da Queixa](https://
 
 To: avaliadores.bolsa [at] erasmusmais.pt
 Cc: reclamacoes [at] erasmusmais.pt
+From: Kevin Gallagher
 Subject: Reclamação Sobre Politica de Endereço Eletrónico
 
 Aos responsáveis pela Bolsa de Avaliadores:
@@ -72,7 +73,7 @@ Presidente da PrivacyLx
 --------------------------------------------
 
 To: geral [at] sec-geral.mec.pt
-From: Kevin Gallagher <kevin.gallagher [at] privacylx.org>
+From: Kevin Gallagher
 Subject: Reclamação
 
 Ex.mos Srs,
@@ -108,6 +109,7 @@ Presidente da PrivacyLx
 --------------------------------------------
 
 To: Erasmus site
+From: Kevin Gallagher
 
 To Whom It May Concern:
 
