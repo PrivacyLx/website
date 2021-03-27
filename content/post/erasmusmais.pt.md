@@ -1,9 +1,9 @@
 ---
-title: "Erasmusmais - Fevereiro de 2021"
+title: "Erasmusmais força candidatos a ter conta Google"
 author: "PrivacyLx"
-publishdate: 2021-03-09T12:00:00
-date: "2021-03-09"
-description: "Erasmusmais"
+publishdate: 2021-03-27T12:00:00
+date: "2021-03-27"
+description: "Na sequência da exclusão de candidatos da Bolsa de Avaliadores da Erasmusmais que não possuem conta Gmail, denunciamos tal prática junto da instituição promotora."
 tags: ["privacidade", "google"]
 ---
 
@@ -15,7 +15,7 @@ Porque observamos o surgimento desta prática, preocupa-nos a futura banalizaç�
 
 Podemos encontrar ainda outros exemplos, ora repetida pela própria instituição como [noutro exemplo](https://www.dge.mec.pt/noticias/pixels-tour-projeto-erasmus ), cuja inscrição requer o preenchimento de um formulário da Google com o registo de dados pessoais, ora observada em outras instituições de ensino, forçado alunos a comprometer os seus computadores através da instalação de software prejudicial da privacidade, como é exemplo o Google Chrome e que fica registado [nesta recente notícia](https://www.rtp.pt/noticias/pais/faculdade-de-direito-alunos-em-luta-contra-programa-que-vigia-sons-e-movimentos_n1307313). 
 
-Ponderamos ainda outras soluções, como publicar no [Portal da Queixa](https://portaldaqueixa.com/). Contudo, para termos força precisamos de crescer. Contamos com todos os que se queiram aderir à causa ou à Associação PrivacyLX.
+Ponderamos ainda outras soluções, como publicar no [Portal da Queixa](https://portaldaqueixa.com/). Contudo, para termos força precisamos de crescer. Contamos com todos os que se queiram aderir à causa ou à Associação PrivacyLx.
 
 ---
 
