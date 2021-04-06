@@ -161,6 +161,9 @@
 - id: rocketchat-privacylx
   translation: "RocketChat"
 
+- id: mattermost-privacylx
+  translation: "Mattermost"
+
 - id: become-a-member
   translation: "Become a member"
 
