@@ -1,5 +1,5 @@
 ---
-title: "Comunicado de repúdio do contrato celebrado com a Cloudflare"
+title: "Censos 2021: Comunicado de repúdio do contrato celebrado com a Cloudflare"
 date: 2021-05-10
 publishdate: 2021-05-10
 draft: false
