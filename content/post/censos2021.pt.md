@@ -4,7 +4,7 @@ date: 2021-05-10
 publishdate: 2021-05-10
 draft: false
 author: PrivacyLx
-description: "A associação PrivacyLx (Defend our Privacy Association) publica neste espaço o relativo ao contrato celebrado pelo Instituto Nacional de Estatítica (INE), e denunciado pela Comissão Nacional de Protecção de Dados (CNPD)."
+description: "A associação PrivacyLx (Defend our Privacy Association) publica neste espaço o seu desagrado relativo ao contrato celebrado pelo Instituto Nacional de Estatítica (INE), e denunciado pela Comissão Nacional de Protecção de Dados (CNPD)."
 ---
 
 A associação PrivacyLx (Defend our Privacy Association) publica neste espaço o seu desagrado, 
