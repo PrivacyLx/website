@@ -1,6 +1,6 @@
 ---
-title: "Join us!"
-author: "Direction"
+title: "How to help"
+author: "The PrivacyLX Board of Directors"
 image: "/img/PrivacyLxLogoWhite.svg"
 hidedate: true
 preview: true
@@ -18,6 +18,40 @@ privacy*.
 digital privacy and security as fundamental rights for a
 free society through education, research and development of
 tools for safeguarding them.*
+
+#### How can I help?
+
+Thank you for your interest! 
+
+There are a few ways that you can help PrivacyLx work towards its mission of
+defending digital privacy and security. If you are interested in helping us
+one time with a monetary contribution you can [Donate](#donate). If you would
+prefer to work with us towards a more private and secure digital space or
+support us with yearly monetary contributions you should consider
+[joining](#why-join).
+
+#### Donate 
+
+If you like our mission but are unable to spend time working with us, you can
+still support us! We currently are accepting donations from anybody who is
+interested in helping us fight for a more private and secure Internet. Currently
+we only accept donations via cash or bank transfer, however we will be adding
+more private ways to donate digitally soon.
+
+##### Cash
+
+To donate by cash please come to one of our events and inform a PrivacyLX member
+that you wish to donate.
+
+##### Bank Transfer
+
+To donate by bank transfer please send the amount to:
+
+> PT50 0035 0647 00005627 330 11
+
+The BIC for our account is:
+
+> CGDIPTPL
 
 #### Why join?
 
@@ -53,18 +87,25 @@ events or participate in [forum](https://cafe.privacylx.org/) !
 And when you're ready to join, send us an e-mail to [direcao@privacylx.org](mailto:direcao@privacylx.org) expressing your interest in being a member.
 You will be sent a short form to fill out and and then you should wait for a response from the board. You will receive a reply within 15 days.
 
-#### Quotas
+#### Member Dues
 
-* **25€/year or more** - Regular quota
+* **25€/year or more** - Regular member dues
 * **12€/year or more** - Under 26 years old
 
 The funds are used to support the organization, conduct workshops and
 other events for the general public and their use will be decided
 democratically.
 
-**Note:** A quota reduction may also be requested for others
+**Note:** A dues reduction may also be requested for others
 situations (by addressing a member of the board).
 
+Member dues may be paid via bank transfer to the following IBAN:
+
+> PT50 0035 0647 00005627 330 11
+
+The BIC for our account is:
+
+> CGDIPTPL
 
 #### Rights and obligations
 
