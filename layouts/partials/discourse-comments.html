@@ -1,4 +1,4 @@
-{{ if .Params.comments }}
+{{ if or (not (isset .Params.comments) (.Params.comments }}
 
 <!-- so only posts arfter this commit are affected-->
   
