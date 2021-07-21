@@ -1,4 +1,4 @@
-{{ if .Params.comments }}
+{{ if or (not (isset .Params "comments")) (.Params.comments) }}
 
 <!-- so only posts arfter this commit are affected-->
   
@@ -14,4 +14,9 @@
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
+<noscript>
+<iframe src="https://cafe.privacylx.org/embed/comments?embed_url={{ .URL | relLangURL }}&amp;discourse_username=system"
+id="discourse-embed-frame" scrolling="yes" referrerpolicy="no-referrer-when-downgrade"
+width="100%" height="400px" frameborder="0"></iframe>
+</noscript>
 {{ end }}
