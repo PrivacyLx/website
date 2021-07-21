@@ -1,6 +1,6 @@
 ---
-title: "Junta-te a nós"
-author: "Direção"
+title: "Como nos Ajudar"
+author: "A Direção da PrivacyLX"
 image: "/img/PrivacyLxLogoWhite.svg"
 hidedate: true
 preview: true
@@ -18,6 +18,40 @@ Association, NIPC 515584550)
 privacidade e segurança digital como direitos fundamentais para uma
 sociedade livre através da educação, investigação e desenvolvimento de
 ferramentas para a sua proteção.*
+
+#### Como podes ajudar
+
+Obrigado pelo teu interesse!
+
+Há algumas formas de ajudar a PrivacyLx a trabalhar para a nossa missão de
+defesa da privacidade e segurança digitais. Se estiveres interessado em
+ajudar-nos uma vez com uma contribuição monetária, podes [doar](#doar). Se
+preferires trabalhar connosco em prol de um espaço digital mais privado e seguro
+ou apoiar-nos com contribuições monetárias anuais, deves considerar [juntar-te a
+nós](#porquê-juntares-te).
+
+#### Doar
+
+Se gostas da nossa missão mas não podes passar tempo a trabalhar connosco, ainda
+nos podes apoiar! Estamos a aceitar doações de qualquer pessoa que esteja
+interessada em ajudar-nos a lutar por uma Internet mais privada e segura.
+Actualmente só aceitamos donativos em dinheiro ou por transferência bancária,
+mas em breve acrescentaremos mais formas privadas de doar digitalmente.
+
+##### Em Dinheiro
+
+Para doar em dinheiro, por favor vem a um dos nossos eventos e informa um
+membro da PrivacyLX que desejas doar.
+
+##### Transferência Bancária
+
+Para doar por transferência bancária, envia o montante para:
+
+> PT50 0035 0647 00005627 330 11
+
+O BIC para a nossa conta é:
+
+> CGDIPTPL
 
 #### Porquê juntares-te?
 
@@ -70,6 +104,13 @@ decidida democraticamente.
 **Nota:** Também poderá ser pedida uma redução de quotas para outras
 situações (bastando para isso endereçar um membro da direção).
 
+As quotas podem ser pagas através de transferência bancária para:
+
+> PT50 0035 0647 00005627 330 11
+
+O BIC para a nossa conta é:
+
+> CGDIPTPL
 
 #### Direitos e obrigações
 

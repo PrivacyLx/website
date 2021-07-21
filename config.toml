@@ -40,7 +40,7 @@ theme = "hugo-bootstrap"
     weight = 4
   [[languages.pt.menu.main]]
     url = "/community/become-a-member"
-    name = "Associa-te!"
+    name = "Ajudar!"
     weight = 5
 [languages.en]
   languageName = "English"
@@ -64,7 +64,7 @@ theme = "hugo-bootstrap"
     weight = 4
   [[languages.en.menu.main]]
     url = "/community/become-a-member"
-    name = "Become a member!"
+    name = "Help PrivacyLX!"
     weight = 5
 
 [permalinks]
