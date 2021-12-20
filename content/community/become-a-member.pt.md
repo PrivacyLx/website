@@ -121,5 +121,5 @@ interno](/about/regulamento-interno).
 
 #### Questões adicionais
 Qualquer questão adicional é sempre bem-vinda nas [nossas plataformas
-de comunicação](/community/) o através do nosso email
+de comunicação](/community/) ou através do nosso email
 contact[at]privacylx.org.
