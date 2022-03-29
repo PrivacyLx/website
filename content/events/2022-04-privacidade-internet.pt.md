@@ -19,7 +19,7 @@ Hora: 15:00 - 17:00\
 Local: Junta de Freguesia São Domingos de Benfica - Delegação das Laranjeiras, Rua Lúcio de Azevedo 12 - A, Lisboa
 
 ### Registo gratuito
-**Pode registar-se em https://tickets.privacylx.org/abril-22/**
+**Pode registar-se em https://tickets.privacylx.org/abril-22/** (14 lugares)
 
 Típicamente os nossos eventos são de entrada livre, mas por requisito do espaço este terá de ter registo.
 Utilizamos a plataforma [Pretix](https://pretix.eu/), que para além de ser software livre, e ser uma empresa alemã, tem [uma política de privacidade transparente](https://pretix.eu/about/en/privacy) (em inglês, apenas) e recolhe apenas os mínimos. Apenas um email é obrigatório para receber o bilhete.
