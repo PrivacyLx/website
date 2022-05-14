@@ -14,7 +14,7 @@ You can read more about it and sign it at [reclaimyourface.eu](https://reclaimyo
 
 ### Signature Collection
 
-Our team will be going to the streets in Lisbon to collect signatures. And we've already started. On the 25th of April (freedom day in Portugal). We walked along *Restauradores* collecting signatures with the following poster:
+Our team will be going to the streets in Lisbon to collect signatures. And we've already started! On the 25th of April (freedom day in Portugal) we walked along *Restauradores* collecting signatures with the following poster:
 
 ![imagem de póster da campanha](/img/RYF_25_abril.png)
 
