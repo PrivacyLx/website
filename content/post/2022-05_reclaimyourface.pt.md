@@ -8,13 +8,13 @@ tags: ["mass surveillance", "biometrics"]
 
 ### A campanha Reclaim Your Face
 
-Trata-se de uma iniciativa da sociedade civil tendo em vista interdir práticas de vigilância biométrica maciça.
+Trata-se de uma iniciativa da sociedade civil tendo em vista interdir práticas de vigilância biométrica maciça como reconhecimento facial.
 
 Podem ler mais e assinar aqui: https://reclaimyourface.eu/pt/
 
 ### Recolha de Assinaturas
 
-A PrivacyLx vai andar pelas ruas a recolher assinaturas. Aliás, começamos já a reclha no dia 25 de abril nos Restauradores, em Lisboa com o seguinte cartaz:
+A PrivacyLx vai andar pelas ruas a recolher assinaturas. Aliás, começamos já a recolha no dia 25 de abril nos Restauradores, em Lisboa com o seguinte cartaz:
 
 
 ![imagem de póster da campanha](/img/RYF_25_abril.png)
