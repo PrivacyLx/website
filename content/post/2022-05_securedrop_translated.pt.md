@@ -56,7 +56,7 @@ No gráfico, podemos ver que o número de utilizadores de Tor diários em Portug
 
 É preciso continuar esta tendência até atingirmos os 10 mil utilizadores diários, que é o valor de referência que a Freedom of the Press Foundation recomenda para ser seguro utilizar o SecureDrop.
 
-A imprensa pode ter o mair impacto na divulgação desta ferramenta, essencial para muitos ativistas, jornalistas e também cidadãos comuns, para proteger o seu anonimato online. Ao informarem-se e informarem a população em geral...
+A imprensa pode ter o maior impacto na divulgação desta ferramenta, essencial para muitos ativistas, jornalistas e também cidadãos comuns, para proteger o seu anonimato online. Ao informarem-se e informarem a população em geral...
 
 ### 2. Cativar orgnizações jornalísticas
 
