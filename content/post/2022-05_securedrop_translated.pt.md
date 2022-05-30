@@ -1,7 +1,7 @@
 ---
 title: "SecureDrop Disponível Agora em Português"
 author: "PrivacyLx"
-date: '2022-05-27'
+date: '2022-05-31'
 image: /img/securedrop-background.png
 preview: true
 tags: ["securedrop", "whistleblowing"]
