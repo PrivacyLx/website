@@ -45,7 +45,7 @@ O [Navegador Tor](https://torproject.org/), permite à fonte aceder anonimamente
 Se não hover multidão, mas sim um pequeno agrupamento de pessoas, não somos tão anónimos. Se há poucos poucos utilizadores acedem à Internet através do Tor, e pelas mesmas razões (ativistas, denunciantes, jornalistas), o mero facto de usar o Tor, pode ser dizer muito sobre quem o utiliza.
 
 Por isso, precisamos de mais pessoas a usar o Tor, e por mais razões. Pessoas a querem pesquisar anónimamente sobre problemas de saúde que experienciam, vítimas de violência doméstica possam conversar com linhas de apoio sem deixar rasto em dispositivos partilhados, e muitos outros que apenas querem proteger-se de gigantes tecnológicas nos querem roubar os nossos dados.
-
+ 
 Em suma, o Tor é para todos e quantos mais, melhor e mais privado é. Mesmo que não sintamos que precisamos de usar o Tor por nós próprios, devemos fazê-lo como um ato cívico. Usar a nossa posição de privilégio de não ser alvo de perseguição, para proteger a segurança e anonimato dos mais vulneraveis (ativistas, denunciantes, vítimas, etc.). 
 
 Em Portugal, atualmente temos cerca de 6000 utilizadores diários. Sabemos isto porque o Tor implementa técnicas de contagem de utilizadores que protegem a privacidade dos mesmos(obtido em [metrics.torproject.org](https://metrics.torproject.org/userstats-relay-country.html?start=2012-02-26&end=2022-05-27&country=pt&events=off): 
