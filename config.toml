@@ -19,7 +19,7 @@ theme = "hugo-bootstrap"
 
 [languages]
 [languages.pt]
-  languageName = "Portugês"
+  languageName = "Português"
   weight = 13
   url = "/"
   [[languages.pt.menu.main]]
