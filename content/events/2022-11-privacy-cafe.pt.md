@@ -20,7 +20,7 @@ Teremos vários workshops, palestras, conversas e projecção de filmes. Alguns 
 ## Sessões paralelas (15h-19h)
 
 
-**Os Básicos da Segurança Digital** - Vem aprende sobre como te podes proteger online de empresas que recolhem dados, hackers, entre outras ameaças online.
+**Os Básicos da Segurança Digital** - Vem aprender sobre como te podes proteger online de empresas que recolhem dados, hackers, entre outras ameaças online.
 
 **Porque é que privacidade é importante e como é que a lei nos pode ajudar?*** - porque é que a privacidade é fundamental para uma sociedade livre e democrática? E que leis existem para nos proteger?
 
