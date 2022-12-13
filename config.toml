@@ -83,8 +83,8 @@ theme = "hugo-bootstrap"
   ghrepo = "https://github.com/PrivacyLx/website/"
 
   # Onion service URLs
-  onionv2 = "http://ojr4ex25mf4tuxtm.onion"
-  onionv3 = "http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion"
+##  onionv2 = "http://ojr4ex25mf4tuxtm.onion"
+##  onionv3 = "http://p2jpwodl3q3kghx562tiuxert6azh4tpwz4hcu5jcypbckaqigcjf4qd.onion"
 
   # Federated Social Media
   mastodon = "https://social.privacytools.io/@PrivacyLX"
