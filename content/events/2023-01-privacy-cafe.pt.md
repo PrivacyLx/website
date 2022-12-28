@@ -22,7 +22,7 @@ Alguns dos temas abordados:
 
   - **Os Básicos da Segurança Digital** - Vem aprender sobre como te podes proteger online de empresas que recolhem dados, hackers, entre outras ameaças online.
   - **Porque é que privacidade é importante e como é que a lei nos pode ajudar?** - porque é que a privacidade é fundamental para uma sociedade livre e democrática? E que leis existem para nos proteger?
-
+  - **Conceitos e dicas sobre Segurança Digital** - Qual a diferença entre privado e anónimo? Encriptado é seguro? O que é um modelo de ameaça? Como distinguir ferramentas seguras e inseguras? Vem clarificar alguns conceitos e perceber melhor por onde podes começar a construir práticas digitais mais seguras.
 
 
 **Data:** Sábado, 07 de Janeiro de 2023\
