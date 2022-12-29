@@ -8,10 +8,6 @@ description: "Dos mais novos aos mais velhos, do experiente ao principiante abso
 preview: true
 ---
 
-
-
-Aqui se segue uma potencial descrição do evento e a imagem em anexo:
-
 Vem conhecer os perigos da era digital, bem como algumas dicas para te protegeres. Não te preocupes porque desde os mais novos aos mais velhos, do experiente ao principiante absoluto, todos podem aprender algo novo no Privacy Café.
 
 *Entrada livre:* O evento terá início às 15 horas e terminará por volta das 19 horas. Não será necessária inscrição prévia, o evento é gratuito e podes aparecer a qualquer altura.
