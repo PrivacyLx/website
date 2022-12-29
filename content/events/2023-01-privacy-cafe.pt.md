@@ -22,7 +22,7 @@ Alguns dos temas abordados:
 
 
 **Data:** Sábado, 07 de Janeiro de 2023\
-**Time:** 15:00 - 20:00\
+**Time:** 15:00 - 19:00\
 **Local:** Biblioteca das Galveias
 
 
