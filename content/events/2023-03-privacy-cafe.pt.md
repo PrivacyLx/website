@@ -26,7 +26,7 @@ Alguns dos temas abordados:
 **Local:** Biblioteca das Galveias
 
 
-![Imagem privacy-cafe](/img/2023-01-privacy-cafe.png)
+![Imagem privacy-cafe](/img/2023-03-privacy-cafe.png)
 
 ---
 
