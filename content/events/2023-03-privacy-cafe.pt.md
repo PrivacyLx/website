@@ -14,12 +14,12 @@ Vem conhecer os perigos da era digital, bem como algumas dicas para te protegere
 
 Uma tarde dedicada a workshops com diversas temáticas, passando pela importância da privacidade para uma sociedade livre e democrática, a atual realidade portuguesa e as leis que protegem a nossa privacidade bem como a segurança dos nossos dados pessoais, as associações e a Autoridade Competente com quem podemos contar, e ainda um conjunto de boas práticas de segurança digital.
 
-Alguns dos temas abordados:
-
-  - **Navegar anónimamente na net e outros Básicos da Segurança Digital** - Vem aprender sobre como te podes proteger online de empresas que recolhem dados, hackers, entre outras ameaças online, através do [Tor Browser](https://torproject.org) e outras ferramentas.
-  - **Porque é que privacidade é importante e como é que a lei nos pode ajudar?** - porque é que a privacidade é fundamental para uma sociedade livre e democrática? E que leis existem para nos proteger?
-  - **Conceitos e dicas sobre Segurança Digital** - Qual a diferença entre privado e anónimo? Encriptado é seguro? O que é um modelo de ameaça? Como distinguir ferramentas seguras e inseguras? Vem clarificar alguns conceitos e perceber melhor por onde podes começar a construir práticas digitais mais seguras.
-
+Esta segunda sessão do ano vai incluir:
+- Deixar o Google - como construir a nossa própria nuvem (Parte 1) - Guia para principiantes 101
+- Navegar a web em segurança com o Firefox
+- Introdução ao [Tor](https://torproject.org)
+- Videovigilância em Portugal
+- O Menu: Privacidade, Segurança, Liberdade e Evitar a Censura
 
 **Data:** Sábado, 04 de Março de 2023\
 **Time:** 15:00 - 19:00\
