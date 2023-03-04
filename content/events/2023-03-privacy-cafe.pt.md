@@ -15,11 +15,11 @@ Vem conhecer os perigos da era digital, bem como algumas dicas para te protegere
 Uma tarde dedicada a workshops com diversas temáticas, passando pela importância da privacidade para uma sociedade livre e democrática, a atual realidade portuguesa e as leis que protegem a nossa privacidade bem como a segurança dos nossos dados pessoais, as associações e a Autoridade Competente com quem podemos contar, e ainda um conjunto de boas práticas de segurança digital.
 
 Esta segunda sessão do ano vai incluir:
-- Deixar o Google - como construir a nossa própria nuvem (Parte 1) - Guia para principiantes 101
-- Navegar a web em segurança com o Firefox
-- Introdução ao [Tor](https://torproject.org)
-- Videovigilância em Portugal
-- O Menu: Privacidade, Segurança, Liberdade e Evitar a Censura
+  - Deixar o Google - como construir a nossa própria nuvem (Parte 1) - Guia para principiantes 101
+  - Navegar a web em segurança com o Firefox
+  - Introdução ao [Tor](https://torproject.org)
+  - Videovigilância em Portugal
+  - O Menu: Privacidade, Segurança, Liberdade e Evitar a Censura
 
 **Data:** Sábado, 04 de Março de 2023\
 **Time:** 15:00 - 19:00\
