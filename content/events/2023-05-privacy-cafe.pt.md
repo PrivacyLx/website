@@ -1,5 +1,5 @@
 ---
-title: "(Maio) Privacy Café: Workshops de Segurança na Internet"
+title: "6 Maio | Privacy Café: Workshops de Segurança na Internet"
 author: "PrivacyLx"
 publishdate: "2023-04-17"
 date: "2023-05-06T15:00:00-19:00"
@@ -17,15 +17,15 @@ Uma tarde dedicada a workshops com diversas temáticas, passando pela importânc
 
 **Data:** Sábado, 06 de Maio de 2023\
 **Time:** 15:00 - 19:00\
-**Local:** Biblioteca das Galveias
+**Local:** <strike>Biblioteca das Galveias</strike> [Makers in Little Lisbon (MILL)](https://mill.pt/contactos/)
 
 Esta terceira sessão do ano vai incluir:
 
-  - **Introdução ao Tor** - introdução ao browser anónimo Tor Browser e a rede Tor
+  - **Introdução ao Tor** - introdução ao browser anónimo Tor Browser e a rede Tor.
 
-  - **Videovigilância em Portugal** - apresentação sobre o estado atual, para onde vamos e apresentação de projeto de monitorização de videovigilância em Pública
+  - **Videovigilância em Portugal** - apresentação sobre o estado atual, para onde vamos e apresentação de projeto de monitorização de videovigilância na via pública.
 
-  - **GDPR.observer** - um projeto cujo objetivo é monitorizar websites de entidades públicas e informar os responsáveis quando estão a dar track dos seus utilizadores (potencialmente violando o Regulamento Geral de Proteção de dados).
+  - **GDPR.observer** - um projeto cujo objetivo é monitorizar websites de entidades públicas e alertar os responsáveis, caso estejam vigiar os seus utilizadores através de cookies e scripts como Google Analytics (potencialmente violando o Regulamento Geral de Proteção de dados).
 
 
 ---
