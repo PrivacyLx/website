@@ -10,7 +10,7 @@ preview: true
 
 Vem conhecer os perigos da era digital, bem como algumas dicas para te protegeres. Não te preocupes porque desde os mais novos aos mais velhos, do experiente ao principiante absoluto, todos podem aprender algo novo no Privacy Café.
 
-É tarde dedicada a workshops com diversas temáticas, passando pela importância da privacidade para uma sociedade livre e democrática, a atual realidade portuguesa e as leis que protegem a nossa privacidade bem como a segurança dos nossos dados pessoais, as associações e a Autoridade Competente com quem podemos contar, e ainda um conjunto de boas práticas de segurança digital.
+Será uma tarde dedicada a workshops com diversas temáticas, passando pela importância da privacidade para uma sociedade livre e democrática, a atual realidade portuguesa e as leis que protegem a nossa privacidade bem como a segurança dos nossos dados pessoais, as associações e a Autoridade Competente com quem podemos contar, e ainda um conjunto de boas práticas de segurança digital.
 
 *Entrada livre:* O evento terá início às 15 horas e terminará por volta das 19 horas. Não será necessária inscrição prévia, o evento é gratuito e podes aparecer a qualquer altura. As sessões típicamente começam à hora (por exemplo, às 15h, outra às 16h, etc.)
 
