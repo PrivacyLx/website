@@ -20,7 +20,7 @@ Será uma tarde dedicada a workshops com diversas temáticas, passando pela impo
 **Local:** Biblioteca das Galveias
 
 
-## Tópicos
+## Workshops / sessões
 
 ### Introdução ao Tor
 Introdução ao browser anónimo Tor Browser e a rede Tor
