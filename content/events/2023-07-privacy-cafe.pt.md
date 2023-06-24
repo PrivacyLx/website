@@ -19,6 +19,23 @@ Será uma tarde dedicada a workshops com diversas temáticas, passando pela impo
 **Time:** 15:00 - 19:00\
 **Local:** Biblioteca das Galveias
 
+
+## Tópicos
+
+### Introdução ao Tor
+Introdução ao browser anónimo Tor Browser e a rede Tor
+
+### GDPR.observer
+Apresentação de um projeto cujo objetivo é monitorizar websites
+de entidades públicas e alertar os responsáveis, caso estejam
+vigiar os seus utilizadores através de cookies e scripts como
+Google Analytics (potencialmente violando o Regulamento Geral
+de Proteção de dados).
+
+### Básicos de Segurança Digital
+
+### Introdução ao NextCloud
+
 ---
 
 Queres propor um tema, workshop, ou ajudar de qualquer outra forma? Ótimo!
