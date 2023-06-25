@@ -30,7 +30,7 @@ vigiar os seus utilizadores através de cookies e scripts como
 Google Analytics (potencialmente violando o Regulamento Geral
 de Proteção de dados).
 
-**ásicos de Segurança Digital**
+**Básicos de Segurança Digital**
 
 **Introdução ao NextCloud**
 
