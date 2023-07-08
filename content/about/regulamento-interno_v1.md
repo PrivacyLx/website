@@ -205,8 +205,8 @@ rss_exclude: true
       1. A eleição será feita em Assembleia Geral, na data e local indicados na
          respectiva convocatória, tendo direito a participar nela todos os
          associados da associação com as suas obrigações em dia, à data da
-         conocação da eleição.
-      2. Voto por procuração: se um membro não poder estar presente, pode nomear
+         convocação da eleição.
+      2. Voto por procuração: se um membro não puder estar presente, pode nomear
          alguém para votar ou aceitar a nomeação em seu nome.
       3. A votação é feita com recurso ao voto secreto.
       4. Será vencedora a lista que congregar a maioria dos votos validamente
