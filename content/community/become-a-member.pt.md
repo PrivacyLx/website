@@ -10,7 +10,7 @@ rss_exclude: true
 
 Somos uma associação sem fins lucrativos e *queremos a tua ajuda para defender
 a privacidade*. (oficialmente Defend our Privacy
-Association, NIPC 515584550) 
+Association, NIPC 515584550)
 
 #### A nossa missão
 
@@ -38,20 +38,11 @@ interessada em ajudar-nos a lutar por uma Internet mais privada e segura.
 Actualmente só aceitamos donativos em dinheiro ou por transferência bancária,
 mas em breve acrescentaremos mais formas privadas de doar digitalmente.
 
-##### Em Dinheiro
+- **Dinheiro (numerário)** - entregue a um membro da direção da PrivacyLx, por exemplo durante um evento. Solicita sempre um recibo.
 
-Para doar em dinheiro, por favor vem a um dos nossos eventos e informa um
-membro da PrivacyLX que desejas doar.
+- **Cartão de Crédito** - podem ser feitos através do [Open Collective](https://opencollective.com/privacylx/contribute/membro-da-privacylx-62800). **Nota** por favor, não preenchas o teu nome. Caso contrário, ficará visível na página de apoiantes.
 
-##### Transferência Bancária
-
-Para doar por transferência bancária, envia o montante para:
-
-> PT50 0035 0647 00005627 330 11
-
-O BIC para a nossa conta é:
-
-> CGDIPTPL
+- **Transferência Bancária** - envia o montante para *PT50 0035 0647 00005627 330 11* (BIC: CGDIPTPL). Se estiveres a doar para te inscreveres como membro da PrivacyLx envia-nos um mail com o comprovativo, por favor (para socios[a]privacylx.org)
 
 #### Porquê juntares-te?
 
@@ -89,7 +80,7 @@ Se quiseres juntar-te à nossa associação, aparece antes nos nossos
 eventos ou participa no [fórum](https://cafe.privacylx.org/) !
 
 E quando quiseres conhecer todos os cantos da nossa casa (tornar-te
-sócio), envia-nos um e-mail para [direcao@privacylx.org](mailto:direcao@privacylx.org) manifestando o teu interesse em seres membro.
+sócio), envia-nos um e-mail para socios[a]privacylx.org manifestando o teu interesse em seres membro.
 Ser-te-á te enviado um pequeno formulário que deverás enviar preenchido e aguardar pela resposta da direcção. Receberás uma resposta em 15 dias.
 
 #### Quotas
@@ -104,13 +95,7 @@ decidida democraticamente.
 **Nota:** Também poderá ser pedida uma redução de quotas para outras
 situações (bastando para isso endereçar um membro da direção).
 
-As quotas podem ser pagas através de transferência bancária para:
-
-> PT50 0035 0647 00005627 330 11
-
-O BIC para a nossa conta é:
-
-> CGDIPTPL
+O pagamento das quotas é feito através de qualquer meio disponível na secção "Doar", acima listada.
 
 #### Direitos e obrigações
 
@@ -122,4 +107,4 @@ interno](/about/regulamento-interno).
 #### Questões adicionais
 Qualquer questão adicional é sempre bem-vinda nas [nossas plataformas
 de comunicação](/community/) ou através do nosso email
-contact[at]privacylx.org.
+contact[a]privacylx.org.
