@@ -21,7 +21,7 @@ tools for safeguarding them.*
 
 #### How can I help?
 
-Thank you for your interest! 
+Thank you for your interest!
 
 There are a few ways that you can help PrivacyLx work towards its mission of
 defending digital privacy and security. If you are interested in helping us
@@ -30,7 +30,7 @@ prefer to work with us towards a more private and secure digital space or
 support us with yearly monetary contributions you should consider
 [joining](#why-join).
 
-#### Donate 
+#### Donate
 
 If you like our mission but are unable to spend time working with us, you can
 still support us! We currently are accepting donations from anybody who is
@@ -38,20 +38,11 @@ interested in helping us fight for a more private and secure Internet. Currently
 we only accept donations via cash or bank transfer, however we will be adding
 more private ways to donate digitally soon.
 
-##### Cash
+  - **Cash** give it to one of the board members for example, during an event. Make sure you get a receipt.
 
-To donate by cash please come to one of our events and inform a PrivacyLX member
-that you wish to donate.
+  - **Credit Card** via our [Open Collective](https://opencollective.com/privacylx/contribute/membro-da-privacylx-62800). **Note** please don't fill in your name there, otherwise it will be publicly listed on the page of contributors.
 
-##### Bank Transfer
-
-To donate by bank transfer please send the amount to:
-
-> PT50 0035 0647 00005627 330 11
-
-The BIC for our account is:
-
-> CGDIPTPL
+  - **Bank Transfer** to the IBAN *PT50 0035 0647 00005627 330 11* (BIC: CGDIPTPL). If you are donating to register as a member of PrivacyLx, please send us an email with a receipt (to socios[at]privacylx.org)
 
 #### Why join?
 
@@ -84,7 +75,7 @@ to know technology, programming, digital security or related issues.
 If you want to join our association, please first appear in our
 events or participate in [forum](https://cafe.privacylx.org/) !
 
-And when you're ready to join, send us an e-mail to [direcao@privacylx.org](mailto:direcao@privacylx.org) expressing your interest in being a member.
+And when you're ready to join, send us an e-mail to socios[at]privacylx.org expressing your interest in being a member.
 You will be sent a short form to fill out and and then you should wait for a response from the board. You will receive a reply within 15 days.
 
 #### Member Dues
@@ -99,13 +90,7 @@ democratically.
 **Note:** A dues reduction may also be requested for others
 situations (by addressing a member of the board).
 
-Member dues may be paid via bank transfer to the following IBAN:
-
-> PT50 0035 0647 00005627 330 11
-
-The BIC for our account is:
-
-> CGDIPTPL
+Member dues may be paid in any of the ways listed above, in the "Doate" section.
 
 #### Rights and obligations
 
