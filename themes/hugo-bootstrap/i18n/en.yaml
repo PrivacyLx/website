@@ -61,6 +61,14 @@
 - id: next-events
   translation: "Next Events"
 
+- id: follow-next-events
+  translation: "Get notified of our next events"
+
+- id: follow-us-mastodon
+  translation: "Follow us on "
+
+- id: follow-us-signal
+  translation: "Send us \"/subscribe en\" on Signal:"
 
 - id: article12
   translation: "No one shall be subjected to arbitrary interference with his privacy,

@@ -61,6 +61,15 @@
 - id: next-events
   translation: "Próximos Eventos"
 
+- id: follow-next-events
+  translation: "Fica a par dos próximos eventos"
+
+- id: follow-us-mastodon
+  translation: "Segue-nos em "
+
+- id: follow-us-signal
+  translation: "Envia \"/subscribe pt\" via Signal:"
+
 - id: article12
   translation: "Ninguém sofrerá intromissões arbitrárias na sua vida privada,
   na sua família, no seu domicílio ou na sua correspondência, nem ataques
