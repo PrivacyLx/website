@@ -1,5 +1,5 @@
 ---
-title: "25 maio | Dia da Communidade do Tor"
+title: "25 maio | Dia da Comunidade do Tor"
 author: "PrivacyLx"
 publishdate: "2024-05-15"
 date: "2024-05-25T09:00:00-17:00"
