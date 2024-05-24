@@ -42,20 +42,35 @@ Se queres saber mais sobre como o Tor funciona, o seu impacto em Portugal, como 
 - Teremos palestras do Projeto Tor e de membros da comunidade em Portugal. 
 
 09h00 - 09h15: Welcome by Kevin and Meskio
+
 09h15 - 10h00: Workshop: How to use Tor by Juga
+
 10h00 - 10h15: Break and discussion
+
 10h15 - 10h30: Run a Tor relay at your University by Roger
+
 10h30 - 11h00: Academic work in anti-censorship by Afonso
+
 11h00 - 11h15: Break and discussion
+
 11h15 - 11h45: How to report a bug by Emma
+
 11h45 - 12h15: Localization Work in Tor by Cacu
+
 12h15 - 14h15: Lunch break (Lunch not provided)
+
 14h15 - 14h30: Como funciona o Tor por Kevin
+
 14h30 - 15h00: Snowflake por Gus
+
 15h00 - 15h30: Pausa e conversa
+
 15h30 - 16h00: Experiência de correr 30 bridges do Snowflake por Cisco e Vasilis
+
 16h00 - 16h30: Pausa e conversa
+
 16h30 - 17h00: Serviços de Onion por Rhatto
+
 17h00: Encerramento do evento por Kevin and Meskio
 
 Estamos ansiosos por vos encontrar no Dia da Comunidade do Tor!
