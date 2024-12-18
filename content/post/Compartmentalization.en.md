@@ -70,14 +70,14 @@ In the [LGBTQ+](https://en.wikipedia.org/wiki/LGBTQ) community, *outing* refers
 to being exposed as LGBTQ+ against your will. Though the term originates with
 the LGBTQ+ community, it can apply to being revealed to have an association with
 any one of various minorities, such as being revealed to belong to an oppressed
-ethnic minority, or belonging to a oppressed minority religion. In most
+ethnic minority, or belonging to an oppressed minority religion. In most
 historical uses of the term, [*outing*](https://en.wikipedia.org/wiki/Outing)
 has meant a deliberate, malicious revealing of a person's belonging to a
 minority group (usually LGBTQ+) via a public channel or media communication.
 However, recently there has also been discussion of *accidental outing,* usually
 involving digital communications or websites. This is when a person is
 *accidentally* revealed to be part of a minority group, either because of some
-user-end mistake, a bug or glitch in software, or because of the delivery of
+end-user mistake, a bug or glitch in software, or because of the delivery of
 interest-based content feeds, personalized ads, or other recommendation engines.
 
 ## This case of accidental outing
@@ -112,7 +112,7 @@ non-experts avoid this from happening? Hell, how can experts avoid this from
 happening without investing larges amount of effort?
 
 All of this thinking made my realize that compartmentalization is actually a
-like a cat and mouse game. When a cat wishes to stop a mouse from stealing food
+cat and mouse game. When a cat wishes to stop a mouse from stealing food
 from a home, the cat needs to attentively watch all possible entrances a mouse
 could enter from, while the mouse only needs to find one entrance that the cat
 isn't currently watching. This situation is inherently mouse-favored, since the
@@ -128,7 +128,7 @@ compartmentalization as a strategy, and begin to also consider other strategies.
 ## What now?
 
 This change brings a question: if compartmentalization is a cat and mouse game,
-what are implications for the common user? For the longest time I used to
+what are the implications for the common user? For the longest time I used to
 believe that we cannot rely on law and legal systems to protect individual
 privacy, and that we must rely on technology to protect us. To an extent I do
 still believe this; companies break the law all of the time, especially when the
@@ -143,7 +143,7 @@ is unavoidable, how can we proceed?
 
 At this point I believe that there needs to be a multi-step approach in order 
 to combat accidental outing, as well as the tracking that enables it. First, we
-need to study the avenues through which accidental outing occurs. While
+need to study the avenues through which accidental outing occurs. While we
 identify this, we must also have active conversations with politicians in order
 to convince them of the dangers that this tracking has, especially for
 oppressed minorities, and especially with the rise of fascism in Europe and the
